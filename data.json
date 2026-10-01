@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-02 05:38 HKT",
- "amazon_data_updated_hkt": "2026-10-02 05:38 HKT",
+ "price_updated_hkt": "2026-10-02 06:08 HKT",
+ "amazon_data_updated_hkt": "2026-10-02 06:08 HKT",
  "hk_data_updated_hkt": "2026-10-01 10:05 HKT",
  "fx": {
   "USD": 7.8467,
-  "EUR": 8.8949,
-  "GBP": 10.4098
+  "EUR": 8.8984,
+  "GBP": 10.4095
  },
- "fx_text": "匯率：1 USD ≈ HK$7.8467、1 EUR ≈ HK$8.8949、1 GBP ≈ HK$10.4098",
+ "fx_text": "匯率：1 USD ≈ HK$7.8467、1 EUR ≈ HK$8.8984、1 GBP ≈ HK$10.4095",
  "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-01 10:05 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
@@ -23,7 +23,7 @@
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 11404,
+    "total_hkd": 11408,
     "currency": "EUR",
     "price": 1254.09,
     "shipping_to_hk": 27.97,
@@ -80,12 +80,12 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12082,
+    "total_hkd": 11996,
     "currency": "USD",
-    "price": 1522.45,
+    "price": 1511.53,
     "shipping_to_hk": 17.3,
-    "total_local": 1539.75,
-    "price_text": "US$1,522.45 + 運費 US$17.30",
+    "total_local": 1528.83,
+    "price_text": "US$1,511.53 + 運費 US$17.30",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -104,12 +104,12 @@
    "image": "img/B0DZCVQGG6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
    "amazon": {
-    "total_hkd": 12090,
+    "total_hkd": 12004,
     "currency": "USD",
-    "price": 1522.45,
+    "price": 1511.53,
     "shipping_to_hk": 18.28,
-    "total_local": 1540.73,
-    "price_text": "US$1,522.45 + 運費 US$18.28",
+    "total_local": 1529.81,
+    "price_text": "US$1,511.53 + 運費 US$18.28",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -128,7 +128,7 @@
    "image": "img/B0DS65VMC6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81cPV47HNyL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12348,
+    "total_hkd": 12352,
     "currency": "EUR",
     "price": 1364.74,
     "shipping_to_hk": 23.43,
@@ -147,11 +147,35 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 2651,
-   "vs_hk_text": "比香港平 HK$2,651"
+   "vs_hk_hkd": 2647,
+   "vs_hk_text": "比香港平 HK$2,647"
   },
   {
    "rank": 6,
+   "asin": "B0DYRZZJZ1",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "PNY GeForce RTX™ 5080 16GB Triple Fan Graphics Card DLSS 4",
+   "url": "https://www.amazon.de/dp/B0DYRZZJZ1",
+   "image": "img/B0DYRZZJZ1.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 12353,
+    "currency": "USD",
+    "price": 1555.95,
+    "shipping_to_hk": 18.28,
+    "total_local": 1574.23,
+    "price_text": "US$1,555.95 + 運費 US$18.28",
+    "stock": "Only 3 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 7,
    "asin": "B0DT9Y2B49",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -161,7 +185,7 @@
    "image": "img/B0DT9Y2B49.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12366,
+    "total_hkd": 12371,
     "currency": "EUR",
     "price": 1365.86,
     "shipping_to_hk": 24.4,
@@ -188,11 +212,11 @@
      }
     ]
    },
-   "vs_hk_hkd": 2033,
-   "vs_hk_text": "比香港平 HK$2,033"
+   "vs_hk_hkd": 2028,
+   "vs_hk_text": "比香港平 HK$2,028"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -225,30 +249,6 @@
    "vs_hk_text": "比香港平 HK$3,619"
   },
   {
-   "rank": 8,
-   "asin": "B0DYRZZJZ1",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB Triple Fan Graphics Card DLSS 4",
-   "url": "https://www.amazon.de/dp/B0DYRZZJZ1",
-   "image": "img/B0DYRZZJZ1.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 12441,
-    "currency": "USD",
-    "price": 1567.2,
-    "shipping_to_hk": 18.28,
-    "total_local": 1585.48,
-    "price_text": "US$1,567.20 + 運費 US$18.28",
-    "stock": "Only 3 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
    "rank": 9,
    "asin": "B0BX6LGM2X",
    "domain": "amazon.de",
@@ -259,12 +259,12 @@
    "image": "img/B0BX6LGM2X.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71n9sxFO9dL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12542,
+    "total_hkd": 12453,
     "currency": "USD",
-    "price": 1580.52,
+    "price": 1569.18,
     "shipping_to_hk": 17.82,
-    "total_local": 1598.34,
-    "price_text": "US$1,580.52 + 運費 US$17.82",
+    "total_local": 1587.0,
+    "price_text": "US$1,569.18 + 運費 US$17.82",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -278,8 +278,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 2057,
-   "vs_hk_text": "比香港平 HK$2,057"
+   "vs_hk_hkd": 2146,
+   "vs_hk_text": "比香港平 HK$2,146"
   },
   {
    "rank": 10,
@@ -292,7 +292,7 @@
    "image": "img/B0DTHTWBMB.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/61jBGR4QhNL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12564,
+    "total_hkd": 12569,
     "currency": "EUR",
     "price": 1383.46,
     "shipping_to_hk": 29.08,
@@ -306,6 +306,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-02T05:38:38+08:00",
- "generated_at_hkt": "2026-10-02 05:38 HKT"
+ "generated_at": "2026-10-02T06:08:15+08:00",
+ "generated_at_hkt": "2026-10-02 06:08 HKT"
 }
