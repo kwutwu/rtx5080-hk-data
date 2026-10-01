@@ -292,11 +292,20 @@
     "stock": "In stock",
     "seller": "Amazon"
    },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "ASUS 華碩 Prime GeForce RTX 5080 16G OC 顯示卡",
+     "price_hkd": 14999,
+     "url": "https://shop.pegasus.hk/products/223027/ASUS-華碩-Prime-GeForce-RTX-5080-16G-OC-顯示卡---3年保養"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 2414,
+   "vs_hk_text": "比香港平 HK$2,414"
   }
  ],
- "generated_at": "2026-10-01T15:51:26+08:00",
- "generated_at_hkt": "2026-10-01 15:51 HKT"
+ "generated_at": "2026-10-01T15:53:28+08:00",
+ "generated_at_hkt": "2026-10-01 15:53 HKT"
 }
