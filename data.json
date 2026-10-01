@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-01 17:38 HKT",
- "amazon_data_updated_hkt": "2026-10-01 17:38 HKT",
+ "price_updated_hkt": "2026-10-01 18:23 HKT",
+ "amazon_data_updated_hkt": "2026-10-01 18:23 HKT",
  "hk_data_updated_hkt": "2026-10-01 10:05 HKT",
  "fx": {
   "USD": 7.8467,
@@ -119,6 +119,39 @@
   },
   {
    "rank": 5,
+   "asin": "B0DS65VMC6",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "ASUS Prime GeForce RTX 5080 16GB GDDR7 OC Edition Graphics Card Gaming",
+   "url": "https://www.amazon.fr/dp/B0DS65VMC6",
+   "image": "img/B0DS65VMC6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/81cPV47HNyL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 12352,
+    "currency": "EUR",
+    "price": 1364.74,
+    "shipping_to_hk": 23.43,
+    "total_local": 1388.17,
+    "price_text": "€1,364.74 + 運費 €23.43",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "ASUS 華碩 Prime GeForce RTX 5080 16G OC 顯示卡",
+     "price_hkd": 14999,
+     "url": "https://shop.pegasus.hk/products/223027/ASUS-華碩-Prime-GeForce-RTX-5080-16G-OC-顯示卡---3年保養"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 2647,
+   "vs_hk_text": "比香港平 HK$2,647"
+  },
+  {
+   "rank": 6,
    "asin": "B0DT9Y2B49",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -159,7 +192,7 @@
    "vs_hk_text": "比香港平 HK$2,028"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -192,7 +225,7 @@
    "vs_hk_text": "比香港平 HK$3,619"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0DYRZZJZ1",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -214,39 +247,6 @@
    "hk": null,
    "vs_hk_hkd": null,
    "vs_hk_text": null
-  },
-  {
-   "rank": 8,
-   "asin": "B0DS65VMC6",
-   "domain": "amazon.fr",
-   "marketplace_code": "FR",
-   "marketplace_zh": "法國 Amazon",
-   "title": "ASUS Prime GeForce RTX 5080 16GB GDDR7 OC Edition Graphics Card Gaming",
-   "url": "https://www.amazon.fr/dp/B0DS65VMC6",
-   "image": "img/B0DS65VMC6.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/81cPV47HNyL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 12512,
-    "currency": "EUR",
-    "price": 1382.62,
-    "shipping_to_hk": 23.43,
-    "total_local": 1406.05,
-    "price_text": "€1,382.62 + 運費 €23.43",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "飛馬 PEGASUS",
-     "store_short": "飛馬",
-     "name": "ASUS 華碩 Prime GeForce RTX 5080 16G OC 顯示卡",
-     "price_hkd": 14999,
-     "url": "https://shop.pegasus.hk/products/223027/ASUS-華碩-Prime-GeForce-RTX-5080-16G-OC-顯示卡---3年保養"
-    },
-    "others": []
-   },
-   "vs_hk_hkd": 2487,
-   "vs_hk_text": "比香港平 HK$2,487"
   },
   {
    "rank": 9,
@@ -306,6 +306,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-01T17:38:19+08:00",
- "generated_at_hkt": "2026-10-01 17:38 HKT"
+ "generated_at": "2026-10-01T18:23:40+08:00",
+ "generated_at_hkt": "2026-10-01 18:23 HKT"
 }
