@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-03 03:39 HKT",
- "amazon_data_updated_hkt": "2026-10-03 03:39 HKT",
+ "price_updated_hkt": "2026-10-03 03:57 HKT",
+ "amazon_data_updated_hkt": "2026-10-03 03:57 HKT",
  "hk_data_updated_hkt": "2026-10-02 10:10 HKT",
  "fx": {
   "USD": 7.8468,
@@ -39,20 +39,20 @@
   {
    "rank": 2,
    "asin": "B0GWRN4Q36",
-   "domain": "amazon.es",
-   "marketplace_code": "ES",
-   "marketplace_zh": "西班牙 Amazon",
+   "domain": "amazon.it",
+   "marketplace_code": "IT",
+   "marketplace_zh": "意大利 Amazon",
    "title": "msi NVIDIA GeForce RTX 5080 16G Inspire 3X OC Black Graphics Card 16GB",
-   "url": "https://www.amazon.es/dp/B0GWRN4Q36",
+   "url": "https://www.amazon.it/dp/B0GWRN4Q36",
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 11397,
+    "total_hkd": 11410,
     "currency": "EUR",
-    "price": 1264.38,
-    "shipping_to_hk": 24.4,
-    "total_local": 1288.78,
-    "price_text": "€1,264.38 + 運費 €24.40",
+    "price": 1262.29,
+    "shipping_to_hk": 27.97,
+    "total_local": 1290.26,
+    "price_text": "€1,262.29 + 運費 €27.97",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -297,6 +297,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-03T03:39:24+08:00",
- "generated_at_hkt": "2026-10-03 03:39 HKT"
+ "generated_at": "2026-10-03T03:58:06+08:00",
+ "generated_at_hkt": "2026-10-03 03:58 HKT"
 }
