@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-02 20:12 HKT",
- "amazon_data_updated_hkt": "2026-10-02 20:12 HKT",
+ "price_updated_hkt": "2026-10-02 22:11 HKT",
+ "amazon_data_updated_hkt": "2026-10-02 22:11 HKT",
  "hk_data_updated_hkt": "2026-10-02 10:10 HKT",
  "fx": {
   "USD": 7.8468,
@@ -14,6 +14,30 @@
  "cards": [
   {
    "rank": 1,
+   "asin": "B0DZCVQGG6",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
+   "url": "https://www.amazon.de/dp/B0DZCVQGG6",
+   "image": "img/B0DZCVQGG6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
+   "amazon": {
+    "total_hkd": 10942,
+    "currency": "USD",
+    "price": 1376.16,
+    "shipping_to_hk": 18.28,
+    "total_local": 1394.44,
+    "price_text": "US$1,376.16 + 運費 US$18.28",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 2,
    "asin": "B0GWRN4Q36",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -37,7 +61,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 2,
+   "rank": 3,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -70,7 +94,7 @@
    "vs_hk_text": "比香港平 HK$4,562"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -86,30 +110,6 @@
     "shipping_to_hk": 17.3,
     "total_local": 1529.57,
     "price_text": "US$1,512.27 + 運費 US$17.30",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 4,
-   "asin": "B0DZCVQGG6",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
-   "url": "https://www.amazon.de/dp/B0DZCVQGG6",
-   "image": "img/B0DZCVQGG6.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
-   "amazon": {
-    "total_hkd": 12010,
-    "currency": "USD",
-    "price": 1512.27,
-    "shipping_to_hk": 18.28,
-    "total_local": 1530.55,
-    "price_text": "US$1,512.27 + 運費 US$18.28",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -314,6 +314,6 @@
    "vs_hk_text": "比香港平 HK$2,092"
   }
  ],
- "generated_at": "2026-10-02T20:12:43+08:00",
- "generated_at_hkt": "2026-10-02 20:12 HKT"
+ "generated_at": "2026-10-02T22:11:43+08:00",
+ "generated_at_hkt": "2026-10-02 22:11 HKT"
 }
