@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-04 03:42 HKT",
- "amazon_data_updated_hkt": "2026-10-04 03:42 HKT",
+ "price_updated_hkt": "2026-10-04 04:32 HKT",
+ "amazon_data_updated_hkt": "2026-10-04 04:32 HKT",
  "hk_data_updated_hkt": "2026-10-02 10:10 HKT",
  "fx": {
   "USD": 7.8469,
@@ -274,22 +274,22 @@
   },
   {
    "rank": 10,
-   "asin": "B0DTJDR3V9",
+   "asin": "B0GTQTWTY5",
    "domain": "amazon.it",
    "marketplace_code": "IT",
    "marketplace_zh": "意大利 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB ARGB OC Triple Fan DLSS 4 Graphics Card",
-   "url": "https://www.amazon.it/dp/B0DTJDR3V9",
-   "image": "img/B0DTJDR3V9.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/6139iUxGy-L._AC_SL1000_.jpg",
+   "title": "PNY GeForce RTX™ 5080 16GB Slim Dual-Fan, 2-Slot Graphics Card",
+   "url": "https://www.amazon.it/dp/B0GTQTWTY5",
+   "image": "img/B0GTQTWTY5.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/518wUbBOhaL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12532,
+    "total_hkd": 12561,
     "currency": "EUR",
     "price": 1393.43,
-    "shipping_to_hk": 25.98,
-    "total_local": 1419.41,
-    "price_text": "€1,393.43 + 運費 €25.98",
-    "stock": "Only 1 left in stock.",
+    "shipping_to_hk": 29.25,
+    "total_local": 1422.68,
+    "price_text": "€1,393.43 + 運費 €29.25",
+    "stock": "In stock",
     "seller": "Amazon"
    },
    "hk": null,
@@ -297,6 +297,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-04T03:42:59+08:00",
- "generated_at_hkt": "2026-10-04 03:42 HKT"
+ "generated_at": "2026-10-04T04:32:30+08:00",
+ "generated_at_hkt": "2026-10-04 04:32 HKT"
 }
