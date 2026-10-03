@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-03 08:27 HKT",
- "amazon_data_updated_hkt": "2026-10-03 08:27 HKT",
+ "price_updated_hkt": "2026-10-03 09:23 HKT",
+ "amazon_data_updated_hkt": "2026-10-03 09:23 HKT",
  "hk_data_updated_hkt": "2026-10-02 10:10 HKT",
  "fx": {
-  "USD": 7.8468,
-  "EUR": 8.8434,
-  "GBP": 10.364
+  "USD": 7.8469,
+  "EUR": 8.8292,
+  "GBP": 10.3808
  },
- "fx_text": "匯率：1 USD ≈ HK$7.8468、1 EUR ≈ HK$8.8434、1 GBP ≈ HK$10.364",
+ "fx_text": "匯率：1 USD ≈ HK$7.8469、1 EUR ≈ HK$8.8292、1 GBP ≈ HK$10.3808",
  "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-02 10:10 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
@@ -47,7 +47,7 @@
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 11410,
+    "total_hkd": 11392,
     "currency": "EUR",
     "price": 1262.29,
     "shipping_to_hk": 27.97,
@@ -218,7 +218,7 @@
    "image": "img/B0DTHTWBMB.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/61jBGR4QhNL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12492,
+    "total_hkd": 12472,
     "currency": "EUR",
     "price": 1383.46,
     "shipping_to_hk": 29.08,
@@ -242,7 +242,7 @@
    "image": "img/B0DS65VMC6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/814lQWaeAzL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12507,
+    "total_hkd": 12487,
     "currency": "EUR",
     "price": 1392.62,
     "shipping_to_hk": 21.68,
@@ -269,8 +269,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 2092,
-   "vs_hk_text": "比香港平 HK$2,092"
+   "vs_hk_hkd": 2112,
+   "vs_hk_text": "比香港平 HK$2,112"
   },
   {
    "rank": 10,
@@ -283,7 +283,7 @@
    "image": "img/B0DTJDR3V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/6139iUxGy-L._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12552,
+    "total_hkd": 12532,
     "currency": "EUR",
     "price": 1393.43,
     "shipping_to_hk": 25.98,
@@ -297,6 +297,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-03T08:27:31+08:00",
- "generated_at_hkt": "2026-10-03 08:27 HKT"
+ "generated_at": "2026-10-03T09:23:39+08:00",
+ "generated_at_hkt": "2026-10-03 09:23 HKT"
 }
