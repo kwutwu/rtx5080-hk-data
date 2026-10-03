@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-04 07:07 HKT",
- "amazon_data_updated_hkt": "2026-10-04 07:07 HKT",
+ "price_updated_hkt": "2026-10-04 07:51 HKT",
+ "amazon_data_updated_hkt": "2026-10-04 07:51 HKT",
  "hk_data_updated_hkt": "2026-10-02 10:10 HKT",
  "fx": {
   "USD": 7.8469,
@@ -297,6 +297,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-04T07:08:04+08:00",
- "generated_at_hkt": "2026-10-04 07:08 HKT"
+ "generated_at": "2026-10-04T07:51:30+08:00",
+ "generated_at_hkt": "2026-10-04 07:51 HKT"
 }
