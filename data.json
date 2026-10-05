@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-05 16:31 HKT",
- "amazon_data_updated_hkt": "2026-10-05 16:31 HKT",
+ "price_updated_hkt": "2026-10-05 17:00 HKT",
+ "amazon_data_updated_hkt": "2026-10-05 17:00 HKT",
  "hk_data_updated_hkt": "2026-10-05 10:10 HKT",
  "fx": {
   "USD": 7.8476,
@@ -23,7 +23,7 @@
    "image": "img/B0DSWKJLJP.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/61UoqlycAqL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 10858,
+    "total_hkd": 11075,
     "currency": "EUR",
     "price": 1208.32,
     "shipping_to_hk": 21.51,
@@ -42,8 +42,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 1841,
-   "vs_hk_text": "比香港平 HK$1,841"
+   "vs_hk_hkd": 1624,
+   "vs_hk_text": "比香港平 HK$1,624"
   },
   {
    "rank": 2,
@@ -56,7 +56,7 @@
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 11391,
+    "total_hkd": 11619,
     "currency": "EUR",
     "price": 1262.29,
     "shipping_to_hk": 27.97,
@@ -80,7 +80,7 @@
    "image": "img/B0DSQ1RCZV.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 11438,
+    "total_hkd": 11667,
     "currency": "USD",
     "price": 1431.42,
     "shipping_to_hk": 26.12,
@@ -99,8 +99,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 4561,
-   "vs_hk_text": "比香港平 HK$4,561"
+   "vs_hk_hkd": 4332,
+   "vs_hk_text": "比香港平 HK$4,332"
   },
   {
    "rank": 4,
@@ -113,7 +113,7 @@
    "image": "img/B0H1MSZFW6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/61qIACMZ3zL._AC_SL1200_.jpg",
    "amazon": {
-    "total_hkd": 11683,
+    "total_hkd": 11917,
     "currency": "USD",
     "price": 1466.66,
     "shipping_to_hk": 22.09,
@@ -137,7 +137,7 @@
    "image": "img/B0DTJFZ4YS.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 11812,
+    "total_hkd": 12049,
     "currency": "EUR",
     "price": 1317.65,
     "shipping_to_hk": 20.33,
@@ -161,7 +161,7 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 11997,
+    "total_hkd": 12237,
     "currency": "EUR",
     "price": 1343.7,
     "shipping_to_hk": 15.19,
@@ -185,7 +185,7 @@
    "image": "img/B0DT6NZ9V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12290,
+    "total_hkd": 12536,
     "currency": "USD",
     "price": 1540.6,
     "shipping_to_hk": 25.49,
@@ -212,8 +212,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1509,
-   "vs_hk_text": "比香港平 HK$1,509"
+   "vs_hk_hkd": 1263,
+   "vs_hk_text": "比香港平 HK$1,263"
   },
   {
    "rank": 8,
@@ -226,7 +226,7 @@
    "image": "img/B0DSQ3B6PH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12344,
+    "total_hkd": 12591,
     "currency": "USD",
     "price": 1551.43,
     "shipping_to_hk": 21.51,
@@ -245,8 +245,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 3655,
-   "vs_hk_text": "比香港平 HK$3,655"
+   "vs_hk_hkd": 3408,
+   "vs_hk_text": "比香港平 HK$3,408"
   },
   {
    "rank": 9,
@@ -259,7 +259,7 @@
    "image": "img/B0H5NNTMTH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71+VdWUZ4AL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12409,
+    "total_hkd": 12657,
     "currency": "EUR",
     "price": 1383.33,
     "shipping_to_hk": 22.19,
@@ -278,8 +278,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 1990,
-   "vs_hk_text": "比香港平 HK$1,990"
+   "vs_hk_hkd": 1742,
+   "vs_hk_text": "比香港平 HK$1,742"
   },
   {
    "rank": 10,
@@ -292,7 +292,7 @@
    "image": "img/B0BX6LGM2X.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71n9sxFO9dL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12453,
+    "total_hkd": 12703,
     "currency": "EUR",
     "price": 1394.95,
     "shipping_to_hk": 15.65,
@@ -326,10 +326,10 @@
      }
     ]
    },
-   "vs_hk_hkd": 2146,
-   "vs_hk_text": "比香港平 HK$2,146"
+   "vs_hk_hkd": 1896,
+   "vs_hk_text": "比香港平 HK$1,896"
   }
  ],
- "generated_at": "2026-10-05T16:31:57+08:00",
- "generated_at_hkt": "2026-10-05 16:31 HKT"
+ "generated_at": "2026-10-05T17:15:13+08:00",
+ "generated_at_hkt": "2026-10-05 17:15 HKT"
 }
