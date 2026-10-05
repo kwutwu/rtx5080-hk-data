@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-05 16:02 HKT",
- "amazon_data_updated_hkt": "2026-10-05 16:02 HKT",
+ "price_updated_hkt": "2026-10-05 16:31 HKT",
+ "amazon_data_updated_hkt": "2026-10-05 16:31 HKT",
  "hk_data_updated_hkt": "2026-10-05 10:10 HKT",
  "fx": {
   "USD": 7.8476,
@@ -14,6 +14,39 @@
  "cards": [
   {
    "rank": 1,
+   "asin": "B0DSWKJLJP",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "Palit RTX5080 GamingPro 16GB GDDR7 NE75080019T2-GB2031A Retail",
+   "url": "https://www.amazon.fr/dp/B0DSWKJLJP",
+   "image": "img/B0DSWKJLJP.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/61UoqlycAqL._AC_SL1000_.jpg",
+   "amazon": {
+    "total_hkd": 10858,
+    "currency": "EUR",
+    "price": 1208.32,
+    "shipping_to_hk": 21.51,
+    "total_local": 1229.83,
+    "price_text": "€1,208.32 + 運費 €21.51",
+    "stock": "",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "Palit GeForce RTX 5080 GamingPro 16G 顯示卡",
+     "price_hkd": 12699,
+     "url": "https://shop.pegasus.hk/products/223071/Palit-GeForce-RTX-5080-GamingPro-16G-顯示卡"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 1841,
+   "vs_hk_text": "比香港平 HK$1,841"
+  },
+  {
+   "rank": 2,
    "asin": "B0GWRN4Q36",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -37,7 +70,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 2,
+   "rank": 3,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -70,7 +103,7 @@
    "vs_hk_text": "比香港平 HK$4,561"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "asin": "B0H1MSZFW6",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -94,7 +127,31 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 5,
+   "asin": "B0DTJFZ4YS",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "PNY GeForce RTX™ 5080 16GB OC Triple Fan Graphics Card DLSS 4",
+   "url": "https://www.amazon.de/dp/B0DTJFZ4YS",
+   "image": "img/B0DTJFZ4YS.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
+   "amazon": {
+    "total_hkd": 11812,
+    "currency": "EUR",
+    "price": 1317.65,
+    "shipping_to_hk": 20.33,
+    "total_local": 1337.98,
+    "price_text": "€1,317.65 + 運費 €20.33",
+    "stock": "",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 6,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -118,31 +175,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 5,
-   "asin": "B0DTJFZ4YS",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB OC Triple Fan Graphics Card DLSS 4",
-   "url": "https://www.amazon.co.uk/dp/B0DTJFZ4YS",
-   "image": "img/B0DTJFZ4YS.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
-   "amazon": {
-    "total_hkd": 12271,
-    "currency": "USD",
-    "price": 1541.54,
-    "shipping_to_hk": 22.09,
-    "total_local": 1563.63,
-    "price_text": "US$1,541.54 + 運費 US$22.09",
-    "stock": "Only 3 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 6,
+   "rank": 7,
    "asin": "B0DT6NZ9V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -183,7 +216,7 @@
    "vs_hk_text": "比香港平 HK$1,509"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -216,7 +249,7 @@
    "vs_hk_text": "比香港平 HK$3,655"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -249,7 +282,7 @@
    "vs_hk_text": "比香港平 HK$1,990"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0BX6LGM2X",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -295,32 +328,8 @@
    },
    "vs_hk_hkd": 2146,
    "vs_hk_text": "比香港平 HK$2,146"
-  },
-  {
-   "rank": 10,
-   "asin": "B0DTHTWBMB",
-   "domain": "amazon.fr",
-   "marketplace_code": "FR",
-   "marketplace_zh": "法國 Amazon",
-   "title": "ASUS Prime GeForce RTX 5080 16GB GDDR7 Graphics Card Gaming",
-   "url": "https://www.amazon.fr/dp/B0DTHTWBMB",
-   "image": "img/B0DTHTWBMB.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/61jBGR4QhNL._AC_SL1000_.jpg",
-   "amazon": {
-    "total_hkd": 12471,
-    "currency": "EUR",
-    "price": 1383.46,
-    "shipping_to_hk": 29.08,
-    "total_local": 1412.54,
-    "price_text": "€1,383.46 + 運費 €29.08",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-05T16:02:18+08:00",
- "generated_at_hkt": "2026-10-05 16:02 HKT"
+ "generated_at": "2026-10-05T16:31:57+08:00",
+ "generated_at_hkt": "2026-10-05 16:31 HKT"
 }
