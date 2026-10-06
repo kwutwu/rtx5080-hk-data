@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-06 15:02 HKT",
- "amazon_data_updated_hkt": "2026-10-06 15:02 HKT",
+ "price_updated_hkt": "2026-10-06 15:33 HKT",
+ "amazon_data_updated_hkt": "2026-10-06 15:33 HKT",
  "hk_data_updated_hkt": "2026-10-06 10:24 HKT",
  "fx": {
   "USD": 7.8471,
@@ -29,7 +29,7 @@
     "shipping_to_hk": 25.04,
     "total_local": 1164.38,
     "price_text": "€1,139.34 + 運費 €25.04",
-    "stock": "In stock",
+    "stock": "Only 6 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -244,19 +244,33 @@
    },
    "hk": {
     "best": {
-     "store": "SE Computer",
-     "store_short": "SE Computer",
-     "name": "MSI微星 RTX5080 16G VENTUS 3X OC 16GB GDDR7 (G5080-16V3C)",
-     "price_hkd": 13999,
-     "url": "https://secomputer.com.hk/products/56737"
+     "store": "未來科技 BUYMORE",
+     "store_short": "未來科技 BUYMORE",
+     "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [黑色] [長: 303mm]",
+     "price_hkd": 13899,
+     "url": "https://buymore.hk/shop/goods.php?id=43721"
     },
     "others": [
+     {
+      "store": "SE Computer",
+      "store_short": "SE Computer",
+      "name": "MSI微星 RTX5080 16G VENTUS 3X OC 16GB GDDR7 (G5080-16V3C)",
+      "price_hkd": 13999,
+      "url": "https://secomputer.com.hk/products/56737"
+     },
      {
       "store": "中田電腦 Centralfield",
       "store_short": "中田電腦",
       "name": "MSI GeForce RTX 5080 Ventus 3X OC 16GB GDDR7 顯示卡 三風扇超頻版",
       "price_hkd": 13999,
       "url": "https://centralfield.com/product/11152/msi-geforce-rtx-5080-ventus-3x-oc-16gb"
+     },
+     {
+      "store": "未來科技 BUYMORE",
+      "store_short": "未來科技 BUYMORE",
+      "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [白色] [長: 303mm]",
+      "price_hkd": 13999,
+      "url": "https://buymore.hk/shop/goods.php?id=44052"
      },
      {
       "store": "飛馬 PEGASUS",
@@ -267,8 +281,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1462,
-   "vs_hk_text": "比香港平 HK$1,462"
+   "vs_hk_hkd": 1362,
+   "vs_hk_text": "比香港平 HK$1,362"
   },
   {
    "rank": 10,
@@ -304,6 +318,6 @@
    "vs_hk_text": "比香港平 HK$3,407"
   }
  ],
- "generated_at": "2026-10-06T15:02:01+08:00",
- "generated_at_hkt": "2026-10-06 15:02 HKT"
+ "generated_at": "2026-10-06T15:33:27+08:00",
+ "generated_at_hkt": "2026-10-06 15:33 HKT"
 }
