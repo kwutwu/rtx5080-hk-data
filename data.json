@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-06 15:33 HKT",
- "amazon_data_updated_hkt": "2026-10-06 15:33 HKT",
+ "price_updated_hkt": "2026-10-06 16:00 HKT",
+ "amazon_data_updated_hkt": "2026-10-06 16:00 HKT",
  "hk_data_updated_hkt": "2026-10-06 10:24 HKT",
  "fx": {
   "USD": 7.8471,
@@ -14,30 +14,6 @@
  "cards": [
   {
    "rank": 1,
-   "asin": "B0BT9R5XNN",
-   "domain": "amazon.it",
-   "marketplace_code": "IT",
-   "marketplace_zh": "意大利 Amazon",
-   "title": "msi GeForce RTX 5080 16G SHADOW 3X OC Graphics Card - RTX 5080 GPU, 16GB GDDR7 (30Gbps/256-bit), PCIe 5.0 - Triple Fan Design (3 x TORX FAN 5.0) - HDMI 2.1b, DisplayPort 2.1b",
-   "url": "https://www.amazon.it/dp/B0BT9R5XNN",
-   "image": "img/B0BT9R5XNN.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71vuPWXUwNL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 10447,
-    "currency": "EUR",
-    "price": 1139.34,
-    "shipping_to_hk": 25.04,
-    "total_local": 1164.38,
-    "price_text": "€1,139.34 + 運費 €25.04",
-    "stock": "Only 6 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 2,
    "asin": "B0GWRN4Q36",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -53,6 +29,30 @@
     "shipping_to_hk": 27.97,
     "total_local": 1175.5,
     "price_text": "€1,147.53 + 運費 €27.97",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 2,
+   "asin": "B0BT9R5XNN",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "msi GeForce RTX 5080 16G SHADOW 3X OC Graphics Card - RTX 5080 GPU, 16GB GDDR7 (30Gbps/256-bit), PCIe 5.0 - Triple Fan Design (3 x TORX FAN 5.0) - HDMI 2.1b, DisplayPort 2.1b",
+   "url": "https://www.amazon.co.uk/dp/B0BT9R5XNN",
+   "image": "img/B0BT9R5XNN.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71vuPWXUwNL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 10662,
+    "currency": "USD",
+    "price": 1310.55,
+    "shipping_to_hk": 21.52,
+    "total_local": 1332.07,
+    "price_text": "US$1,310.55 + 運費 US$21.52",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -128,12 +128,12 @@
    "image": "img/B0DYRZZJZ1.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 11521,
-    "currency": "EUR",
-    "price": 1268.06,
-    "shipping_to_hk": 16.05,
-    "total_local": 1284.11,
-    "price_text": "€1,268.06 + 運費 €16.05",
+    "total_hkd": 11535,
+    "currency": "USD",
+    "price": 1423.17,
+    "shipping_to_hk": 18.01,
+    "total_local": 1441.18,
+    "price_text": "US$1,423.17 + 運費 US$18.01",
     "stock": "Only 5 left in stock.",
     "seller": "Amazon"
    },
@@ -185,12 +185,12 @@
    "image": "img/B0DTJFZ4YS.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12004,
-    "currency": "EUR",
-    "price": 1317.65,
-    "shipping_to_hk": 20.33,
-    "total_local": 1337.98,
-    "price_text": "€1,317.65 + 運費 €20.33",
+    "total_hkd": 12019,
+    "currency": "USD",
+    "price": 1478.82,
+    "shipping_to_hk": 22.82,
+    "total_local": 1501.64,
+    "price_text": "US$1,478.82 + 運費 US$22.82",
     "stock": "Only 1 left in stock.",
     "seller": "Amazon"
    },
@@ -209,12 +209,12 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12192,
-    "currency": "EUR",
-    "price": 1343.7,
-    "shipping_to_hk": 15.19,
-    "total_local": 1358.89,
-    "price_text": "€1,343.70 + 運費 €15.19",
+    "total_hkd": 12207,
+    "currency": "USD",
+    "price": 1508.06,
+    "shipping_to_hk": 17.05,
+    "total_local": 1525.11,
+    "price_text": "US$1,508.06 + 運費 US$17.05",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -318,6 +318,6 @@
    "vs_hk_text": "比香港平 HK$3,407"
   }
  ],
- "generated_at": "2026-10-06T15:33:27+08:00",
- "generated_at_hkt": "2026-10-06 15:33 HKT"
+ "generated_at": "2026-10-06T16:00:25+08:00",
+ "generated_at_hkt": "2026-10-06 16:00 HKT"
 }
