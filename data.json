@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-08 07:01 HKT",
- "amazon_data_updated_hkt": "2026-10-08 07:01 HKT",
+ "price_updated_hkt": "2026-10-08 07:36 HKT",
+ "amazon_data_updated_hkt": "2026-10-08 07:36 HKT",
  "hk_data_updated_hkt": "2026-10-07 20:05 HKT",
  "fx": {
   "USD": 7.848,
@@ -14,30 +14,6 @@
  "cards": [
   {
    "rank": 1,
-   "asin": "B0GWRN4Q36",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "msi NVIDIA GeForce RTX 5080 16G Inspire 3X OC Black Graphics Card 16GB",
-   "url": "https://www.amazon.co.uk/dp/B0GWRN4Q36",
-   "image": "img/B0GWRN4Q36.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 10732,
-    "currency": "USD",
-    "price": 1325.09,
-    "shipping_to_hk": 15.58,
-    "total_local": 1340.67,
-    "price_text": "US$1,325.09 + 運費 US$15.58",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 2,
    "asin": "B0DSWKJLJP",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -70,7 +46,7 @@
    "vs_hk_text": "比香港平 HK$1,622"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "asin": "B0GTQTWTY5",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -94,7 +70,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 3,
    "asin": "B0H1MSZFW6",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -118,7 +94,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 5,
+   "rank": 4,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -151,7 +127,7 @@
    "vs_hk_text": "比香港平 HK$3,856"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "asin": "B0DTJDR3V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -175,7 +151,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 7,
+   "rank": 6,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -199,7 +175,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 8,
+   "rank": 7,
    "asin": "B0DTJFZ4YS",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -223,7 +199,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 9,
+   "rank": 8,
    "asin": "B0DT6NZ9V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -285,7 +261,7 @@
    "vs_hk_text": "比香港平 HK$1,327"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -316,8 +292,32 @@
    },
    "vs_hk_hkd": 1705,
    "vs_hk_text": "比香港平 HK$1,705"
+  },
+  {
+   "rank": 10,
+   "asin": "B0DTHTWBMB",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "ASUS Prime GeForce RTX 5080 16GB GDDR7 Graphics Card Gaming",
+   "url": "https://www.amazon.fr/dp/B0DTHTWBMB",
+   "image": "img/B0DTHTWBMB.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/61jBGR4QhNL._AC_SL1000_.jpg",
+   "amazon": {
+    "total_hkd": 12723,
+    "currency": "EUR",
+    "price": 1383.46,
+    "shipping_to_hk": 29.08,
+    "total_local": 1412.54,
+    "price_text": "€1,383.46 + 運費 €29.08",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-08T07:01:04+08:00",
- "generated_at_hkt": "2026-10-08 07:01 HKT"
+ "generated_at": "2026-10-08T07:36:41+08:00",
+ "generated_at_hkt": "2026-10-08 07:36 HKT"
 }
