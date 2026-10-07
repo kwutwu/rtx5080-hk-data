@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-07 14:03 HKT",
- "amazon_data_updated_hkt": "2026-10-07 14:03 HKT",
+ "price_updated_hkt": "2026-10-07 14:29 HKT",
+ "amazon_data_updated_hkt": "2026-10-07 14:29 HKT",
  "hk_data_updated_hkt": "2026-10-07 10:11 HKT",
  "fx": {
   "USD": 7.848,
@@ -23,12 +23,12 @@
    "image": "img/B0BT9R5XNN.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71vuPWXUwNL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 10663,
+    "total_hkd": 10692,
     "currency": "USD",
-    "price": 1310.55,
-    "shipping_to_hk": 21.52,
-    "total_local": 1332.07,
-    "price_text": "US$1,310.55 + 運費 US$21.52",
+    "price": 1314.05,
+    "shipping_to_hk": 21.57,
+    "total_local": 1335.62,
+    "price_text": "US$1,314.05 + 運費 US$21.57",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -47,12 +47,12 @@
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 10703,
+    "total_hkd": 10732,
     "currency": "USD",
-    "price": 1321.56,
-    "shipping_to_hk": 15.54,
-    "total_local": 1337.1,
-    "price_text": "US$1,321.56 + 運費 US$15.54",
+    "price": 1325.09,
+    "shipping_to_hk": 15.58,
+    "total_local": 1340.67,
+    "price_text": "US$1,325.09 + 運費 US$15.58",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -95,6 +95,30 @@
   },
   {
    "rank": 4,
+   "asin": "B0DZCVQGG6",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
+   "url": "https://www.amazon.de/dp/B0DZCVQGG6",
+   "image": "img/B0DZCVQGG6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
+   "amazon": {
+    "total_hkd": 11347,
+    "currency": "USD",
+    "price": 1399.42,
+    "shipping_to_hk": 18.04,
+    "total_local": 1417.46,
+    "price_text": "US$1,399.42 + 運費 US$18.04",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 5,
    "asin": "B0GTQTWTY5",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -118,7 +142,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 5,
+   "rank": 6,
    "asin": "B0DYRZZJZ1",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -128,12 +152,12 @@
    "image": "img/B0DYRZZJZ1.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 11566,
-    "currency": "EUR",
-    "price": 1268.06,
-    "shipping_to_hk": 16.05,
-    "total_local": 1284.11,
-    "price_text": "€1,268.06 + 運費 €16.05",
+    "total_hkd": 11553,
+    "currency": "USD",
+    "price": 1425.16,
+    "shipping_to_hk": 18.04,
+    "total_local": 1443.2,
+    "price_text": "US$1,425.16 + 運費 US$18.04",
     "stock": "",
     "seller": "Amazon"
    },
@@ -142,7 +166,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 6,
+   "rank": 7,
    "asin": "B0DS2R6948",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -152,12 +176,12 @@
    "image": "img/B0DS2R6948.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71lZess7M8L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12111,
+    "total_hkd": 12143,
     "currency": "USD",
-    "price": 1486.75,
-    "shipping_to_hk": 26.13,
-    "total_local": 1512.88,
-    "price_text": "US$1,486.75 + 運費 US$26.13",
+    "price": 1490.72,
+    "shipping_to_hk": 26.2,
+    "total_local": 1516.92,
+    "price_text": "US$1,490.72 + 運費 US$26.20",
     "stock": "Only 2 left in stock.",
     "seller": "Amazon"
    },
@@ -171,11 +195,11 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 3888,
-   "vs_hk_text": "比香港平 HK$3,888"
+   "vs_hk_hkd": 3856,
+   "vs_hk_text": "比香港平 HK$3,856"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -185,12 +209,12 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12240,
-    "currency": "EUR",
-    "price": 1343.7,
-    "shipping_to_hk": 15.19,
-    "total_local": 1358.89,
-    "price_text": "€1,343.70 + 運費 €15.19",
+    "total_hkd": 12226,
+    "currency": "USD",
+    "price": 1510.17,
+    "shipping_to_hk": 17.07,
+    "total_local": 1527.24,
+    "price_text": "US$1,510.17 + 運費 US$17.07",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -199,7 +223,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 8,
+   "rank": 9,
    "asin": "B0BX6LGM2X",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -232,7 +256,7 @@
    "vs_hk_text": "比香港平 HK$2,375"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0DTJFZ4YS",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -242,75 +266,20 @@
    "image": "img/B0DTJFZ4YS.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12519,
+    "total_hkd": 12553,
     "currency": "USD",
-    "price": 1541.82,
-    "shipping_to_hk": 22.1,
-    "total_local": 1563.92,
-    "price_text": "US$1,541.82 + 運費 US$22.10",
+    "price": 1545.94,
+    "shipping_to_hk": 22.16,
+    "total_local": 1568.1,
+    "price_text": "US$1,545.94 + 運費 US$22.16",
     "stock": "Only 2 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
    "vs_hk_hkd": null,
    "vs_hk_text": null
-  },
-  {
-   "rank": 10,
-   "asin": "B0DT6NZ9V9",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "MSI NVIDIA GeForce RTX 5080 16G Ventus 3X OC Graphics Card",
-   "url": "https://www.amazon.co.uk/dp/B0DT6NZ9V9",
-   "image": "img/B0DT6NZ9V9.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 12539,
-    "currency": "USD",
-    "price": 1540.88,
-    "shipping_to_hk": 25.49,
-    "total_local": 1566.37,
-    "price_text": "US$1,540.88 + 運費 US$25.49",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "未來科技 BUYMORE",
-     "store_short": "未來科技 BUYMORE",
-     "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [黑色] [長: 303mm]",
-     "price_hkd": 13899,
-     "url": "https://buymore.hk/shop/goods.php?id=43721"
-    },
-    "others": [
-     {
-      "store": "SE Computer",
-      "store_short": "SE Computer",
-      "name": "MSI微星 RTX5080 16G VENTUS 3X OC 16GB GDDR7 (G5080-16V3C)",
-      "price_hkd": 13999,
-      "url": "https://secomputer.com.hk/products/56737"
-     },
-     {
-      "store": "未來科技 BUYMORE",
-      "store_short": "未來科技 BUYMORE",
-      "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [白色] [長: 303mm]",
-      "price_hkd": 13999,
-      "url": "https://buymore.hk/shop/goods.php?id=44052"
-     },
-     {
-      "store": "飛馬 PEGASUS",
-      "store_short": "飛馬",
-      "name": "MSI 微星 GeForce RTX 5080 16G VENTUS 3X OC 顯示卡",
-      "price_hkd": 14199,
-      "url": "https://shop.pegasus.hk/products/223217/MSI-微星-GeForce-RTX-5080-16G-VENTUS-3X-OC-顯示卡"
-     }
-    ]
-   },
-   "vs_hk_hkd": 1360,
-   "vs_hk_text": "比香港平 HK$1,360"
   }
  ],
- "generated_at": "2026-10-07T14:03:37+08:00",
- "generated_at_hkt": "2026-10-07 14:03 HKT"
+ "generated_at": "2026-10-07T14:29:48+08:00",
+ "generated_at_hkt": "2026-10-07 14:29 HKT"
 }
