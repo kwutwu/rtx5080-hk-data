@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-07 17:33 HKT",
- "amazon_data_updated_hkt": "2026-10-07 17:33 HKT",
+ "price_updated_hkt": "2026-10-07 17:59 HKT",
+ "amazon_data_updated_hkt": "2026-10-07 17:59 HKT",
  "hk_data_updated_hkt": "2026-10-07 10:11 HKT",
  "fx": {
   "USD": 7.848,
@@ -29,7 +29,7 @@
     "shipping_to_hk": 21.57,
     "total_local": 1335.62,
     "price_text": "US$1,314.05 + 運費 US$21.57",
-    "stock": "Only 12 left in stock.",
+    "stock": "Only 9 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -167,14 +167,14 @@
   },
   {
    "rank": 7,
-   "asin": "B0DS2R6948",
+   "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
    "marketplace_zh": "英國 Amazon",
-   "title": "Gigabyte GeForce RTX 5080 Gaming OC 16G Graphics Card WINDFORCE Cooling System 16GB 256bit GDDR7, GV-N5080GAMING OC-16GD Video Card",
-   "url": "https://www.amazon.co.uk/dp/B0DS2R6948",
-   "image": "img/B0DS2R6948.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71lZess7M8L._AC_SL1500_.jpg",
+   "title": "Gigabyte GeForce RTX 5080 GAMING OC 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080GAMING OC-16GD",
+   "url": "https://www.amazon.co.uk/dp/B0DSQ1RCZV",
+   "image": "img/B0DSQ1RCZV.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
    "amazon": {
     "total_hkd": 12143,
     "currency": "USD",
@@ -182,7 +182,7 @@
     "shipping_to_hk": 26.2,
     "total_local": 1516.92,
     "price_text": "US$1,490.72 + 運費 US$26.20",
-    "stock": "Only 1 left in stock.",
+    "stock": "In stock",
     "seller": "Amazon"
    },
    "hk": {
@@ -280,6 +280,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-07T17:33:35+08:00",
- "generated_at_hkt": "2026-10-07 17:33 HKT"
+ "generated_at": "2026-10-07T17:59:11+08:00",
+ "generated_at_hkt": "2026-10-07 17:59 HKT"
 }
