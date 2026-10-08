@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-08 08:05 HKT",
- "amazon_data_updated_hkt": "2026-10-08 08:05 HKT",
+ "price_updated_hkt": "2026-10-08 08:32 HKT",
+ "amazon_data_updated_hkt": "2026-10-08 08:32 HKT",
  "hk_data_updated_hkt": "2026-10-07 20:05 HKT",
  "fx": {
-  "USD": 7.848,
-  "EUR": 8.8305,
-  "GBP": 10.4086
+  "USD": 7.8476,
+  "EUR": 8.7884,
+  "GBP": 10.3729
  },
- "fx_text": "匯率：1 USD ≈ HK$7.848、1 EUR ≈ HK$8.8305、1 GBP ≈ HK$10.4086",
+ "fx_text": "匯率：1 USD ≈ HK$7.8476、1 EUR ≈ HK$8.7884、1 GBP ≈ HK$10.3729",
  "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-07 20:05 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
@@ -23,7 +23,7 @@
    "image": "img/B0DSWKJLJP.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/61UoqlycAqL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 11077,
+    "total_hkd": 11024,
     "currency": "EUR",
     "price": 1208.32,
     "shipping_to_hk": 21.51,
@@ -42,8 +42,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 1622,
-   "vs_hk_text": "比香港平 HK$1,622"
+   "vs_hk_hkd": 1675,
+   "vs_hk_text": "比香港平 HK$1,675"
   },
   {
    "rank": 2,
@@ -56,7 +56,7 @@
    "image": "img/B0GTQTWTY5.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/518wUbBOhaL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 11460,
+    "total_hkd": 11405,
     "currency": "EUR",
     "price": 1247.93,
     "shipping_to_hk": 24.4,
@@ -80,7 +80,7 @@
    "image": "img/B0H1MSZFW6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/61qIACMZ3zL._AC_SL1200_.jpg",
    "amazon": {
-    "total_hkd": 11768,
+    "total_hkd": 11767,
     "currency": "USD",
     "price": 1447.91,
     "shipping_to_hk": 22.16,
@@ -104,7 +104,7 @@
    "image": "img/B0DSQ1RCZV.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12143,
+    "total_hkd": 12142,
     "currency": "USD",
     "price": 1490.72,
     "shipping_to_hk": 26.2,
@@ -123,8 +123,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 3856,
-   "vs_hk_text": "比香港平 HK$3,856"
+   "vs_hk_hkd": 3857,
+   "vs_hk_text": "比香港平 HK$3,857"
   },
   {
    "rank": 5,
@@ -161,7 +161,7 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12226,
+    "total_hkd": 12225,
     "currency": "USD",
     "price": 1510.17,
     "shipping_to_hk": 17.07,
@@ -185,7 +185,7 @@
    "image": "img/B0DTJFZ4YS.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12553,
+    "total_hkd": 12552,
     "currency": "USD",
     "price": 1545.94,
     "shipping_to_hk": 22.16,
@@ -271,7 +271,7 @@
    "image": "img/B0H5NNTMTH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71+VdWUZ4AL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12694,
+    "total_hkd": 12633,
     "currency": "EUR",
     "price": 1383.33,
     "shipping_to_hk": 25.97,
@@ -290,8 +290,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 1705,
-   "vs_hk_text": "比香港平 HK$1,705"
+   "vs_hk_hkd": 1766,
+   "vs_hk_text": "比香港平 HK$1,766"
   },
   {
    "rank": 10,
@@ -304,7 +304,7 @@
    "image": "img/B0DTHTWBMB.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/61jBGR4QhNL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12723,
+    "total_hkd": 12662,
     "currency": "EUR",
     "price": 1383.46,
     "shipping_to_hk": 29.08,
@@ -318,6 +318,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-08T08:05:10+08:00",
- "generated_at_hkt": "2026-10-08 08:05 HKT"
+ "generated_at": "2026-10-08T08:32:43+08:00",
+ "generated_at_hkt": "2026-10-08 08:32 HKT"
 }
