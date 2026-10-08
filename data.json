@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-08 16:20 HKT",
- "amazon_data_updated_hkt": "2026-10-08 16:20 HKT",
+ "price_updated_hkt": "2026-10-08 17:21 HKT",
+ "amazon_data_updated_hkt": "2026-10-08 17:21 HKT",
  "hk_data_updated_hkt": "2026-10-08 10:16 HKT",
  "fx": {
   "USD": 7.8476,
@@ -152,30 +152,6 @@
   },
   {
    "rank": 6,
-   "asin": "B0GZWW2RKH",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
-   "url": "https://www.amazon.de/dp/B0GZWW2RKH",
-   "image": "img/B0GZWW2RKH.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 12189,
-    "currency": "USD",
-    "price": 1505.7,
-    "shipping_to_hk": 17.02,
-    "total_local": 1522.72,
-    "price_text": "US$1,505.70 + 運費 US$17.02",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 7,
    "asin": "B0DS65VMC6",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -185,12 +161,12 @@
    "image": "img/B0DS65VMC6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81cPV47HNyL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12214,
+    "total_hkd": 12168,
     "currency": "USD",
     "price": 1504.65,
-    "shipping_to_hk": 21.25,
-    "total_local": 1525.9,
-    "price_text": "US$1,504.65 + 運費 US$21.25",
+    "shipping_to_hk": 15.52,
+    "total_local": 1520.17,
+    "price_text": "US$1,504.65 + 運費 US$15.52",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -219,8 +195,32 @@
      }
     ]
    },
-   "vs_hk_hkd": 2536,
-   "vs_hk_text": "比香港平 HK$2,536"
+   "vs_hk_hkd": 2582,
+   "vs_hk_text": "比香港平 HK$2,582"
+  },
+  {
+   "rank": 7,
+   "asin": "B0GZWW2RKH",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
+   "url": "https://www.amazon.de/dp/B0GZWW2RKH",
+   "image": "img/B0GZWW2RKH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 12189,
+    "currency": "USD",
+    "price": 1505.7,
+    "shipping_to_hk": 17.02,
+    "total_local": 1522.72,
+    "price_text": "US$1,505.70 + 運費 US$17.02",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
   },
   {
    "rank": 8,
@@ -342,6 +342,6 @@
    "vs_hk_text": "比香港平 HK$1,766"
   }
  ],
- "generated_at": "2026-10-08T16:20:53+08:00",
- "generated_at_hkt": "2026-10-08 16:20 HKT"
+ "generated_at": "2026-10-08T17:21:55+08:00",
+ "generated_at_hkt": "2026-10-08 17:21 HKT"
 }
