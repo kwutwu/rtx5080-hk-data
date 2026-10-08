@@ -1,15 +1,15 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-08 10:01 HKT",
- "amazon_data_updated_hkt": "2026-10-08 10:01 HKT",
- "hk_data_updated_hkt": "2026-10-07 20:05 HKT",
+ "price_updated_hkt": "2026-10-08 10:29 HKT",
+ "amazon_data_updated_hkt": "2026-10-08 10:29 HKT",
+ "hk_data_updated_hkt": "2026-10-08 10:16 HKT",
  "fx": {
   "USD": 7.8476,
   "EUR": 8.7884,
   "GBP": 10.3729
  },
  "fx_text": "匯率：1 USD ≈ HK$7.8476、1 EUR ≈ HK$8.7884、1 GBP ≈ HK$10.3729",
- "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-07 20:05 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
+ "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-08 10:16 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
   {
@@ -86,7 +86,7 @@
     "shipping_to_hk": 22.16,
     "total_local": 1470.07,
     "price_text": "US$1,447.91 + 運費 US$22.16",
-    "stock": "Only 2 left in stock.",
+    "stock": "Only 1 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -318,6 +318,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-08T10:01:08+08:00",
- "generated_at_hkt": "2026-10-08 10:01 HKT"
+ "generated_at": "2026-10-08T10:29:13+08:00",
+ "generated_at_hkt": "2026-10-08 10:29 HKT"
 }
