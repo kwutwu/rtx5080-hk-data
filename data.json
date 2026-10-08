@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-08 12:01 HKT",
- "amazon_data_updated_hkt": "2026-10-08 12:01 HKT",
+ "price_updated_hkt": "2026-10-08 12:32 HKT",
+ "amazon_data_updated_hkt": "2026-10-08 12:32 HKT",
  "hk_data_updated_hkt": "2026-10-08 10:16 HKT",
  "fx": {
   "USD": 7.8476,
@@ -128,6 +128,30 @@
   },
   {
    "rank": 5,
+   "asin": "B0GZWW2RKH",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
+   "url": "https://www.amazon.de/dp/B0GZWW2RKH",
+   "image": "img/B0GZWW2RKH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 12189,
+    "currency": "USD",
+    "price": 1505.7,
+    "shipping_to_hk": 17.02,
+    "total_local": 1522.72,
+    "price_text": "US$1,505.70 + 運費 US$17.02",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 6,
    "asin": "B0DTJDR3V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -144,30 +168,6 @@
     "total_local": 1523.33,
     "price_text": "US$1,501.76 + 運費 US$21.57",
     "stock": "",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 6,
-   "asin": "B0GZWW2RKH",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
-   "url": "https://www.amazon.de/dp/B0GZWW2RKH",
-   "image": "img/B0GZWW2RKH.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 12225,
-    "currency": "USD",
-    "price": 1510.17,
-    "shipping_to_hk": 17.07,
-    "total_local": 1527.24,
-    "price_text": "US$1,510.17 + 運費 US$17.07",
-    "stock": "In stock",
     "seller": "Amazon"
    },
    "hk": null,
@@ -318,6 +318,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-08T12:01:56+08:00",
- "generated_at_hkt": "2026-10-08 12:01 HKT"
+ "generated_at": "2026-10-08T12:32:18+08:00",
+ "generated_at_hkt": "2026-10-08 12:32 HKT"
 }
