@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-09 11:31 HKT",
- "amazon_data_updated_hkt": "2026-10-09 11:31 HKT",
+ "price_updated_hkt": "2026-10-09 12:23 HKT",
+ "amazon_data_updated_hkt": "2026-10-09 12:23 HKT",
  "hk_data_updated_hkt": "2026-10-09 11:02 HKT",
  "fx": {
   "USD": 7.8482,
@@ -82,10 +82,10 @@
    "amazon": {
     "total_hkd": 11779,
     "currency": "EUR",
-    "price": 1291.66,
+    "price": 1291.64,
     "shipping_to_hk": 21.2,
-    "total_local": 1312.86,
-    "price_text": "€1,291.66 + 運費 €21.20",
+    "total_local": 1312.84,
+    "price_text": "€1,291.64 + 運費 €21.20",
     "stock": "Only 1 left in stock.",
     "seller": "Amazon"
    },
@@ -161,12 +161,12 @@
    "image": "img/B0DS65VMC6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81cPV47HNyL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12169,
+    "total_hkd": 12193,
     "currency": "USD",
-    "price": 1504.65,
-    "shipping_to_hk": 15.52,
-    "total_local": 1520.17,
-    "price_text": "US$1,504.65 + 運費 US$15.52",
+    "price": 1507.61,
+    "shipping_to_hk": 15.55,
+    "total_local": 1523.16,
+    "price_text": "US$1,507.61 + 運費 US$15.55",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -195,8 +195,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 2581,
-   "vs_hk_text": "比香港平 HK$2,581"
+   "vs_hk_hkd": 2557,
+   "vs_hk_text": "比香港平 HK$2,557"
   },
   {
    "rank": 7,
@@ -209,12 +209,12 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12190,
+    "total_hkd": 12213,
     "currency": "USD",
-    "price": 1505.7,
-    "shipping_to_hk": 17.02,
-    "total_local": 1522.72,
-    "price_text": "US$1,505.70 + 運費 US$17.02",
+    "price": 1508.65,
+    "shipping_to_hk": 17.05,
+    "total_local": 1525.7,
+    "price_text": "US$1,508.65 + 運費 US$17.05",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -350,6 +350,6 @@
    "vs_hk_text": "比香港平 HK$1,366"
   }
  ],
- "generated_at": "2026-10-09T11:31:25+08:00",
- "generated_at_hkt": "2026-10-09 11:31 HKT"
+ "generated_at": "2026-10-09T12:23:43+08:00",
+ "generated_at_hkt": "2026-10-09 12:23 HKT"
 }
