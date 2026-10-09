@@ -1,15 +1,15 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-09 08:03 HKT",
- "amazon_data_updated_hkt": "2026-10-09 08:03 HKT",
- "hk_data_updated_hkt": "2026-10-08 10:16 HKT",
+ "price_updated_hkt": "2026-10-09 11:31 HKT",
+ "amazon_data_updated_hkt": "2026-10-09 11:31 HKT",
+ "hk_data_updated_hkt": "2026-10-09 11:02 HKT",
  "fx": {
-  "USD": 7.8476,
-  "EUR": 8.7884,
-  "GBP": 10.3729
+  "USD": 7.8482,
+  "EUR": 8.7959,
+  "GBP": 10.3741
  },
- "fx_text": "匯率：1 USD ≈ HK$7.8476、1 EUR ≈ HK$8.7884、1 GBP ≈ HK$10.3729",
- "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-08 10:16 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
+ "fx_text": "匯率：1 USD ≈ HK$7.8482、1 EUR ≈ HK$8.7959、1 GBP ≈ HK$10.3741",
+ "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-09 11:02 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
   {
@@ -23,7 +23,7 @@
    "image": "img/B0DSWKJLJP.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/61UoqlycAqL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 11398,
+    "total_hkd": 11408,
     "currency": "EUR",
     "price": 1249.99,
     "shipping_to_hk": 21.51,
@@ -42,8 +42,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 1301,
-   "vs_hk_text": "比香港平 HK$1,301"
+   "vs_hk_hkd": 1291,
+   "vs_hk_text": "比香港平 HK$1,291"
   },
   {
    "rank": 2,
@@ -56,7 +56,7 @@
    "image": "img/B0GTQTWTY5.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/518wUbBOhaL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 11403,
+    "total_hkd": 11413,
     "currency": "EUR",
     "price": 1245.89,
     "shipping_to_hk": 26.2,
@@ -71,6 +71,30 @@
   },
   {
    "rank": 3,
+   "asin": "B0H1MSZFW6",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "PNY RTX 5080 16GB Triple Fan DLSS 4",
+   "url": "https://www.amazon.fr/dp/B0H1MSZFW6",
+   "image": "img/B0H1MSZFW6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/61qIACMZ3zL._AC_SL1200_.jpg",
+   "amazon": {
+    "total_hkd": 11779,
+    "currency": "EUR",
+    "price": 1291.66,
+    "shipping_to_hk": 21.2,
+    "total_local": 1312.86,
+    "price_text": "€1,291.66 + 運費 €21.20",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 4,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -103,7 +127,7 @@
    "vs_hk_text": "比香港平 HK$3,902"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "asin": "B0DTJDR3V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -113,7 +137,7 @@
    "image": "img/B0DTJDR3V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/6139iUxGy-L._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12148,
+    "total_hkd": 12149,
     "currency": "USD",
     "price": 1496.11,
     "shipping_to_hk": 21.49,
@@ -127,7 +151,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 5,
+   "rank": 6,
    "asin": "B0DS65VMC6",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -137,7 +161,7 @@
    "image": "img/B0DS65VMC6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81cPV47HNyL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12168,
+    "total_hkd": 12169,
     "currency": "USD",
     "price": 1504.65,
     "shipping_to_hk": 15.52,
@@ -171,11 +195,11 @@
      }
     ]
    },
-   "vs_hk_hkd": 2582,
-   "vs_hk_text": "比香港平 HK$2,582"
+   "vs_hk_hkd": 2581,
+   "vs_hk_text": "比香港平 HK$2,581"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -185,7 +209,7 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12189,
+    "total_hkd": 12190,
     "currency": "USD",
     "price": 1505.7,
     "shipping_to_hk": 17.02,
@@ -199,7 +223,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0BX6LGM2X",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -209,7 +233,7 @@
    "image": "img/B0BX6LGM2X.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71n9sxFO9dL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12491,
+    "total_hkd": 12492,
     "currency": "USD",
     "price": 1539.02,
     "shipping_to_hk": 21.49,
@@ -220,19 +244,27 @@
    },
    "hk": {
     "best": {
-     "store": "飛馬 PEGASUS",
-     "store_short": "飛馬",
-     "name": "MSI 微星 GeForce RTX 5080 16G GAMING TRIO OC 顯示卡",
+     "store": "中田電腦 Centralfield",
+     "store_short": "中田電腦",
+     "name": "MSI GeForce RTX 5080 Gaming Trio OC 16GB 顯示卡",
      "price_hkd": 14699,
-     "url": "https://shop.pegasus.hk/products/223070/MSI-微星-GeForce-RTX-5080-16G-GAMING-TRIO-OC-顯示卡"
+     "url": "https://centralfield.com/product/10678/msi-rtx-5080-gaming-trio-oc-16gb"
     },
-    "others": []
+    "others": [
+     {
+      "store": "飛馬 PEGASUS",
+      "store_short": "飛馬",
+      "name": "MSI 微星 GeForce RTX 5080 16G GAMING TRIO OC 顯示卡",
+      "price_hkd": 14699,
+      "url": "https://shop.pegasus.hk/products/223070/MSI-微星-GeForce-RTX-5080-16G-GAMING-TRIO-OC-顯示卡"
+     }
+    ]
    },
-   "vs_hk_hkd": 2208,
-   "vs_hk_text": "比香港平 HK$2,208"
+   "vs_hk_hkd": 2207,
+   "vs_hk_text": "比香港平 HK$2,207"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "asin": "B0DTJFZ4YS",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -242,7 +274,7 @@
    "image": "img/B0DTJFZ4YS.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12505,
+    "total_hkd": 12506,
     "currency": "USD",
     "price": 1540.12,
     "shipping_to_hk": 22.07,
@@ -256,7 +288,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0DT6NZ9V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -266,7 +298,7 @@
    "image": "img/B0DT6NZ9V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12532,
+    "total_hkd": 12533,
     "currency": "USD",
     "price": 1540.12,
     "shipping_to_hk": 25.46,
@@ -314,43 +346,10 @@
      }
     ]
    },
-   "vs_hk_hkd": 1367,
-   "vs_hk_text": "比香港平 HK$1,367"
-  },
-  {
-   "rank": 10,
-   "asin": "B0H5NNTMTH",
-   "domain": "amazon.fr",
-   "marketplace_code": "FR",
-   "marketplace_zh": "法國 Amazon",
-   "title": "GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card, 16GB GDDR7, 256bit, PCI-E 5.0, 2670MHz Core Clock, 3×DP 2.1b, 1×HDMI 2.1b, DLSS 4, GV-N5080WF3OCV2-16GD",
-   "url": "https://www.amazon.fr/dp/B0H5NNTMTH",
-   "image": "img/B0H5NNTMTH.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71+VdWUZ4AL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 12633,
-    "currency": "EUR",
-    "price": 1383.33,
-    "shipping_to_hk": 25.97,
-    "total_local": 1409.3,
-    "price_text": "€1,383.33 + 運費 €25.97",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "飛馬 PEGASUS",
-     "store_short": "飛馬",
-     "name": "GIGABYTE 技嘉 WINDFORCE SFF GeForce RTX 5080 16G OC 顯示卡",
-     "price_hkd": 14399,
-     "url": "https://shop.pegasus.hk/products/223101/GIGABYTE-技嘉-WINDFORCE-SFF-GeForce-RTX-5080-16G-OC-顯示卡---3-年保固需線上註冊保養"
-    },
-    "others": []
-   },
-   "vs_hk_hkd": 1766,
-   "vs_hk_text": "比香港平 HK$1,766"
+   "vs_hk_hkd": 1366,
+   "vs_hk_text": "比香港平 HK$1,366"
   }
  ],
- "generated_at": "2026-10-09T08:03:02+08:00",
- "generated_at_hkt": "2026-10-09 08:03 HKT"
+ "generated_at": "2026-10-09T11:31:25+08:00",
+ "generated_at_hkt": "2026-10-09 11:31 HKT"
 }
