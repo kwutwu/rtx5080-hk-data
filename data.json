@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-12 04:31 HKT",
- "amazon_data_updated_hkt": "2026-10-12 04:31 HKT",
+ "price_updated_hkt": "2026-10-12 05:22 HKT",
+ "amazon_data_updated_hkt": "2026-10-12 05:22 HKT",
  "hk_data_updated_hkt": "2026-10-10 10:44 HKT",
  "fx": {
   "USD": 7.8482,
@@ -47,68 +47,6 @@
   },
   {
    "rank": 2,
-   "asin": "B0DT6NZ9V9",
-   "domain": "amazon.fr",
-   "marketplace_code": "FR",
-   "marketplace_zh": "法國 Amazon",
-   "title": "MSI NVIDIA GeForce RTX 5080 16G Ventus 3X OC Graphics Card",
-   "url": "https://www.amazon.fr/dp/B0DT6NZ9V9",
-   "image": "img/B0DT6NZ9V9.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 11436,
-    "currency": "EUR",
-    "price": 1249.17,
-    "shipping_to_hk": 25.76,
-    "total_local": 1274.93,
-    "price_text": "€1,249.17 + 運費 €25.76",
-    "stock": "",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "未來科技 BUYMORE",
-     "store_short": "未來科技 BUYMORE",
-     "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [黑色] [長: 303mm]",
-     "price_hkd": 13899,
-     "url": "https://buymore.hk/shop/goods.php?id=43721"
-    },
-    "others": [
-     {
-      "store": "SE Computer",
-      "store_short": "SE Computer",
-      "name": "MSI微星 RTX5080 16G VENTUS 3X OC 16GB GDDR7 (G5080-16V3C)",
-      "price_hkd": 13999,
-      "url": "https://secomputer.com.hk/products/56737"
-     },
-     {
-      "store": "中田電腦 Centralfield",
-      "store_short": "中田電腦",
-      "name": "MSI GeForce RTX 5080 Ventus 3X OC 16GB GDDR7 顯示卡 三風扇超頻版",
-      "price_hkd": 13999,
-      "url": "https://centralfield.com/product/11152/msi-geforce-rtx-5080-ventus-3x-oc-16gb"
-     },
-     {
-      "store": "未來科技 BUYMORE",
-      "store_short": "未來科技 BUYMORE",
-      "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [白色] [長: 303mm]",
-      "price_hkd": 13999,
-      "url": "https://buymore.hk/shop/goods.php?id=44052"
-     },
-     {
-      "store": "飛馬 PEGASUS",
-      "store_short": "飛馬",
-      "name": "MSI 微星 GeForce RTX 5080 16G VENTUS 3X OC 顯示卡",
-      "price_hkd": 14199,
-      "url": "https://shop.pegasus.hk/products/223217/MSI-微星-GeForce-RTX-5080-16G-VENTUS-3X-OC-顯示卡"
-     }
-    ]
-   },
-   "vs_hk_hkd": 2463,
-   "vs_hk_text": "比香港平 HK$2,463"
-  },
-  {
-   "rank": 3,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -132,7 +70,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 3,
    "asin": "B0DS65VMC6",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -180,7 +118,7 @@
    "vs_hk_text": "比香港平 HK$2,523"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "asin": "B0BX6LGM2X",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -226,6 +164,68 @@
    },
    "vs_hk_hkd": 2169,
    "vs_hk_text": "比香港平 HK$2,169"
+  },
+  {
+   "rank": 5,
+   "asin": "B0DT6NZ9V9",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "MSI NVIDIA GeForce RTX 5080 16G Ventus 3X OC Graphics Card",
+   "url": "https://www.amazon.co.uk/dp/B0DT6NZ9V9",
+   "image": "img/B0DT6NZ9V9.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 12563,
+    "currency": "USD",
+    "price": 1543.85,
+    "shipping_to_hk": 25.54,
+    "total_local": 1569.39,
+    "price_text": "US$1,543.85 + 運費 US$25.54",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "未來科技 BUYMORE",
+     "store_short": "未來科技 BUYMORE",
+     "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [黑色] [長: 303mm]",
+     "price_hkd": 13899,
+     "url": "https://buymore.hk/shop/goods.php?id=43721"
+    },
+    "others": [
+     {
+      "store": "SE Computer",
+      "store_short": "SE Computer",
+      "name": "MSI微星 RTX5080 16G VENTUS 3X OC 16GB GDDR7 (G5080-16V3C)",
+      "price_hkd": 13999,
+      "url": "https://secomputer.com.hk/products/56737"
+     },
+     {
+      "store": "中田電腦 Centralfield",
+      "store_short": "中田電腦",
+      "name": "MSI GeForce RTX 5080 Ventus 3X OC 16GB GDDR7 顯示卡 三風扇超頻版",
+      "price_hkd": 13999,
+      "url": "https://centralfield.com/product/11152/msi-geforce-rtx-5080-ventus-3x-oc-16gb"
+     },
+     {
+      "store": "未來科技 BUYMORE",
+      "store_short": "未來科技 BUYMORE",
+      "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [白色] [長: 303mm]",
+      "price_hkd": 13999,
+      "url": "https://buymore.hk/shop/goods.php?id=44052"
+     },
+     {
+      "store": "飛馬 PEGASUS",
+      "store_short": "飛馬",
+      "name": "MSI 微星 GeForce RTX 5080 16G VENTUS 3X OC 顯示卡",
+      "price_hkd": 14199,
+      "url": "https://shop.pegasus.hk/products/223217/MSI-微星-GeForce-RTX-5080-16G-VENTUS-3X-OC-顯示卡"
+     }
+    ]
+   },
+   "vs_hk_hkd": 1336,
+   "vs_hk_text": "比香港平 HK$1,336"
   },
   {
    "rank": 6,
@@ -390,6 +390,6 @@
    "vs_hk_text": "比香港平 HK$2,665"
   }
  ],
- "generated_at": "2026-10-12T04:31:09+08:00",
- "generated_at_hkt": "2026-10-12 04:31 HKT"
+ "generated_at": "2026-10-12T05:22:31+08:00",
+ "generated_at_hkt": "2026-10-12 05:22 HKT"
 }
