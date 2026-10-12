@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-12 09:19 HKT",
- "amazon_data_updated_hkt": "2026-10-12 09:19 HKT",
+ "price_updated_hkt": "2026-10-12 10:23 HKT",
+ "amazon_data_updated_hkt": "2026-10-12 10:23 HKT",
  "hk_data_updated_hkt": "2026-10-10 10:44 HKT",
  "fx": {
   "USD": 7.848,
@@ -47,6 +47,30 @@
   },
   {
    "rank": 2,
+   "asin": "B0H1MSZFW6",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "PNY RTX 5080 16GB Triple Fan DLSS 4",
+   "url": "https://www.amazon.fr/dp/B0H1MSZFW6",
+   "image": "img/B0H1MSZFW6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/61qIACMZ3zL._AC_SL1200_.jpg",
+   "amazon": {
+    "total_hkd": 11807,
+    "currency": "EUR",
+    "price": 1291.66,
+    "shipping_to_hk": 24.98,
+    "total_local": 1316.64,
+    "price_text": "€1,291.66 + 運費 €24.98",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 3,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -70,7 +94,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 3,
+   "rank": 4,
    "asin": "B0DS65VMC6",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -118,7 +142,7 @@
    "vs_hk_text": "比香港平 HK$2,523"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "asin": "B0BX6LGM2X",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -164,30 +188,6 @@
    },
    "vs_hk_hkd": 2169,
    "vs_hk_text": "比香港平 HK$2,169"
-  },
-  {
-   "rank": 5,
-   "asin": "B0DYRZZJZ1",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB Triple Fan Graphics Card DLSS 4",
-   "url": "https://www.amazon.de/dp/B0DYRZZJZ1",
-   "image": "img/B0DYRZZJZ1.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 12548,
-    "currency": "USD",
-    "price": 1549.55,
-    "shipping_to_hk": 17.98,
-    "total_local": 1567.53,
-    "price_text": "US$1,549.55 + 運費 US$17.98",
-    "stock": "",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
   },
   {
    "rank": 6,
@@ -366,6 +366,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-12T09:19:39+08:00",
- "generated_at_hkt": "2026-10-12 09:19 HKT"
+ "generated_at": "2026-10-12T10:23:09+08:00",
+ "generated_at_hkt": "2026-10-12 10:23 HKT"
 }
