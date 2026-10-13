@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-13 20:49 HKT",
- "amazon_data_updated_hkt": "2026-10-13 20:49 HKT",
+ "price_updated_hkt": "2026-10-13 22:59 HKT",
+ "amazon_data_updated_hkt": "2026-10-13 22:59 HKT",
  "hk_data_updated_hkt": "2026-10-13 20:02 HKT",
  "fx": {
   "USD": 7.8477,
@@ -15,21 +15,21 @@
   {
    "rank": 1,
    "asin": "B0DTJDR3V9",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
+   "domain": "amazon.es",
+   "marketplace_code": "ES",
+   "marketplace_zh": "西班牙 Amazon",
    "title": "PNY GeForce RTX™ 5080 16GB ARGB OC Triple Fan DLSS 4 Graphics Card",
-   "url": "https://www.amazon.de/dp/B0DTJDR3V9",
+   "url": "https://www.amazon.es/dp/B0DTJDR3V9",
    "image": "img/B0DTJDR3V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/6139iUxGy-L._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 11886,
-    "currency": "USD",
-    "price": 1466.99,
-    "shipping_to_hk": 17.94,
-    "total_local": 1484.93,
-    "price_text": "US$1,466.99 + 運費 US$17.94",
-    "stock": "Only 10 left in stock.",
+    "total_hkd": 12121,
+    "currency": "EUR",
+    "price": 1329.67,
+    "shipping_to_hk": 25.81,
+    "total_local": 1355.48,
+    "price_text": "€1,329.67 + 運費 €25.81",
+    "stock": "In stock",
     "seller": "Amazon"
    },
    "hk": null,
@@ -38,30 +38,6 @@
   },
   {
    "rank": 2,
-   "asin": "B0DYRZZJZ1",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB Triple Fan Graphics Card DLSS 4",
-   "url": "https://www.amazon.co.uk/dp/B0DYRZZJZ1",
-   "image": "img/B0DYRZZJZ1.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 11927,
-    "currency": "USD",
-    "price": 1468.43,
-    "shipping_to_hk": 21.54,
-    "total_local": 1489.97,
-    "price_text": "US$1,468.43 + 運費 US$21.54",
-    "stock": "Only 2 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 3,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -85,7 +61,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 3,
    "asin": "B0DS65VMC6",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -124,6 +100,30 @@
    },
    "vs_hk_hkd": 2553,
    "vs_hk_text": "比香港平 HK$2,553"
+  },
+  {
+   "rank": 4,
+   "asin": "B0DYRZZJZ1",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "PNY GeForce RTX™ 5080 16GB Triple Fan Graphics Card DLSS 4",
+   "url": "https://www.amazon.co.uk/dp/B0DYRZZJZ1",
+   "image": "img/B0DYRZZJZ1.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 12527,
+    "currency": "USD",
+    "price": 1543.4,
+    "shipping_to_hk": 21.54,
+    "total_local": 1564.94,
+    "price_text": "US$1,543.40 + 運費 US$21.54",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
   },
   {
    "rank": 5,
@@ -270,7 +270,7 @@
     "shipping_to_hk": 29.08,
     "total_local": 1412.54,
     "price_text": "€1,383.46 + 運費 €29.08",
-    "stock": "Only 10 left in stock.",
+    "stock": "Only 8 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -350,6 +350,6 @@
    "vs_hk_text": "比香港平 HK$2,705"
   }
  ],
- "generated_at": "2026-10-13T20:49:39+08:00",
- "generated_at_hkt": "2026-10-13 20:49 HKT"
+ "generated_at": "2026-10-13T23:00:05+08:00",
+ "generated_at_hkt": "2026-10-13 23:00 HKT"
 }
