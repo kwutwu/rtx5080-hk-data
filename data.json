@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-14 21:11 HKT",
- "amazon_data_updated_hkt": "2026-10-14 21:11 HKT",
+ "price_updated_hkt": "2026-10-14 21:44 HKT",
+ "amazon_data_updated_hkt": "2026-10-14 21:44 HKT",
  "hk_data_updated_hkt": "2026-10-14 14:49 HKT",
  "fx": {
   "USD": 7.8483,
@@ -14,6 +14,30 @@
  "cards": [
   {
    "rank": 1,
+   "asin": "B0BT9R5XNN",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "msi GeForce RTX 5080 16G SHADOW 3X OC Graphics Card - RTX 5080 GPU, 16GB GDDR7 (30Gbps/256-bit), PCIe 5.0 - Triple Fan Design (3 x TORX FAN 5.0) - HDMI 2.1b, DisplayPort 2.1b",
+   "url": "https://www.amazon.co.uk/dp/B0BT9R5XNN",
+   "image": "img/B0BT9R5XNN.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71vuPWXUwNL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 11595,
+    "currency": "HKD",
+    "price": 11198.39,
+    "shipping_to_hk": 169.59,
+    "total_local": 11367.98,
+    "price_text": "HK$11,198.39 + 運費 HK$169.59",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 2,
    "asin": "B0DTJFZ4YS",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -37,7 +61,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 2,
+   "rank": 3,
    "asin": "B0DSWKJLJP",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -70,7 +94,7 @@
    "vs_hk_text": "比香港平 HK$559"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "asin": "B0DTJDR3V9",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -81,11 +105,11 @@
    "image_fallback_url": "https://m.media-amazon.com/images/I/6139iUxGy-L._AC_SL1000_.jpg",
    "amazon": {
     "total_hkd": 12163,
-    "currency": "USD",
-    "price": 1501.41,
-    "shipping_to_hk": 17.99,
-    "total_local": 1519.4,
-    "price_text": "US$1,501.41 + 運費 US$17.99",
+    "currency": "HKD",
+    "price": 11783.58,
+    "shipping_to_hk": 141.19,
+    "total_local": 11924.77,
+    "price_text": "HK$11,783.58 + 運費 HK$141.19",
     "stock": "Only 3 left in stock.",
     "seller": "Amazon"
    },
@@ -94,7 +118,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 5,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -105,11 +129,11 @@
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
     "total_hkd": 12193,
-    "currency": "USD",
-    "price": 1506.11,
-    "shipping_to_hk": 17.03,
-    "total_local": 1523.14,
-    "price_text": "US$1,506.11 + 運費 US$17.03",
+    "currency": "HKD",
+    "price": 11820.53,
+    "shipping_to_hk": 133.63,
+    "total_local": 11954.16,
+    "price_text": "HK$11,820.53 + 運費 HK$133.63",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -118,7 +142,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 5,
+   "rank": 6,
    "asin": "B0DS65VMC6",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -129,12 +153,12 @@
    "image_fallback_url": "https://m.media-amazon.com/images/I/81cPV47HNyL._AC_SL1500_.jpg",
    "amazon": {
     "total_hkd": 12483,
-    "currency": "USD",
-    "price": 1543.79,
-    "shipping_to_hk": 15.52,
-    "total_local": 1559.31,
-    "price_text": "US$1,543.79 + 運費 US$15.52",
-    "stock": "Only 9 left in stock.",
+    "currency": "HKD",
+    "price": 12116.2,
+    "shipping_to_hk": 121.84,
+    "total_local": 12238.04,
+    "price_text": "HK$12,116.20 + 運費 HK$121.84",
+    "stock": "Only 8 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -159,7 +183,7 @@
    "vs_hk_text": "比香港平 HK$2,267"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "asin": "B0DYRZZJZ1",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -183,7 +207,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0DT6NZ9V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -245,7 +269,7 @@
    "vs_hk_text": "比香港平 HK$1,305"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -286,7 +310,7 @@
    "vs_hk_text": "比香港平 HK$3,393"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -317,32 +341,8 @@
    },
    "vs_hk_hkd": 1771,
    "vs_hk_text": "比香港平 HK$1,771"
-  },
-  {
-   "rank": 10,
-   "asin": "B0DTHTWBMB",
-   "domain": "amazon.fr",
-   "marketplace_code": "FR",
-   "marketplace_zh": "法國 Amazon",
-   "title": "ASUS Prime GeForce RTX 5080 16GB GDDR7 Graphics Card Gaming",
-   "url": "https://www.amazon.fr/dp/B0DTHTWBMB",
-   "image": "img/B0DTHTWBMB.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/61jBGR4QhNL._AC_SL1000_.jpg",
-   "amazon": {
-    "total_hkd": 12657,
-    "currency": "EUR",
-    "price": 1383.46,
-    "shipping_to_hk": 29.08,
-    "total_local": 1412.54,
-    "price_text": "€1,383.46 + 運費 €29.08",
-    "stock": "Only 5 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-14T21:11:20+08:00",
- "generated_at_hkt": "2026-10-14 21:11 HKT"
+ "generated_at": "2026-10-14T21:44:33+08:00",
+ "generated_at_hkt": "2026-10-14 21:44 HKT"
 }
