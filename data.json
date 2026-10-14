@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-14 08:36 HKT",
- "amazon_data_updated_hkt": "2026-10-14 08:36 HKT",
+ "price_updated_hkt": "2026-10-14 09:05 HKT",
+ "amazon_data_updated_hkt": "2026-10-14 09:05 HKT",
  "hk_data_updated_hkt": "2026-10-13 20:02 HKT",
  "fx": {
   "USD": 7.8483,
@@ -127,6 +127,54 @@
   },
   {
    "rank": 5,
+   "asin": "B0BX6LGM2X",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Gaming Trio OC - Gaming Graphics Card",
+   "url": "https://www.amazon.co.uk/dp/B0BX6LGM2X",
+   "image": "img/B0BX6LGM2X.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71n9sxFO9dL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 12519,
+    "currency": "USD",
+    "price": 1542.3,
+    "shipping_to_hk": 21.54,
+    "total_local": 1563.84,
+    "price_text": "US$1,542.30 + 運費 US$21.54",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "中田電腦 Centralfield",
+     "store_short": "中田電腦",
+     "name": "MSI GeForce RTX 5080 Gaming Trio OC 16GB 白色顯示卡",
+     "price_hkd": 14750,
+     "url": "https://centralfield.com/product/11167/msi-rtx-5080-gaming-trio-oc-16gb-white"
+    },
+    "others": [
+     {
+      "store": "中田電腦 Centralfield",
+      "store_short": "中田電腦",
+      "name": "MSI GeForce RTX 5080 Gaming Trio OC 16GB 顯示卡",
+      "price_hkd": 14750,
+      "url": "https://centralfield.com/product/10678/msi-rtx-5080-gaming-trio-oc-16gb"
+     },
+     {
+      "store": "Jumbo 珍寶電腦",
+      "store_short": "Jumbo",
+      "name": "MSI GeForce RTX 5080 GAMING TRIO OC 16GB GDDR7 (DI-N5080L1)",
+      "price_hkd": 14800,
+      "url": "https://www.jumbo-computer.com/zh-hk/products/msi-geforce-rtx-5080-gaming-trio-oc-16gb-gddr7"
+     }
+    ]
+   },
+   "vs_hk_hkd": 2231,
+   "vs_hk_text": "比香港平 HK$2,231"
+  },
+  {
+   "rank": 6,
    "asin": "B0DYRZZJZ1",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -150,7 +198,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 6,
+   "rank": 7,
    "asin": "B0DT6NZ9V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -212,7 +260,7 @@
    "vs_hk_text": "比香港平 HK$1,347"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -245,7 +293,7 @@
    "vs_hk_text": "比香港平 HK$3,434"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -278,7 +326,7 @@
    "vs_hk_text": "比香港平 HK$1,771"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0DTHTWBMB",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -300,32 +348,8 @@
    "hk": null,
    "vs_hk_hkd": null,
    "vs_hk_text": null
-  },
-  {
-   "rank": 10,
-   "asin": "B0DZCVQGG6",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
-   "url": "https://www.amazon.de/dp/B0DZCVQGG6",
-   "image": "img/B0DZCVQGG6.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
-   "amazon": {
-    "total_hkd": 12693,
-    "currency": "USD",
-    "price": 1567.68,
-    "shipping_to_hk": 17.94,
-    "total_local": 1585.62,
-    "price_text": "US$1,567.68 + 運費 US$17.94",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-14T08:36:51+08:00",
- "generated_at_hkt": "2026-10-14 08:36 HKT"
+ "generated_at": "2026-10-14T09:05:03+08:00",
+ "generated_at_hkt": "2026-10-14 09:05 HKT"
 }
