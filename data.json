@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-14 12:40 HKT",
- "amazon_data_updated_hkt": "2026-10-14 12:40 HKT",
+ "price_updated_hkt": "2026-10-14 13:02 HKT",
+ "amazon_data_updated_hkt": "2026-10-14 13:02 HKT",
  "hk_data_updated_hkt": "2026-10-13 20:02 HKT",
  "fx": {
   "USD": 7.8483,
@@ -62,30 +62,6 @@
   },
   {
    "rank": 3,
-   "asin": "B0DTJDR3V9",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB ARGB OC Triple Fan DLSS 4 Graphics Card",
-   "url": "https://www.amazon.de/dp/B0DTJDR3V9",
-   "image": "img/B0DTJDR3V9.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/6139iUxGy-L._AC_SL1000_.jpg",
-   "amazon": {
-    "total_hkd": 12128,
-    "currency": "USD",
-    "price": 1497.04,
-    "shipping_to_hk": 17.94,
-    "total_local": 1514.98,
-    "price_text": "US$1,497.04 + 運費 US$17.94",
-    "stock": "Only 4 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 4,
    "asin": "B0DSWKJLJP",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -118,7 +94,7 @@
    "vs_hk_text": "比香港平 HK$559"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -142,6 +118,30 @@
    "vs_hk_text": null
   },
   {
+   "rank": 5,
+   "asin": "B0DTJDR3V9",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "PNY GeForce RTX™ 5080 16GB ARGB OC Triple Fan DLSS 4 Graphics Card",
+   "url": "https://www.amazon.de/dp/B0DTJDR3V9",
+   "image": "img/B0DTJDR3V9.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/6139iUxGy-L._AC_SL1000_.jpg",
+   "amazon": {
+    "total_hkd": 12163,
+    "currency": "USD",
+    "price": 1501.41,
+    "shipping_to_hk": 17.99,
+    "total_local": 1519.4,
+    "price_text": "US$1,501.41 + 運費 US$17.99",
+    "stock": "Only 4 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
    "rank": 6,
    "asin": "B0DS65VMC6",
    "domain": "amazon.de",
@@ -152,12 +152,12 @@
    "image": "img/B0DS65VMC6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81cPV47HNyL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12483,
+    "total_hkd": 12446,
     "currency": "USD",
-    "price": 1543.79,
-    "shipping_to_hk": 15.52,
-    "total_local": 1559.31,
-    "price_text": "US$1,543.79 + 運費 US$15.52",
+    "price": 1539.3,
+    "shipping_to_hk": 15.48,
+    "total_local": 1554.78,
+    "price_text": "US$1,539.30 + 運費 US$15.48",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -179,8 +179,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 2267,
-   "vs_hk_text": "比香港平 HK$2,267"
+   "vs_hk_hkd": 2304,
+   "vs_hk_text": "比香港平 HK$2,304"
   },
   {
    "rank": 7,
@@ -335,6 +335,6 @@
    "vs_hk_text": "比香港平 HK$1,771"
   }
  ],
- "generated_at": "2026-10-14T12:40:12+08:00",
- "generated_at_hkt": "2026-10-14 12:40 HKT"
+ "generated_at": "2026-10-14T13:02:03+08:00",
+ "generated_at_hkt": "2026-10-14 13:02 HKT"
 }
