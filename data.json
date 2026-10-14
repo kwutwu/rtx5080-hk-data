@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-14 18:03 HKT",
- "amazon_data_updated_hkt": "2026-10-14 18:03 HKT",
+ "price_updated_hkt": "2026-10-14 18:36 HKT",
+ "amazon_data_updated_hkt": "2026-10-14 18:36 HKT",
  "hk_data_updated_hkt": "2026-10-14 14:49 HKT",
  "fx": {
   "USD": 7.8483,
@@ -86,7 +86,7 @@
     "shipping_to_hk": 141.19,
     "total_local": 11924.77,
     "price_text": "HK$11,783.58 + 運費 HK$141.19",
-    "stock": "Only 3 left in stock.",
+    "stock": "Only 2 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -134,7 +134,7 @@
     "shipping_to_hk": 121.84,
     "total_local": 12238.04,
     "price_text": "HK$12,116.20 + 運費 HK$121.84",
-    "stock": "Only 12 left in stock.",
+    "stock": "Only 11 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -343,6 +343,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-14T18:03:15+08:00",
- "generated_at_hkt": "2026-10-14 18:03 HKT"
+ "generated_at": "2026-10-14T18:36:04+08:00",
+ "generated_at_hkt": "2026-10-14 18:36 HKT"
 }
