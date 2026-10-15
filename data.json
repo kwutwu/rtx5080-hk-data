@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-15 17:49 HKT",
- "amazon_data_updated_hkt": "2026-10-15 17:49 HKT",
+ "price_updated_hkt": "2026-10-15 18:44 HKT",
+ "amazon_data_updated_hkt": "2026-10-15 18:44 HKT",
  "hk_data_updated_hkt": "2026-10-15 12:42 HKT",
  "fx": {
   "USD": 7.8485,
@@ -14,30 +14,6 @@
  "cards": [
   {
    "rank": 1,
-   "asin": "B0DTJDR3V9",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB ARGB OC Triple Fan DLSS 4 Graphics Card",
-   "url": "https://www.amazon.co.uk/dp/B0DTJDR3V9",
-   "image": "img/B0DTJDR3V9.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/6139iUxGy-L._AC_SL1000_.jpg",
-   "amazon": {
-    "total_hkd": 12185,
-    "currency": "HKD",
-    "price": 11777.01,
-    "shipping_to_hk": 169.18,
-    "total_local": 11946.19,
-    "price_text": "HK$11,777.01 + 運費 HK$169.18",
-    "stock": "Only 1 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 2,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -61,7 +37,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 3,
+   "rank": 2,
    "asin": "B0DTJFZ4YS",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -85,7 +61,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 3,
    "asin": "B0DT6NZ9V9",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -147,7 +123,7 @@
    "vs_hk_text": "比香港平 HK$1,426"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "asin": "B0DYRZZJZ1",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -171,7 +147,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 6,
+   "rank": 5,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -219,7 +195,7 @@
    "vs_hk_text": "比香港平 HK$2,925"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -252,7 +228,7 @@
    "vs_hk_text": "比香港平 HK$1,819"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "asin": "B0DTHTWBMB",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -276,7 +252,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 9,
+   "rank": 8,
    "asin": "B0GPKCL34W",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -300,7 +276,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 10,
+   "rank": 9,
    "asin": "B0DS65VMC6",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -346,8 +322,32 @@
    },
    "vs_hk_hkd": 2053,
    "vs_hk_text": "比香港平 HK$2,053"
+  },
+  {
+   "rank": 10,
+   "asin": "B0DZCVQGG6",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
+   "url": "https://www.amazon.de/dp/B0DZCVQGG6",
+   "image": "img/B0DZCVQGG6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
+   "amazon": {
+    "total_hkd": 12751,
+    "currency": "HKD",
+    "price": 12359.7,
+    "shipping_to_hk": 141.42,
+    "total_local": 12501.12,
+    "price_text": "HK$12,359.70 + 運費 HK$141.42",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-15T17:50:00+08:00",
- "generated_at_hkt": "2026-10-15 17:50 HKT"
+ "generated_at": "2026-10-15T18:44:06+08:00",
+ "generated_at_hkt": "2026-10-15 18:44 HKT"
 }
