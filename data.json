@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-17 05:03 HKT",
- "amazon_data_updated_hkt": "2026-10-17 05:03 HKT",
+ "price_updated_hkt": "2026-10-17 05:40 HKT",
+ "amazon_data_updated_hkt": "2026-10-17 05:40 HKT",
  "hk_data_updated_hkt": "2026-10-16 10:44 HKT",
  "fx": {
   "USD": 7.8474,
@@ -14,30 +14,6 @@
  "cards": [
   {
    "rank": 1,
-   "asin": "B0BT9R5XNN",
-   "domain": "amazon.es",
-   "marketplace_code": "ES",
-   "marketplace_zh": "西班牙 Amazon",
-   "title": "msi GeForce RTX 5080 16G SHADOW 3X OC Graphics Card - RTX 5080 GPU, 16GB GDDR7 (30Gbps/256-bit), PCIe 5.0 - Triple Fan Design (3 x TORX FAN 5.0) - HDMI 2.1b, DisplayPort 2.1b",
-   "url": "https://www.amazon.es/dp/B0BT9R5XNN",
-   "image": "img/B0BT9R5XNN.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71vuPWXUwNL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 11532,
-    "currency": "EUR",
-    "price": 1264.45,
-    "shipping_to_hk": 20.17,
-    "total_local": 1284.62,
-    "price_text": "€1,264.45 + 運費 €20.17",
-    "stock": "Only 1 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 2,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -61,7 +37,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 3,
+   "rank": 2,
    "asin": "B0DTJDR3V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -71,12 +47,12 @@
    "image": "img/B0DTJDR3V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/6139iUxGy-L._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12237,
-    "currency": "HKD",
-    "price": 11827.44,
-    "shipping_to_hk": 169.9,
-    "total_local": 11997.34,
-    "price_text": "HK$11,827.44 + 運費 HK$169.90",
+    "total_hkd": 12239,
+    "currency": "USD",
+    "price": 1507.35,
+    "shipping_to_hk": 21.65,
+    "total_local": 1529.0,
+    "price_text": "US$1,507.35 + 運費 US$21.65",
     "stock": "",
     "seller": "Amazon"
    },
@@ -85,7 +61,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 3,
    "asin": "B0DTJFZ4YS",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -109,7 +85,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 5,
+   "rank": 4,
    "asin": "B0DT6NZ9V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -119,12 +95,12 @@
    "image": "img/B0DT6NZ9V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12617,
-    "currency": "HKD",
-    "price": 12167.97,
-    "shipping_to_hk": 201.31,
-    "total_local": 12369.28,
-    "price_text": "HK$12,167.97 + 運費 HK$201.31",
+    "total_hkd": 12618,
+    "currency": "USD",
+    "price": 1550.75,
+    "shipping_to_hk": 25.66,
+    "total_local": 1576.41,
+    "price_text": "US$1,550.75 + 運費 US$25.66",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -160,11 +136,11 @@
      }
     ]
    },
-   "vs_hk_hkd": 1282,
-   "vs_hk_text": "比香港平 HK$1,282"
+   "vs_hk_hkd": 1281,
+   "vs_hk_text": "比香港平 HK$1,281"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -174,12 +150,12 @@
    "image": "img/B0DSQ1RCZV.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12629,
-    "currency": "HKD",
-    "price": 12175.38,
-    "shipping_to_hk": 206.32,
-    "total_local": 12381.7,
-    "price_text": "HK$12,175.38 + 運費 HK$206.32",
+    "total_hkd": 12631,
+    "currency": "USD",
+    "price": 1551.69,
+    "shipping_to_hk": 26.29,
+    "total_local": 1577.98,
+    "price_text": "US$1,551.69 + 運費 US$26.29",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -208,11 +184,11 @@
      }
     ]
    },
-   "vs_hk_hkd": 2871,
-   "vs_hk_text": "比香港平 HK$2,871"
+   "vs_hk_hkd": 2869,
+   "vs_hk_text": "比香港平 HK$2,869"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -228,7 +204,7 @@
     "shipping_to_hk": 25.97,
     "total_local": 1409.3,
     "price_text": "€1,383.33 + 運費 €25.97",
-    "stock": "Only 9 left in stock.",
+    "stock": "Only 8 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -245,7 +221,7 @@
    "vs_hk_text": "比香港平 HK$1,748"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "asin": "B0DTHTWBMB",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -269,7 +245,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 9,
+   "rank": 8,
    "asin": "B0DS65VMC6",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -317,7 +293,7 @@
    "vs_hk_text": "比香港平 HK$2,015"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "asin": "B0DYRZZJZ1",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -327,13 +303,37 @@
    "image": "img/B0DYRZZJZ1.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12753,
-    "currency": "HKD",
-    "price": 12332.97,
-    "shipping_to_hk": 169.9,
-    "total_local": 12502.87,
-    "price_text": "HK$12,332.97 + 運費 HK$169.90",
+    "total_hkd": 12754,
+    "currency": "USD",
+    "price": 1571.78,
+    "shipping_to_hk": 21.65,
+    "total_local": 1593.43,
+    "price_text": "US$1,571.78 + 運費 US$21.65",
     "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 10,
+   "asin": "B0DZCVQGG6",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
+   "url": "https://www.amazon.de/dp/B0DZCVQGG6",
+   "image": "img/B0DZCVQGG6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
+   "amazon": {
+    "total_hkd": 12762,
+    "currency": "HKD",
+    "price": 12369.8,
+    "shipping_to_hk": 141.54,
+    "total_local": 12511.34,
+    "price_text": "HK$12,369.80 + 運費 HK$141.54",
+    "stock": "In stock",
     "seller": "Amazon"
    },
    "hk": null,
@@ -341,6 +341,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-17T05:03:38+08:00",
- "generated_at_hkt": "2026-10-17 05:03 HKT"
+ "generated_at": "2026-10-17T05:40:46+08:00",
+ "generated_at_hkt": "2026-10-17 05:40 HKT"
 }
