@@ -2,14 +2,14 @@
  "schema": 1,
  "price_updated_hkt": "2026-10-17 10:07 HKT",
  "amazon_data_updated_hkt": "2026-10-17 10:07 HKT",
- "hk_data_updated_hkt": "2026-10-16 10:44 HKT",
+ "hk_data_updated_hkt": "2026-10-17 10:14 HKT",
  "fx": {
   "USD": 7.8479,
   "EUR": 8.8227,
   "GBP": 10.4522
  },
  "fx_text": "匯率：1 USD ≈ HK$7.8479、1 EUR ≈ HK$8.8227、1 GBP ≈ HK$10.4522",
- "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-16 10:44 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
+ "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-17 10:14 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
   {
@@ -163,27 +163,13 @@
    },
    "hk": {
     "best": {
-     "store": "未來科技 BUYMORE",
-     "store_short": "未來科技 BUYMORE",
-     "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [黑色] [長: 303mm]",
-     "price_hkd": 13899,
-     "url": "https://buymore.hk/shop/goods.php?id=43721"
+     "store": "SE Computer",
+     "store_short": "SE Computer",
+     "name": "MSI微星 RTX5080 16G VENTUS 3X OC 16GB GDDR7 (G5080-16V3C)",
+     "price_hkd": 13999,
+     "url": "https://secomputer.com.hk/products/56737"
     },
     "others": [
-     {
-      "store": "SE Computer",
-      "store_short": "SE Computer",
-      "name": "MSI微星 RTX5080 16G VENTUS 3X OC 16GB GDDR7 (G5080-16V3C)",
-      "price_hkd": 13999,
-      "url": "https://secomputer.com.hk/products/56737"
-     },
-     {
-      "store": "未來科技 BUYMORE",
-      "store_short": "未來科技 BUYMORE",
-      "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [白色] [長: 303mm]",
-      "price_hkd": 13999,
-      "url": "https://buymore.hk/shop/goods.php?id=44052"
-     },
      {
       "store": "飛馬 PEGASUS",
       "store_short": "飛馬",
@@ -193,8 +179,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1282,
-   "vs_hk_text": "比香港平 HK$1,282"
+   "vs_hk_hkd": 1382,
+   "vs_hk_text": "比香港平 HK$1,382"
   },
   {
    "rank": 7,
@@ -225,13 +211,6 @@
      "url": "https://www.jumbo-computer.com/zh-hk/products/gigabyte-geforce-rtx-5080-gaming-oc-16gb-gddr7-gv-n5080gaming-oc-16gd"
     },
     "others": [
-     {
-      "store": "中田電腦 Centralfield",
-      "store_short": "中田電腦",
-      "name": "技嘉 GIGABYTE RTX 5080 GAMING OC 16GB GDDR7 顯示卡",
-      "price_hkd": 15999,
-      "url": "https://centralfield.com/product/10887/gigabyte-rtx-5080-gaming-oc-16gb-graphics-card"
-     },
      {
       "store": "飛馬 PEGASUS",
       "store_short": "飛馬",
@@ -314,20 +293,13 @@
    },
    "hk": {
     "best": {
-     "store": "中田電腦 Centralfield",
-     "store_short": "中田電腦",
-     "name": "ASUS 華碩 PRIME RTX 5080 OC 16GB GDDR7 三風扇顯示卡",
-     "price_hkd": 14750,
-     "url": "https://centralfield.com/product/10530/asus-rtx-5080-prime-oc-16gb"
+     "store": "Jumbo 珍寶電腦",
+     "store_short": "Jumbo",
+     "name": "ASUS PRIME GeForce RTX 5080 OC 16GB GDDR7 PRIME-RTX5080-O16G-GAMING (DI-E5080R1)",
+     "price_hkd": 15299,
+     "url": "https://www.jumbo-computer.com/zh-hk/products/asus-prime-geforce-rtx-5080-oc-16gb-gddr7-prime-rtx5080-o16g-gaming-di-e5080r1"
     },
     "others": [
-     {
-      "store": "Jumbo 珍寶電腦",
-      "store_short": "Jumbo",
-      "name": "ASUS PRIME GeForce RTX 5080 OC 16GB GDDR7 PRIME-RTX5080-O16G-GAMING (DI-E5080R1)",
-      "price_hkd": 15299,
-      "url": "https://www.jumbo-computer.com/zh-hk/products/asus-prime-geforce-rtx-5080-oc-16gb-gddr7-prime-rtx5080-o16g-gaming-di-e5080r1"
-     },
      {
       "store": "飛馬 PEGASUS",
       "store_short": "飛馬",
@@ -337,10 +309,10 @@
      }
     ]
    },
-   "vs_hk_hkd": 1984,
-   "vs_hk_text": "比香港平 HK$1,984"
+   "vs_hk_hkd": 2533,
+   "vs_hk_text": "比香港平 HK$2,533"
   }
  ],
- "generated_at": "2026-10-17T10:07:22+08:00",
- "generated_at_hkt": "2026-10-17 10:07 HKT"
+ "generated_at": "2026-10-17T10:15:13+08:00",
+ "generated_at_hkt": "2026-10-17 10:15 HKT"
 }
