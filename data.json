@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-17 10:07 HKT",
- "amazon_data_updated_hkt": "2026-10-17 10:07 HKT",
+ "price_updated_hkt": "2026-10-17 10:34 HKT",
+ "amazon_data_updated_hkt": "2026-10-17 10:34 HKT",
  "hk_data_updated_hkt": "2026-10-17 10:14 HKT",
  "fx": {
   "USD": 7.8479,
@@ -163,13 +163,27 @@
    },
    "hk": {
     "best": {
-     "store": "SE Computer",
-     "store_short": "SE Computer",
-     "name": "MSI微星 RTX5080 16G VENTUS 3X OC 16GB GDDR7 (G5080-16V3C)",
-     "price_hkd": 13999,
-     "url": "https://secomputer.com.hk/products/56737"
+     "store": "未來科技 BUYMORE",
+     "store_short": "未來科技 BUYMORE",
+     "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [黑色] [長: 303mm]",
+     "price_hkd": 13899,
+     "url": "https://buymore.hk/shop/goods.php?id=43721"
     },
     "others": [
+     {
+      "store": "SE Computer",
+      "store_short": "SE Computer",
+      "name": "MSI微星 RTX5080 16G VENTUS 3X OC 16GB GDDR7 (G5080-16V3C)",
+      "price_hkd": 13999,
+      "url": "https://secomputer.com.hk/products/56737"
+     },
+     {
+      "store": "未來科技 BUYMORE",
+      "store_short": "未來科技 BUYMORE",
+      "name": "【RTX5080】MSI RTX5080 VENTUS 3X OC 16GB [白色] [長: 303mm]",
+      "price_hkd": 13999,
+      "url": "https://buymore.hk/shop/goods.php?id=44052"
+     },
      {
       "store": "飛馬 PEGASUS",
       "store_short": "飛馬",
@@ -179,8 +193,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1382,
-   "vs_hk_text": "比香港平 HK$1,382"
+   "vs_hk_hkd": 1282,
+   "vs_hk_text": "比香港平 HK$1,282"
   },
   {
    "rank": 7,
@@ -313,6 +327,6 @@
    "vs_hk_text": "比香港平 HK$2,533"
   }
  ],
- "generated_at": "2026-10-17T10:15:13+08:00",
- "generated_at_hkt": "2026-10-17 10:15 HKT"
+ "generated_at": "2026-10-17T10:34:57+08:00",
+ "generated_at_hkt": "2026-10-17 10:34 HKT"
 }
