@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-19 07:36 HKT",
- "amazon_data_updated_hkt": "2026-10-19 07:36 HKT",
+ "price_updated_hkt": "2026-10-19 08:01 HKT",
+ "amazon_data_updated_hkt": "2026-10-19 08:01 HKT",
  "hk_data_updated_hkt": "2026-10-17 13:10 HKT",
  "fx": {
   "USD": 7.848,
@@ -157,30 +157,6 @@
   },
   {
    "rank": 5,
-   "asin": "B0DYRZZJZ1",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB Triple Fan Graphics Card DLSS 4",
-   "url": "https://www.amazon.co.uk/dp/B0DYRZZJZ1",
-   "image": "img/B0DYRZZJZ1.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 12801,
-    "currency": "USD",
-    "price": 1577.42,
-    "shipping_to_hk": 21.7,
-    "total_local": 1599.12,
-    "price_text": "US$1,577.42 + 運費 US$21.70",
-    "stock": "Only 1 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 6,
    "asin": "B09CL8ZFJ5",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -228,7 +204,7 @@
    "vs_hk_text": "比香港平 HK$2,625"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -276,7 +252,7 @@
    "vs_hk_text": "比香港平 HK$2,573"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "asin": "B0BX6LGM2X",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -324,7 +300,7 @@
    "vs_hk_text": "比香港平 HK$1,803"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -334,12 +310,12 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12982,
+    "total_hkd": 13225,
     "currency": "USD",
-    "price": 1604.65,
+    "price": 1634.99,
     "shipping_to_hk": 17.07,
-    "total_local": 1621.72,
-    "price_text": "US$1,604.65 + 運費 US$17.07",
+    "total_local": 1652.06,
+    "price_text": "US$1,634.99 + 運費 US$17.07",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -348,7 +324,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 10,
+   "rank": 9,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -379,8 +355,32 @@
    },
    "vs_hk_hkd": 2760,
    "vs_hk_text": "比香港平 HK$2,760"
+  },
+  {
+   "rank": 10,
+   "asin": "B0FD3XZ8P1",
+   "domain": "amazon.es",
+   "marketplace_code": "ES",
+   "marketplace_zh": "西班牙 Amazon",
+   "title": "GIGABYTE GeForce RTX 5080 Gaming 16G Graphics Card",
+   "url": "https://www.amazon.es/dp/B0FD3XZ8P1",
+   "image": null,
+   "image_fallback_url": null,
+   "amazon": {
+    "total_hkd": 13289,
+    "currency": "EUR",
+    "price": 1449.42,
+    "shipping_to_hk": 27.38,
+    "total_local": 1476.8,
+    "price_text": "€1,449.42 + 運費 €27.38",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-19T07:36:36+08:00",
- "generated_at_hkt": "2026-10-19 07:36 HKT"
+ "generated_at": "2026-10-19T08:01:31+08:00",
+ "generated_at_hkt": "2026-10-19 08:01 HKT"
 }
