@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-20 06:09 HKT",
- "amazon_data_updated_hkt": "2026-10-20 06:09 HKT",
+ "price_updated_hkt": "2026-10-20 06:51 HKT",
+ "amazon_data_updated_hkt": "2026-10-20 06:51 HKT",
  "hk_data_updated_hkt": "2026-10-19 09:57 HKT",
  "fx": {
   "USD": 7.8481,
@@ -173,7 +173,7 @@
     "shipping_to_hk": 22.19,
     "total_local": 1438.85,
     "price_text": "€1,416.66 + 運費 €22.19",
-    "stock": "Only 6 left in stock.",
+    "stock": "Only 4 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -352,6 +352,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-20T06:09:15+08:00",
- "generated_at_hkt": "2026-10-20 06:09 HKT"
+ "generated_at": "2026-10-20T06:51:41+08:00",
+ "generated_at_hkt": "2026-10-20 06:51 HKT"
 }
