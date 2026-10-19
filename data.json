@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-19 14:05 HKT",
- "amazon_data_updated_hkt": "2026-10-19 14:05 HKT",
+ "price_updated_hkt": "2026-10-19 14:37 HKT",
+ "amazon_data_updated_hkt": "2026-10-19 14:37 HKT",
  "hk_data_updated_hkt": "2026-10-19 09:57 HKT",
  "fx": {
   "USD": 7.8481,
@@ -80,12 +80,12 @@
    "image": "img/B0DT6NZ9V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12648,
+    "total_hkd": 12649,
     "currency": "USD",
-    "price": 1554.29,
-    "shipping_to_hk": 25.71,
-    "total_local": 1580.0,
-    "price_text": "US$1,554.29 + 運費 US$25.71",
+    "price": 1554.44,
+    "shipping_to_hk": 25.72,
+    "total_local": 1580.16,
+    "price_text": "US$1,554.44 + 運費 US$25.72",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -114,8 +114,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1551,
-   "vs_hk_text": "比香港平 HK$1,551"
+   "vs_hk_hkd": 1550,
+   "vs_hk_text": "比香港平 HK$1,550"
   },
   {
    "rank": 4,
@@ -128,13 +128,13 @@
    "image": "img/B0DS65VMC6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/814lQWaeAzL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12722,
+    "total_hkd": 12747,
     "currency": "EUR",
     "price": 1392.62,
-    "shipping_to_hk": 23.21,
-    "total_local": 1415.83,
-    "price_text": "€1,392.62 + 運費 €23.21",
-    "stock": "Only 1 left in stock.",
+    "shipping_to_hk": 25.96,
+    "total_local": 1418.58,
+    "price_text": "€1,392.62 + 運費 €25.96",
+    "stock": "Only 3 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -162,8 +162,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 2028,
-   "vs_hk_text": "比香港平 HK$2,028"
+   "vs_hk_hkd": 2003,
+   "vs_hk_text": "比香港平 HK$2,003"
   },
   {
    "rank": 5,
@@ -376,6 +376,6 @@
    "vs_hk_text": "比香港平 HK$2,779"
   }
  ],
- "generated_at": "2026-10-19T14:05:56+08:00",
- "generated_at_hkt": "2026-10-19 14:05 HKT"
+ "generated_at": "2026-10-19T14:37:39+08:00",
+ "generated_at_hkt": "2026-10-19 14:37 HKT"
 }
