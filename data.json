@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-20 15:34 HKT",
- "amazon_data_updated_hkt": "2026-10-20 15:34 HKT",
+ "price_updated_hkt": "2026-10-20 16:10 HKT",
+ "amazon_data_updated_hkt": "2026-10-20 16:10 HKT",
  "hk_data_updated_hkt": "2026-10-20 15:26 HKT",
  "fx": {
   "USD": 7.848,
@@ -14,30 +14,6 @@
  "cards": [
   {
    "rank": 1,
-   "asin": "B0BT9R5XNN",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "msi GeForce RTX 5080 16G SHADOW 3X OC Graphics Card - RTX 5080 GPU, 16GB GDDR7 (30Gbps/256-bit), PCIe 5.0 - Triple Fan Design (3 x TORX FAN 5.0) - HDMI 2.1b, DisplayPort 2.1b",
-   "url": "https://www.amazon.co.uk/dp/B0BT9R5XNN",
-   "image": "img/B0BT9R5XNN.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71vuPWXUwNL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 11657,
-    "currency": "USD",
-    "price": 1434.46,
-    "shipping_to_hk": 21.72,
-    "total_local": 1456.18,
-    "price_text": "US$1,434.46 + 運費 US$21.72",
-    "stock": "",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 2,
    "asin": "B0GWRN4Q36",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -61,7 +37,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 3,
+   "rank": 2,
    "asin": "B0DT6NZ9V9",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -77,7 +53,7 @@
     "shipping_to_hk": 31.16,
     "total_local": 1427.47,
     "price_text": "€1,396.31 + 運費 €31.16",
-    "stock": "Only 5 left in stock.",
+    "stock": "Only 6 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -102,7 +78,7 @@
    "vs_hk_text": "比香港平 HK$1,681"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "asin": "B09CL8ZFJ5",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -150,7 +126,7 @@
    "vs_hk_text": "比香港平 HK$2,652"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -191,7 +167,7 @@
    "vs_hk_text": "比香港平 HK$2,560"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -224,7 +200,7 @@
    "vs_hk_text": "比香港平 HK$2,788"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -257,7 +233,7 @@
    "vs_hk_text": "比香港平 HK$1,153"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "asin": "B0FD3XZ8P1",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -281,7 +257,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 9,
+   "rank": 8,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -305,7 +281,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 10,
+   "rank": 9,
    "asin": "B0DTHTWBMB",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -327,8 +303,32 @@
    "hk": null,
    "vs_hk_hkd": null,
    "vs_hk_text": null
+  },
+  {
+   "rank": 10,
+   "asin": "B0GTQTWTY5",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "PNY GeForce RTX™ 5080 16GB Slim Dual-Fan, 2-Slot Graphics Card",
+   "url": "https://www.amazon.co.uk/dp/B0GTQTWTY5",
+   "image": "img/B0GTQTWTY5.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/518wUbBOhaL._AC_SL1000_.jpg",
+   "amazon": {
+    "total_hkd": 13552,
+    "currency": "USD",
+    "price": 1677.31,
+    "shipping_to_hk": 15.69,
+    "total_local": 1693.0,
+    "price_text": "US$1,677.31 + 運費 US$15.69",
+    "stock": "Only 3 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-20T15:34:47+08:00",
- "generated_at_hkt": "2026-10-20 15:34 HKT"
+ "generated_at": "2026-10-20T16:10:24+08:00",
+ "generated_at_hkt": "2026-10-20 16:10 HKT"
 }
