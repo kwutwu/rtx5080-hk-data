@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-20 19:06 HKT",
- "amazon_data_updated_hkt": "2026-10-20 19:06 HKT",
+ "price_updated_hkt": "2026-10-20 19:47 HKT",
+ "amazon_data_updated_hkt": "2026-10-20 19:47 HKT",
  "hk_data_updated_hkt": "2026-10-20 15:26 HKT",
  "fx": {
   "USD": 7.848,
@@ -14,6 +14,47 @@
  "cards": [
   {
    "rank": 1,
+   "asin": "B0DS65VMC6",
+   "domain": "amazon.it",
+   "marketplace_code": "IT",
+   "marketplace_zh": "意大利 Amazon",
+   "title": "ASUS PRIME RTX5080 OC 16GB GDDR7 NVIDIA GeForce Graphics Card, Black",
+   "url": "https://www.amazon.it/dp/B0DS65VMC6",
+   "image": "img/B0DS65VMC6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/814lQWaeAzL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 12713,
+    "currency": "EUR",
+    "price": 1392.62,
+    "shipping_to_hk": 23.21,
+    "total_local": 1415.83,
+    "price_text": "€1,392.62 + 運費 €23.21",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "Jumbo 珍寶電腦",
+     "store_short": "Jumbo",
+     "name": "ASUS PRIME GeForce RTX 5080 OC 16GB GDDR7 PRIME-RTX5080-O16G-GAMING (DI-E5080R1)",
+     "price_hkd": 15299,
+     "url": "https://www.jumbo-computer.com/zh-hk/products/asus-prime-geforce-rtx-5080-oc-16gb-gddr7-prime-rtx5080-o16g-gaming-di-e5080r1"
+    },
+    "others": [
+     {
+      "store": "飛馬 PEGASUS",
+      "store_short": "飛馬",
+      "name": "ASUS 華碩 Prime GeForce RTX 5080 16G OC 顯示卡",
+      "price_hkd": 15299,
+      "url": "https://shop.pegasus.hk/products/223027/ASUS-華碩-Prime-GeForce-RTX-5080-16G-OC-顯示卡---3年保養"
+     }
+    ]
+   },
+   "vs_hk_hkd": 2586,
+   "vs_hk_text": "比香港平 HK$2,586"
+  },
+  {
+   "rank": 2,
    "asin": "B0GWRN4Q36",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -37,7 +78,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 2,
+   "rank": 3,
    "asin": "B09CL8ZFJ5",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -85,7 +126,7 @@
    "vs_hk_text": "比香港平 HK$2,652"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "asin": "B0DT6NZ9V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -126,7 +167,7 @@
    "vs_hk_text": "比香港平 HK$1,564"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -159,7 +200,7 @@
    "vs_hk_text": "比香港平 HK$1,460"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -200,7 +241,7 @@
    "vs_hk_text": "比香港平 HK$2,560"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -233,7 +274,7 @@
    "vs_hk_text": "比香港平 HK$2,788"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0FD3XZ8P1",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -257,7 +298,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 8,
+   "rank": 9,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -281,7 +322,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0DTHTWBMB",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -303,32 +344,8 @@
    "hk": null,
    "vs_hk_hkd": null,
    "vs_hk_text": null
-  },
-  {
-   "rank": 10,
-   "asin": "B0GTQTWTY5",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB Slim Dual-Fan, 2-Slot Graphics Card",
-   "url": "https://www.amazon.co.uk/dp/B0GTQTWTY5",
-   "image": "img/B0GTQTWTY5.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/518wUbBOhaL._AC_SL1000_.jpg",
-   "amazon": {
-    "total_hkd": 13552,
-    "currency": "USD",
-    "price": 1677.31,
-    "shipping_to_hk": 15.69,
-    "total_local": 1693.0,
-    "price_text": "US$1,677.31 + 運費 US$15.69",
-    "stock": "Only 3 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-20T19:06:09+08:00",
- "generated_at_hkt": "2026-10-20 19:06 HKT"
+ "generated_at": "2026-10-20T19:47:54+08:00",
+ "generated_at_hkt": "2026-10-20 19:47 HKT"
 }
