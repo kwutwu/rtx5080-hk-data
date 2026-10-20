@@ -1,15 +1,15 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-20 09:42 HKT",
- "amazon_data_updated_hkt": "2026-10-20 09:42 HKT",
- "hk_data_updated_hkt": "2026-10-19 09:57 HKT",
+ "price_updated_hkt": "2026-10-20 10:13 HKT",
+ "amazon_data_updated_hkt": "2026-10-20 10:13 HKT",
+ "hk_data_updated_hkt": "2026-10-20 09:58 HKT",
  "fx": {
   "USD": 7.848,
   "EUR": 8.8034,
   "GBP": 10.4488
  },
  "fx_text": "匯率：1 USD ≈ HK$7.848、1 EUR ≈ HK$8.8034、1 GBP ≈ HK$10.4488",
- "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-19 09:57 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
+ "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-20 09:58 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
   {
@@ -110,6 +110,30 @@
   },
   {
    "rank": 4,
+   "asin": "B0DZCVQGG6",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
+   "url": "https://www.amazon.de/dp/B0DZCVQGG6",
+   "image": "img/B0DZCVQGG6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
+   "amazon": {
+    "total_hkd": 12799,
+    "currency": "USD",
+    "price": 1575.45,
+    "shipping_to_hk": 23.4,
+    "total_local": 1598.85,
+    "price_text": "US$1,575.45 + 運費 US$23.40",
+    "stock": "Only 4 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 5,
    "asin": "B09CL8ZFJ5",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -157,7 +181,7 @@
    "vs_hk_text": "比香港平 HK$2,652"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "asin": "B0DTJDR3V9",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -181,7 +205,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 6,
+   "rank": 7,
    "asin": "B0BX6LGM2X",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -214,7 +238,7 @@
    "vs_hk_text": "比香港平 HK$1,880"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -262,7 +286,7 @@
    "vs_hk_text": "比香港平 HK$2,571"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "asin": "B0DT9Y2B49",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -295,7 +319,7 @@
    "vs_hk_text": "比香港平 HK$1,460"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -326,32 +350,8 @@
    },
    "vs_hk_hkd": 2788,
    "vs_hk_text": "比香港平 HK$2,788"
-  },
-  {
-   "rank": 10,
-   "asin": "B0FD3XZ8P1",
-   "domain": "amazon.es",
-   "marketplace_code": "ES",
-   "marketplace_zh": "西班牙 Amazon",
-   "title": "GIGABYTE GeForce RTX 5080 Gaming 16G Graphics Card",
-   "url": "https://www.amazon.es/dp/B0FD3XZ8P1",
-   "image": null,
-   "image_fallback_url": null,
-   "amazon": {
-    "total_hkd": 13261,
-    "currency": "EUR",
-    "price": 1449.42,
-    "shipping_to_hk": 27.38,
-    "total_local": 1476.8,
-    "price_text": "€1,449.42 + 運費 €27.38",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-20T09:42:13+08:00",
- "generated_at_hkt": "2026-10-20 09:42 HKT"
+ "generated_at": "2026-10-20T10:13:58+08:00",
+ "generated_at_hkt": "2026-10-20 10:13 HKT"
 }
