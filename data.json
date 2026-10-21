@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-21 12:40 HKT",
- "amazon_data_updated_hkt": "2026-10-21 12:40 HKT",
+ "price_updated_hkt": "2026-10-21 13:12 HKT",
+ "amazon_data_updated_hkt": "2026-10-21 13:12 HKT",
  "hk_data_updated_hkt": "2026-10-20 15:26 HKT",
  "fx": {
   "USD": 7.8483,
@@ -145,20 +145,20 @@
   {
    "rank": 4,
    "asin": "B0DT9Y2B49",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
+   "domain": "amazon.it",
+   "marketplace_code": "IT",
+   "marketplace_zh": "意大利 Amazon",
    "title": "GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card - 16GB GDDR7, 256-bit, PCI-E 5.0, 2670MHz Base Frequency, 3 x DP 2.1a, 1 x HDMI 2.1b, GV-N5080WF3OC-16GD",
-   "url": "https://www.amazon.de/dp/B0DT9Y2B49",
+   "url": "https://www.amazon.it/dp/B0DT9Y2B49",
    "image": "img/B0DT9Y2B49.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13065,
-    "currency": "USD",
-    "price": 1612.77,
-    "shipping_to_hk": 19.24,
-    "total_local": 1632.01,
-    "price_text": "US$1,612.77 + 運費 US$19.24",
+    "total_hkd": 12950,
+    "currency": "EUR",
+    "price": 1409.83,
+    "shipping_to_hk": 31.16,
+    "total_local": 1440.99,
+    "price_text": "€1,409.83 + 運費 €31.16",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -172,8 +172,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 1334,
-   "vs_hk_text": "比香港平 HK$1,334"
+   "vs_hk_hkd": 1449,
+   "vs_hk_text": "比香港平 HK$1,449"
   },
   {
    "rank": 5,
@@ -329,6 +329,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-21T12:40:52+08:00",
- "generated_at_hkt": "2026-10-21 12:40 HKT"
+ "generated_at": "2026-10-21T13:12:09+08:00",
+ "generated_at_hkt": "2026-10-21 13:12 HKT"
 }
