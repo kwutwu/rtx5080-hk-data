@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-21 18:42 HKT",
- "amazon_data_updated_hkt": "2026-10-21 18:42 HKT",
+ "price_updated_hkt": "2026-10-21 19:11 HKT",
+ "amazon_data_updated_hkt": "2026-10-21 19:11 HKT",
  "hk_data_updated_hkt": "2026-10-21 16:39 HKT",
  "fx": {
   "USD": 7.8483,
@@ -225,6 +225,30 @@
   },
   {
    "rank": 6,
+   "asin": "B0GWRN4Q36",
+   "domain": "amazon.it",
+   "marketplace_code": "IT",
+   "marketplace_zh": "意大利 Amazon",
+   "title": "msi NVIDIA GeForce RTX 5080 16G Inspire 3X OC Black Graphics Card 16GB",
+   "url": "https://www.amazon.it/dp/B0GWRN4Q36",
+   "image": "img/B0GWRN4Q36.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13268,
+    "currency": "EUR",
+    "price": 1450.81,
+    "shipping_to_hk": 25.52,
+    "total_local": 1476.33,
+    "price_text": "€1,450.81 + 運費 €25.52",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 7,
    "asin": "B0FD3XZ8P1",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -241,30 +265,6 @@
     "total_local": 1476.8,
     "price_text": "€1,449.42 + 運費 €27.38",
     "stock": "Only 5 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 7,
-   "asin": "B0GWRN4Q36",
-   "domain": "amazon.it",
-   "marketplace_code": "IT",
-   "marketplace_zh": "意大利 Amazon",
-   "title": "msi NVIDIA GeForce RTX 5080 16G Inspire 3X OC Black Graphics Card 16GB",
-   "url": "https://www.amazon.it/dp/B0GWRN4Q36",
-   "image": "img/B0GWRN4Q36.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 13295,
-    "currency": "EUR",
-    "price": 1450.81,
-    "shipping_to_hk": 28.5,
-    "total_local": 1479.31,
-    "price_text": "€1,450.81 + 運費 €28.50",
-    "stock": "In stock",
     "seller": "Amazon"
    },
    "hk": null,
@@ -353,6 +353,6 @@
    "vs_hk_text": "比香港平 HK$2,437"
   }
  ],
- "generated_at": "2026-10-21T18:42:12+08:00",
- "generated_at_hkt": "2026-10-21 18:42 HKT"
+ "generated_at": "2026-10-21T19:11:59+08:00",
+ "generated_at_hkt": "2026-10-21 19:11 HKT"
 }
