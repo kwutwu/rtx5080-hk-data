@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-23 00:43 HKT",
- "amazon_data_updated_hkt": "2026-10-23 00:43 HKT",
+ "price_updated_hkt": "2026-10-23 01:07 HKT",
+ "amazon_data_updated_hkt": "2026-10-23 01:07 HKT",
  "hk_data_updated_hkt": "2026-10-22 21:31 HKT",
  "fx": {
   "USD": 7.8473,
@@ -80,6 +80,39 @@
   },
   {
    "rank": 3,
+   "asin": "B0DSQ3B6PH",
+   "domain": "amazon.es",
+   "marketplace_code": "ES",
+   "marketplace_zh": "西班牙 Amazon",
+   "title": "Gigabyte GeForce RTX 5080 AERO OC SFF 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080AERO OC-16GD",
+   "url": "https://www.amazon.es/dp/B0DSQ3B6PH",
+   "image": "img/B0DSQ3B6PH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13227,
+    "currency": "EUR",
+    "price": 1445.45,
+    "shipping_to_hk": 25.81,
+    "total_local": 1471.26,
+    "price_text": "€1,445.45 + 運費 €25.81",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "GIGABYTE 技嘉 AERO SFF GeForce RTX 5080 16G OC 顯示卡",
+     "price_hkd": 16999,
+     "url": "https://shop.pegasus.hk/products/223087/GIGABYTE-技嘉-AERO-SFF-GeForce-RTX-5080-16G-OC-顯示卡---4-年保固需線上註冊保養"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 3772,
+   "vs_hk_text": "比香港平 HK$3,772"
+  },
+  {
+   "rank": 4,
    "asin": "B0GWRN4Q36",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -103,7 +136,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 5,
    "asin": "B0FD3XZ8P1",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -125,39 +158,6 @@
    "hk": null,
    "vs_hk_hkd": null,
    "vs_hk_text": null
-  },
-  {
-   "rank": 5,
-   "asin": "B0DSQ3B6PH",
-   "domain": "amazon.it",
-   "marketplace_code": "IT",
-   "marketplace_zh": "意大利 Amazon",
-   "title": "Gigabyte GeForce RTX 5080 AERO OC SFF 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080AERO OC-16GD",
-   "url": "https://www.amazon.it/dp/B0DSQ3B6PH",
-   "image": "img/B0DSQ3B6PH.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 13397,
-    "currency": "EUR",
-    "price": 1459.01,
-    "shipping_to_hk": 31.16,
-    "total_local": 1490.17,
-    "price_text": "€1,459.01 + 運費 €31.16",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "飛馬 PEGASUS",
-     "store_short": "飛馬",
-     "name": "GIGABYTE 技嘉 AERO SFF GeForce RTX 5080 16G OC 顯示卡",
-     "price_hkd": 16999,
-     "url": "https://shop.pegasus.hk/products/223087/GIGABYTE-技嘉-AERO-SFF-GeForce-RTX-5080-16G-OC-顯示卡---4-年保固需線上註冊保養"
-    },
-    "others": []
-   },
-   "vs_hk_hkd": 3602,
-   "vs_hk_text": "比香港平 HK$3,602"
   },
   {
    "rank": 6,
@@ -315,6 +315,6 @@
    "vs_hk_text": "比香港平 HK$2,014"
   }
  ],
- "generated_at": "2026-10-23T00:43:19+08:00",
- "generated_at_hkt": "2026-10-23 00:43 HKT"
+ "generated_at": "2026-10-23T01:07:19+08:00",
+ "generated_at_hkt": "2026-10-23 01:07 HKT"
 }
