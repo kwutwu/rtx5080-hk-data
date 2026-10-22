@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-23 04:36 HKT",
- "amazon_data_updated_hkt": "2026-10-23 04:36 HKT",
+ "price_updated_hkt": "2026-10-23 05:13 HKT",
+ "amazon_data_updated_hkt": "2026-10-23 05:13 HKT",
  "hk_data_updated_hkt": "2026-10-22 21:31 HKT",
  "fx": {
   "USD": 7.8473,
@@ -178,6 +178,54 @@
   },
   {
    "rank": 6,
+   "asin": "B0DS65VMC6",
+   "domain": "amazon.it",
+   "marketplace_code": "IT",
+   "marketplace_zh": "意大利 Amazon",
+   "title": "ASUS PRIME RTX5080 OC 16GB GDDR7 NVIDIA GeForce Graphics Card, Black",
+   "url": "https://www.amazon.it/dp/B0DS65VMC6",
+   "image": "img/B0DS65VMC6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/814lQWaeAzL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13466,
+    "currency": "EUR",
+    "price": 1474.59,
+    "shipping_to_hk": 23.21,
+    "total_local": 1497.8,
+    "price_text": "€1,474.59 + 運費 €23.21",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "ASUS 華碩 Prime GeForce RTX 5080 16G OC 顯示卡",
+     "price_hkd": 15499,
+     "url": "https://shop.pegasus.hk/products/223027/ASUS-華碩-Prime-GeForce-RTX-5080-16G-OC-顯示卡---3年保養"
+    },
+    "others": [
+     {
+      "store": "Jumbo 珍寶電腦",
+      "store_short": "Jumbo",
+      "name": "ASUS PRIME GeForce RTX 5080 OC 16GB GDDR7 PRIME-RTX5080-O16G-GAMING (DI-E5080R1) - 3年保養",
+      "price_hkd": 16299,
+      "url": "https://www.jumbo-computer.com/zh-hk/products/asus-prime-geforce-rtx-5080-oc-16gb-gddr7-prime-rtx5080-o16g-gaming-di-e5080r1"
+     },
+     {
+      "store": "未來科技 BUYMORE",
+      "store_short": "未來科技 BUYMORE",
+      "name": "【RTX5080】ASUS PRIME RTX5080 OC 16GB [長:306mm]",
+      "price_hkd": 18000,
+      "url": "https://buymore.hk/shop/goods.php?id=43465"
+     }
+    ]
+   },
+   "vs_hk_hkd": 2033,
+   "vs_hk_text": "比香港平 HK$2,033"
+  },
+  {
+   "rank": 7,
    "asin": "B09BD59F4T",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -201,7 +249,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -225,7 +273,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 8,
+   "rank": 9,
    "asin": "B0DT9YQ2Q1",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -258,7 +306,7 @@
    "vs_hk_text": "比香港平 HK$4,188"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0DS65KD1C",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -289,49 +337,8 @@
    },
    "vs_hk_hkd": 2014,
    "vs_hk_text": "比香港平 HK$2,014"
-  },
-  {
-   "rank": 10,
-   "asin": "B09CL8ZFJ5",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "ASUS GeForce RTX 5080 ProArt OC (16GB GDDR7/PCI Express 5.0/2730MHz/30000MHz)",
-   "url": "https://www.amazon.co.uk/dp/B09CL8ZFJ5",
-   "image": null,
-   "image_fallback_url": null,
-   "amazon": {
-    "total_hkd": 14108,
-    "currency": "USD",
-    "price": 1731.92,
-    "shipping_to_hk": 30.68,
-    "total_local": 1762.6,
-    "price_text": "US$1,731.92 + 運費 US$30.68",
-    "stock": "",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "飛馬 PEGASUS",
-     "store_short": "飛馬",
-     "name": "ASUS 華碩 PROART GeForce RTX 5080 16G OC 顯示卡",
-     "price_hkd": 16499,
-     "url": "https://shop.pegasus.hk/products/226880/ASUS-華碩-PROART-GeForce-RTX-5080-16G-OC-顯示卡---3年保養"
-    },
-    "others": [
-     {
-      "store": "未來科技 BUYMORE",
-      "store_short": "未來科技 BUYMORE",
-      "name": "【RTX5080】ASUS PROART RTX5080 OC 16GB [長:304mm]",
-      "price_hkd": 18000,
-      "url": "https://buymore.hk/shop/goods.php?id=45433"
-     }
-    ]
-   },
-   "vs_hk_hkd": 2391,
-   "vs_hk_text": "比香港平 HK$2,391"
   }
  ],
- "generated_at": "2026-10-23T04:36:48+08:00",
- "generated_at_hkt": "2026-10-23 04:36 HKT"
+ "generated_at": "2026-10-23T05:13:04+08:00",
+ "generated_at_hkt": "2026-10-23 05:13 HKT"
 }
