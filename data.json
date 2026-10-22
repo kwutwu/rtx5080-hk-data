@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-22 12:38 HKT",
- "amazon_data_updated_hkt": "2026-10-22 12:38 HKT",
+ "price_updated_hkt": "2026-10-22 13:10 HKT",
+ "amazon_data_updated_hkt": "2026-10-22 13:10 HKT",
  "hk_data_updated_hkt": "2026-10-21 16:39 HKT",
  "fx": {
   "USD": 7.8473,
@@ -71,12 +71,12 @@
    "image": "img/B0DTJDR3V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/6139iUxGy-L._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 12878,
+    "total_hkd": 12893,
     "currency": "USD",
-    "price": 1590.85,
-    "shipping_to_hk": 18.02,
-    "total_local": 1608.87,
-    "price_text": "US$1,590.85 + 運費 US$18.02",
+    "price": 1592.79,
+    "shipping_to_hk": 18.04,
+    "total_local": 1610.83,
+    "price_text": "US$1,592.79 + 運費 US$18.04",
     "stock": "Only 1 left in stock.",
     "seller": "Amazon"
    },
@@ -344,6 +344,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-22T12:38:17+08:00",
- "generated_at_hkt": "2026-10-22 12:38 HKT"
+ "generated_at": "2026-10-22T13:10:34+08:00",
+ "generated_at_hkt": "2026-10-22 13:10 HKT"
 }
