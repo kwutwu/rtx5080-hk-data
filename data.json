@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-23 10:40 HKT",
- "amazon_data_updated_hkt": "2026-10-23 10:40 HKT",
+ "price_updated_hkt": "2026-10-23 11:07 HKT",
+ "amazon_data_updated_hkt": "2026-10-23 11:07 HKT",
  "hk_data_updated_hkt": "2026-10-23 10:31 HKT",
  "fx": {
   "USD": 7.8372,
@@ -14,6 +14,30 @@
  "cards": [
   {
    "rank": 1,
+   "asin": "B0DZCVQGG6",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
+   "url": "https://www.amazon.co.uk/dp/B0DZCVQGG6",
+   "image": "img/B0DZCVQGG6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
+   "amazon": {
+    "total_hkd": 12322,
+    "currency": "USD",
+    "price": 1519.61,
+    "shipping_to_hk": 21.83,
+    "total_local": 1541.44,
+    "price_text": "US$1,519.61 + 運費 US$21.83",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 2,
    "asin": "B0DT9Y2B49",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -23,12 +47,12 @@
    "image": "img/B0DT9Y2B49.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12892,
+    "total_hkd": 12921,
     "currency": "EUR",
     "price": 1409.83,
-    "shipping_to_hk": 27.94,
-    "total_local": 1437.77,
-    "price_text": "€1,409.83 + 運費 €27.94",
+    "shipping_to_hk": 31.16,
+    "total_local": 1440.99,
+    "price_text": "€1,409.83 + 運費 €31.16",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -42,11 +66,11 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 3107,
-   "vs_hk_text": "比香港平 HK$3,107"
+   "vs_hk_hkd": 3078,
+   "vs_hk_text": "比香港平 HK$3,078"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "asin": "B0DT6NZ9V9",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -79,7 +103,7 @@
    "vs_hk_text": "比香港平 HK$2,019"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -112,7 +136,7 @@
    "vs_hk_text": "比香港平 HK$3,807"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "asin": "B0GWRN4Q36",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -136,22 +160,22 @@
    "vs_hk_text": null
   },
   {
-   "rank": 5,
+   "rank": 6,
    "asin": "B0DSQ1RCZV",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
    "title": "Gigabyte GeForce RTX 5080 GAMING OC 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080GAMING OC-16GD",
-   "url": "https://www.amazon.de/dp/B0DSQ1RCZV",
+   "url": "https://www.amazon.co.uk/dp/B0DSQ1RCZV",
    "image": "img/B0DSQ1RCZV.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13417,
+    "total_hkd": 13610,
     "currency": "USD",
-    "price": 1653.64,
-    "shipping_to_hk": 24.78,
-    "total_local": 1678.42,
-    "price_text": "US$1,653.64 + 運費 US$24.78",
+    "price": 1676.01,
+    "shipping_to_hk": 26.51,
+    "total_local": 1702.52,
+    "price_text": "US$1,676.01 + 運費 US$26.51",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -173,11 +197,11 @@
      }
     ]
    },
-   "vs_hk_hkd": 2982,
-   "vs_hk_text": "比香港平 HK$2,982"
+   "vs_hk_hkd": 2789,
+   "vs_hk_text": "比香港平 HK$2,789"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "asin": "B09BD59F4T",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -208,30 +232,6 @@
    },
    "vs_hk_hkd": 2331,
    "vs_hk_text": "比香港平 HK$2,331"
-  },
-  {
-   "rank": 7,
-   "asin": "B0GZWW2RKH",
-   "domain": "amazon.it",
-   "marketplace_code": "IT",
-   "marketplace_zh": "意大利 Amazon",
-   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
-   "url": "https://www.amazon.it/dp/B0GZWW2RKH",
-   "image": "img/B0GZWW2RKH.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 13766,
-    "currency": "EUR",
-    "price": 1508.19,
-    "shipping_to_hk": 27.03,
-    "total_local": 1535.22,
-    "price_text": "€1,508.19 + 運費 €27.03",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
   },
   {
    "rank": 8,
@@ -268,6 +268,30 @@
   },
   {
    "rank": 9,
+   "asin": "B0GZWW2RKH",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
+   "url": "https://www.amazon.de/dp/B0GZWW2RKH",
+   "image": "img/B0GZWW2RKH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13790,
+    "currency": "USD",
+    "price": 1707.96,
+    "shipping_to_hk": 17.08,
+    "total_local": 1725.04,
+    "price_text": "US$1,707.96 + 運費 US$17.08",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 10,
    "asin": "B0DS65KD1C",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -298,49 +322,8 @@
    },
    "vs_hk_hkd": 2032,
    "vs_hk_text": "比香港平 HK$2,032"
-  },
-  {
-   "rank": 10,
-   "asin": "B09CL8ZFJ5",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "ASUS GeForce RTX 5080 ProArt OC (16GB GDDR7/PCI Express 5.0/2730MHz/30000MHz)",
-   "url": "https://www.amazon.co.uk/dp/B09CL8ZFJ5",
-   "image": null,
-   "image_fallback_url": null,
-   "amazon": {
-    "total_hkd": 14090,
-    "currency": "USD",
-    "price": 1731.92,
-    "shipping_to_hk": 30.68,
-    "total_local": 1762.6,
-    "price_text": "US$1,731.92 + 運費 US$30.68",
-    "stock": "",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "Jumbo 珍寶電腦",
-     "store_short": "Jumbo",
-     "name": "ASUS ProArt GeForce RTX 5080 OC 16GB GDDR7 PROART-RTX5080-O16G (DI-E5080P1) - 3年保養",
-     "price_hkd": 16999,
-     "url": "https://www.jumbo-computer.com/zh-hk/products/asus-proart-geforce-rtx-5080-oc-16gb-gddr7-proart-rtx5080-o16g-di-e5080p1"
-    },
-    "others": [
-     {
-      "store": "飛馬 PEGASUS",
-      "store_short": "飛馬",
-      "name": "ASUS 華碩 PROART GeForce RTX 5080 16G OC 顯示卡",
-      "price_hkd": 16999,
-      "url": "https://shop.pegasus.hk/products/226880/ASUS-華碩-PROART-GeForce-RTX-5080-16G-OC-顯示卡---3年保養"
-     }
-    ]
-   },
-   "vs_hk_hkd": 2909,
-   "vs_hk_text": "比香港平 HK$2,909"
   }
  ],
- "generated_at": "2026-10-23T10:40:13+08:00",
- "generated_at_hkt": "2026-10-23 10:40 HKT"
+ "generated_at": "2026-10-23T11:07:36+08:00",
+ "generated_at_hkt": "2026-10-23 11:07 HKT"
 }
