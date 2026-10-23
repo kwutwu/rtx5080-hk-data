@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-23 16:11 HKT",
- "amazon_data_updated_hkt": "2026-10-23 16:11 HKT",
+ "price_updated_hkt": "2026-10-23 16:43 HKT",
+ "amazon_data_updated_hkt": "2026-10-23 16:43 HKT",
  "hk_data_updated_hkt": "2026-10-23 10:31 HKT",
  "fx": {
   "USD": 7.8372,
@@ -23,12 +23,12 @@
    "image": "img/B0DT9Y2B49.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12892,
+    "total_hkd": 12921,
     "currency": "EUR",
     "price": 1409.83,
-    "shipping_to_hk": 27.94,
-    "total_local": 1437.77,
-    "price_text": "€1,409.83 + 運費 €27.94",
+    "shipping_to_hk": 31.16,
+    "total_local": 1440.99,
+    "price_text": "€1,409.83 + 運費 €31.16",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -42,8 +42,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 3107,
-   "vs_hk_text": "比香港平 HK$3,107"
+   "vs_hk_hkd": 3078,
+   "vs_hk_text": "比香港平 HK$3,078"
   },
   {
    "rank": 2,
@@ -178,44 +178,36 @@
   },
   {
    "rank": 6,
-   "asin": "B0DSQ1RCZV",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "Gigabyte GeForce RTX 5080 GAMING OC 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080GAMING OC-16GD",
-   "url": "https://www.amazon.co.uk/dp/B0DSQ1RCZV",
-   "image": "img/B0DSQ1RCZV.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
+   "asin": "B0BX6LGM2X",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Gaming Trio OC - Gaming Graphics Card",
+   "url": "https://www.amazon.de/dp/B0BX6LGM2X",
+   "image": "img/B0BX6LGM2X.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71n9sxFO9dL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13591,
+    "total_hkd": 13649,
     "currency": "USD",
-    "price": 1673.68,
-    "shipping_to_hk": 26.47,
-    "total_local": 1700.15,
-    "price_text": "US$1,673.68 + 運費 US$26.47",
-    "stock": "In stock",
+    "price": 1689.9,
+    "shipping_to_hk": 17.55,
+    "total_local": 1707.45,
+    "price_text": "US$1,689.90 + 運費 US$17.55",
+    "stock": "Only 1 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
     "best": {
      "store": "飛馬 PEGASUS",
      "store_short": "飛馬",
-     "name": "GIGABYTE 技嘉 GAMING GeForce RTX 5080 16G OC 顯示卡",
-     "price_hkd": 16399,
-     "url": "https://shop.pegasus.hk/products/223088/GIGABYTE-技嘉-GAMING-GeForce-RTX-5080-16G-OC-顯示卡---4-年保固需線上註冊保養"
+     "name": "MSI 微星 GeForce RTX 5080 16G GAMING TRIO OC 顯示卡",
+     "price_hkd": 15999,
+     "url": "https://shop.pegasus.hk/products/223070/MSI-微星-GeForce-RTX-5080-16G-GAMING-TRIO-OC-顯示卡"
     },
-    "others": [
-     {
-      "store": "Jumbo 珍寶電腦",
-      "store_short": "Jumbo",
-      "name": "GIGABYTE GeForce RTX 5080 GAMING OC 16GB GDDR7 (GV-N5080GAMING OC-16GD) - 3年保養",
-      "price_hkd": 16999,
-      "url": "https://www.jumbo-computer.com/zh-hk/products/gigabyte-geforce-rtx-5080-gaming-oc-16gb-gddr7-gv-n5080gaming-oc-16gd"
-     }
-    ]
+    "others": []
    },
-   "vs_hk_hkd": 2808,
-   "vs_hk_text": "比香港平 HK$2,808"
+   "vs_hk_hkd": 2350,
+   "vs_hk_text": "比香港平 HK$2,350"
   },
   {
    "rank": 7,
@@ -252,6 +244,47 @@
   },
   {
    "rank": 8,
+   "asin": "B0DSQ1RCZV",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "Gigabyte GeForce RTX 5080 GAMING OC 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080GAMING OC-16GD",
+   "url": "https://www.amazon.co.uk/dp/B0DSQ1RCZV",
+   "image": "img/B0DSQ1RCZV.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13680,
+    "currency": "USD",
+    "price": 1684.88,
+    "shipping_to_hk": 26.47,
+    "total_local": 1711.35,
+    "price_text": "US$1,684.88 + 運費 US$26.47",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "GIGABYTE 技嘉 GAMING GeForce RTX 5080 16G OC 顯示卡",
+     "price_hkd": 16399,
+     "url": "https://shop.pegasus.hk/products/223088/GIGABYTE-技嘉-GAMING-GeForce-RTX-5080-16G-OC-顯示卡---4-年保固需線上註冊保養"
+    },
+    "others": [
+     {
+      "store": "Jumbo 珍寶電腦",
+      "store_short": "Jumbo",
+      "name": "GIGABYTE GeForce RTX 5080 GAMING OC 16GB GDDR7 (GV-N5080GAMING OC-16GD) - 3年保養",
+      "price_hkd": 16999,
+      "url": "https://www.jumbo-computer.com/zh-hk/products/gigabyte-geforce-rtx-5080-gaming-oc-16gb-gddr7-gv-n5080gaming-oc-16gd"
+     }
+    ]
+   },
+   "vs_hk_hkd": 2719,
+   "vs_hk_text": "比香港平 HK$2,719"
+  },
+  {
+   "rank": 9,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -275,7 +308,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0DT9YQ2Q1",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -306,41 +339,8 @@
    },
    "vs_hk_hkd": 4225,
    "vs_hk_text": "比香港平 HK$4,225"
-  },
-  {
-   "rank": 10,
-   "asin": "B0DS65KD1C",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition Gaming Graphics Card (PCIe 5.0, HDM",
-   "url": "https://www.amazon.co.uk/dp/B0DS65KD1C",
-   "image": null,
-   "image_fallback_url": null,
-   "amazon": {
-    "total_hkd": 13948,
-    "currency": "USD",
-    "price": 1718.35,
-    "shipping_to_hk": 26.47,
-    "total_local": 1744.82,
-    "price_text": "US$1,718.35 + 運費 US$26.47",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "飛馬 PEGASUS",
-     "store_short": "飛馬",
-     "name": "ASUS 華碩 TUF Gaming GeForce RTX 5080 16G OC 顯示卡",
-     "price_hkd": 15999,
-     "url": "https://shop.pegasus.hk/products/223068/ASUS-華碩-TUF-Gaming-GeForce-RTX-5080-16G-OC-顯示卡"
-    },
-    "others": []
-   },
-   "vs_hk_hkd": 2051,
-   "vs_hk_text": "比香港平 HK$2,051"
   }
  ],
- "generated_at": "2026-10-23T16:11:53+08:00",
- "generated_at_hkt": "2026-10-23 16:11 HKT"
+ "generated_at": "2026-10-23T16:43:45+08:00",
+ "generated_at_hkt": "2026-10-23 16:43 HKT"
 }
