@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-25 00:14 HKT",
- "amazon_data_updated_hkt": "2026-10-25 00:14 HKT",
+ "price_updated_hkt": "2026-10-25 00:54 HKT",
+ "amazon_data_updated_hkt": "2026-10-25 00:54 HKT",
  "hk_data_updated_hkt": null,
  "fx": {
   "USD": 7.8426,
@@ -38,6 +38,30 @@
   },
   {
    "rank": 2,
+   "asin": "B0DSQ1RCZV",
+   "domain": "amazon.com",
+   "marketplace_code": "US",
+   "marketplace_zh": "美國 Amazon",
+   "title": "Gigabyte GeForce RTX 5080 GAMING OC 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080GAMING OC-16GD",
+   "url": "https://www.amazon.com/dp/B0DSQ1RCZV",
+   "image": "img/B0DSQ1RCZV.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 12966,
+    "currency": "HKD",
+    "price": 12602.68,
+    "shipping_to_hk": 109.25,
+    "total_local": 12711.93,
+    "price_text": "HK$12,602.68 + 運費 HK$109.25",
+    "stock": "Only 1 left in stock - order soon.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 3,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -61,7 +85,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 3,
+   "rank": 4,
    "asin": "B0GWRN4Q36",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -85,7 +109,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 5,
    "asin": "B0DT9Y2B49",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -109,7 +133,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 5,
+   "rank": 6,
    "asin": "B09BD59F4T",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -126,30 +150,6 @@
     "total_local": 1524.36,
     "price_text": "€1,493.20 + 運費 €31.16",
     "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 6,
-   "asin": "B0DSQ1RCZV",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "Gigabyte GeForce RTX 5080 GAMING OC 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080GAMING OC-16GD",
-   "url": "https://www.amazon.co.uk/dp/B0DSQ1RCZV",
-   "image": "img/B0DSQ1RCZV.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 13670,
-    "currency": "HKD",
-    "price": 13194.62,
-    "shipping_to_hk": 207.31,
-    "total_local": 13401.93,
-    "price_text": "HK$13,194.62 + 運費 HK$207.31",
-    "stock": "Only 1 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -253,6 +253,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-25T00:14:05+08:00",
- "generated_at_hkt": "2026-10-25 00:14 HKT"
+ "generated_at": "2026-10-25T00:54:38+08:00",
+ "generated_at_hkt": "2026-10-25 00:54 HKT"
 }
