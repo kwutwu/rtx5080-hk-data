@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-24 23:36 HKT",
- "amazon_data_updated_hkt": "2026-10-24 23:36 HKT",
+ "price_updated_hkt": "2026-10-25 00:14 HKT",
+ "amazon_data_updated_hkt": "2026-10-25 00:14 HKT",
  "hk_data_updated_hkt": null,
  "fx": {
   "USD": 7.8426,
@@ -134,6 +134,30 @@
   },
   {
    "rank": 6,
+   "asin": "B0DSQ1RCZV",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "Gigabyte GeForce RTX 5080 GAMING OC 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080GAMING OC-16GD",
+   "url": "https://www.amazon.co.uk/dp/B0DSQ1RCZV",
+   "image": "img/B0DSQ1RCZV.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13670,
+    "currency": "HKD",
+    "price": 13194.62,
+    "shipping_to_hk": 207.31,
+    "total_local": 13401.93,
+    "price_text": "HK$13,194.62 + 運費 HK$207.31",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 7,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -157,7 +181,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 7,
+   "rank": 8,
    "asin": "B0DS65KD1C",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -181,7 +205,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 8,
+   "rank": 9,
    "asin": "B09CL8ZFJ5",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -205,7 +229,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0DT9YQ2Q1",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -227,32 +251,8 @@
    "hk": null,
    "vs_hk_hkd": null,
    "vs_hk_text": null
-  },
-  {
-   "rank": 10,
-   "asin": "B0DTJFZ4YS",
-   "domain": "amazon.es",
-   "marketplace_code": "ES",
-   "marketplace_zh": "西班牙 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB OC Triple Fan Graphics Card DLSS 4",
-   "url": "https://www.amazon.es/dp/B0DTJFZ4YS",
-   "image": "img/B0DTJFZ4YS.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
-   "amazon": {
-    "total_hkd": 14262,
-    "currency": "EUR",
-    "price": 1570.24,
-    "shipping_to_hk": 21.49,
-    "total_local": 1591.73,
-    "price_text": "€1,570.24 + 運費 €21.49",
-    "stock": "Only 1 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-24T23:36:28+08:00",
- "generated_at_hkt": "2026-10-24 23:36 HKT"
+ "generated_at": "2026-10-25T00:14:05+08:00",
+ "generated_at_hkt": "2026-10-25 00:14 HKT"
 }
