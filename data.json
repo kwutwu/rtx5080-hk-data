@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-25 14:05 HKT",
- "amazon_data_updated_hkt": "2026-10-25 14:05 HKT",
+ "price_updated_hkt": "2026-10-25 15:32 HKT",
+ "amazon_data_updated_hkt": "2026-10-25 15:32 HKT",
  "hk_data_updated_hkt": "2026-10-25 10:52 HKT",
  "fx": {
   "USD": 7.8424,
@@ -23,12 +23,12 @@
    "image": "img/B0DT6NZ9V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12952,
-    "currency": "HKD",
-    "price": 12495.63,
-    "shipping_to_hk": 202.27,
-    "total_local": 12697.9,
-    "price_text": "HK$12,495.63 + 運費 HK$202.27",
+    "total_hkd": 12951,
+    "currency": "USD",
+    "price": 1593.21,
+    "shipping_to_hk": 25.79,
+    "total_local": 1619.0,
+    "price_text": "US$1,593.21 + 運費 US$25.79",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -50,8 +50,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1398,
-   "vs_hk_text": "比香港平 HK$1,398"
+   "vs_hk_hkd": 1399,
+   "vs_hk_text": "比香港平 HK$1,399"
   },
   {
    "rank": 2,
@@ -88,12 +88,12 @@
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13454,
-    "currency": "HKD",
-    "price": 13056.5,
-    "shipping_to_hk": 133.35,
-    "total_local": 13189.85,
-    "price_text": "HK$13,056.50 + 運費 HK$133.35",
+    "total_hkd": 13453,
+    "currency": "USD",
+    "price": 1664.76,
+    "shipping_to_hk": 17.0,
+    "total_local": 1681.76,
+    "price_text": "US$1,664.76 + 運費 US$17.00",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -208,12 +208,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 13937,
-    "currency": "HKD",
-    "price": 13456.77,
-    "shipping_to_hk": 207.31,
-    "total_local": 13664.08,
-    "price_text": "HK$13,456.77 + 運費 HK$207.31",
+    "total_hkd": 13936,
+    "currency": "USD",
+    "price": 1715.76,
+    "shipping_to_hk": 26.43,
+    "total_local": 1742.19,
+    "price_text": "US$1,715.76 + 運費 US$26.43",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -235,8 +235,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 2362,
-   "vs_hk_text": "比香港平 HK$2,362"
+   "vs_hk_hkd": 2363,
+   "vs_hk_text": "比香港平 HK$2,363"
   },
   {
    "rank": 8,
@@ -249,12 +249,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 13989,
-    "currency": "HKD",
-    "price": 13544.22,
-    "shipping_to_hk": 170.71,
-    "total_local": 13714.93,
-    "price_text": "HK$13,544.22 + 運費 HK$170.71",
+    "total_hkd": 13988,
+    "currency": "USD",
+    "price": 1726.91,
+    "shipping_to_hk": 21.77,
+    "total_local": 1748.68,
+    "price_text": "US$1,726.91 + 運費 US$21.77",
     "stock": "",
     "seller": "Amazon"
    },
@@ -290,8 +290,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 2011,
-   "vs_hk_text": "比香港平 HK$2,011"
+   "vs_hk_hkd": 2012,
+   "vs_hk_text": "比香港平 HK$2,012"
   },
   {
    "rank": 9,
@@ -304,12 +304,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 14060,
-    "currency": "HKD",
-    "price": 13544.06,
-    "shipping_to_hk": 240.27,
-    "total_local": 13784.33,
-    "price_text": "HK$13,544.06 + 運費 HK$240.27",
+    "total_hkd": 14059,
+    "currency": "USD",
+    "price": 1726.93,
+    "shipping_to_hk": 30.64,
+    "total_local": 1757.57,
+    "price_text": "US$1,726.93 + 運費 US$30.64",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -323,8 +323,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 3939,
-   "vs_hk_text": "比香港平 HK$3,939"
+   "vs_hk_hkd": 3940,
+   "vs_hk_text": "比香港平 HK$3,940"
   },
   {
    "rank": 10,
@@ -351,6 +351,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-25T14:06:02+08:00",
- "generated_at_hkt": "2026-10-25 14:06 HKT"
+ "generated_at": "2026-10-25T15:32:31+08:00",
+ "generated_at_hkt": "2026-10-25 15:32 HKT"
 }
