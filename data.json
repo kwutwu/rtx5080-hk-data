@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-26 18:06 HKT",
- "amazon_data_updated_hkt": "2026-10-26 18:06 HKT",
+ "price_updated_hkt": "2026-10-26 18:57 HKT",
+ "amazon_data_updated_hkt": "2026-10-26 18:57 HKT",
  "hk_data_updated_hkt": "2026-10-26 11:09 HKT",
  "fx": {
   "USD": 7.8428,
@@ -23,12 +23,12 @@
    "image": "img/B0DT6NZ9V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12958,
-    "currency": "USD",
-    "price": 1594.02,
-    "shipping_to_hk": 25.8,
-    "total_local": 1619.82,
-    "price_text": "US$1,594.02 + 運費 US$25.80",
+    "total_hkd": 12960,
+    "currency": "HKD",
+    "price": 12503.73,
+    "shipping_to_hk": 202.4,
+    "total_local": 12706.13,
+    "price_text": "HK$12,503.73 + 運費 HK$202.40",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -50,8 +50,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1392,
-   "vs_hk_text": "比香港平 HK$1,392"
+   "vs_hk_hkd": 1390,
+   "vs_hk_text": "比香港平 HK$1,390"
   },
   {
    "rank": 2,
@@ -64,12 +64,12 @@
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13502,
-    "currency": "USD",
-    "price": 1672.05,
-    "shipping_to_hk": 15.73,
-    "total_local": 1687.78,
-    "price_text": "US$1,672.05 + 運費 US$15.73",
+    "total_hkd": 13504,
+    "currency": "HKD",
+    "price": 13115.77,
+    "shipping_to_hk": 123.39,
+    "total_local": 13239.16,
+    "price_text": "HK$13,115.77 + 運費 HK$123.39",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -80,21 +80,21 @@
   {
    "rank": 3,
    "asin": "B0DT9Y2B49",
-   "domain": "amazon.es",
-   "marketplace_code": "ES",
-   "marketplace_zh": "西班牙 Amazon",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
    "title": "GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card - 16GB GDDR7, 256-bit, PCI-E 5.0, 2670MHz Base Frequency, 3 x DP 2.1a, 1 x HDMI 2.1b, GV-N5080WF3OC-16GD",
-   "url": "https://www.amazon.es/dp/B0DT9Y2B49",
+   "url": "https://www.amazon.co.uk/dp/B0DT9Y2B49",
    "image": "img/B0DT9Y2B49.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13520,
-    "currency": "EUR",
-    "price": 1487.6,
-    "shipping_to_hk": 20.17,
-    "total_local": 1507.77,
-    "price_text": "€1,487.60 + 運費 €20.17",
-    "stock": "Only 3 left in stock.",
+    "total_hkd": 13772,
+    "currency": "HKD",
+    "price": 13378.09,
+    "shipping_to_hk": 123.39,
+    "total_local": 13501.48,
+    "price_text": "HK$13,378.09 + 運費 HK$123.39",
+    "stock": "In stock",
     "seller": "Amazon"
    },
    "hk": null,
@@ -184,12 +184,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 13944,
-    "currency": "USD",
-    "price": 1716.63,
-    "shipping_to_hk": 26.45,
-    "total_local": 1743.08,
-    "price_text": "US$1,716.63 + 運費 US$26.45",
+    "total_hkd": 13946,
+    "currency": "HKD",
+    "price": 13465.49,
+    "shipping_to_hk": 207.44,
+    "total_local": 13672.93,
+    "price_text": "HK$13,465.49 + 運費 HK$207.44",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -211,8 +211,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 2355,
-   "vs_hk_text": "比香港平 HK$2,355"
+   "vs_hk_hkd": 2353,
+   "vs_hk_text": "比香港平 HK$2,353"
   },
   {
    "rank": 7,
@@ -225,12 +225,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 13996,
-    "currency": "USD",
-    "price": 1727.79,
-    "shipping_to_hk": 21.78,
-    "total_local": 1749.57,
-    "price_text": "US$1,727.79 + 運費 US$21.78",
+    "total_hkd": 13998,
+    "currency": "HKD",
+    "price": 13553.0,
+    "shipping_to_hk": 170.82,
+    "total_local": 13723.82,
+    "price_text": "HK$13,553.00 + 運費 HK$170.82",
     "stock": "",
     "seller": "Amazon"
    },
@@ -266,8 +266,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 2004,
-   "vs_hk_text": "比香港平 HK$2,004"
+   "vs_hk_hkd": 2002,
+   "vs_hk_text": "比香港平 HK$2,002"
   },
   {
    "rank": 8,
@@ -313,12 +313,12 @@
    "image": "img/B0DSQ3B6PH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14259,
-    "currency": "USD",
-    "price": 1760.67,
-    "shipping_to_hk": 21.78,
-    "total_local": 1782.45,
-    "price_text": "US$1,760.67 + 運費 US$21.78",
+    "total_hkd": 14261,
+    "currency": "HKD",
+    "price": 13810.91,
+    "shipping_to_hk": 170.82,
+    "total_local": 13981.73,
+    "price_text": "HK$13,810.91 + 運費 HK$170.82",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -337,12 +337,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 14319,
-    "currency": "USD",
-    "price": 1755.67,
-    "shipping_to_hk": 34.3,
-    "total_local": 1789.97,
-    "price_text": "US$1,755.67 + 運費 US$34.30",
+    "total_hkd": 14322,
+    "currency": "HKD",
+    "price": 13771.67,
+    "shipping_to_hk": 269.03,
+    "total_local": 14040.7,
+    "price_text": "HK$13,771.67 + 運費 HK$269.03",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -351,6 +351,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-26T18:06:52+08:00",
- "generated_at_hkt": "2026-10-26 18:06 HKT"
+ "generated_at": "2026-10-26T18:58:03+08:00",
+ "generated_at_hkt": "2026-10-26 18:58 HKT"
 }
