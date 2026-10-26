@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-26 22:49 HKT",
- "amazon_data_updated_hkt": "2026-10-26 22:49 HKT",
+ "price_updated_hkt": "2026-10-26 23:48 HKT",
+ "amazon_data_updated_hkt": "2026-10-26 23:48 HKT",
  "hk_data_updated_hkt": "2026-10-26 11:09 HKT",
  "fx": {
   "USD": 7.8428,
@@ -23,12 +23,12 @@
    "image": "img/B0DT6NZ9V9.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 12958,
-    "currency": "USD",
-    "price": 1594.02,
-    "shipping_to_hk": 25.8,
-    "total_local": 1619.82,
-    "price_text": "US$1,594.02 + 運費 US$25.80",
+    "total_hkd": 12960,
+    "currency": "HKD",
+    "price": 12503.73,
+    "shipping_to_hk": 202.4,
+    "total_local": 12706.13,
+    "price_text": "HK$12,503.73 + 運費 HK$202.40",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -50,8 +50,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1392,
-   "vs_hk_text": "比香港平 HK$1,392"
+   "vs_hk_hkd": 1390,
+   "vs_hk_text": "比香港平 HK$1,390"
   },
   {
    "rank": 2,
@@ -64,12 +64,12 @@
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13502,
-    "currency": "USD",
-    "price": 1672.05,
-    "shipping_to_hk": 15.73,
-    "total_local": 1687.78,
-    "price_text": "US$1,672.05 + 運費 US$15.73",
+    "total_hkd": 13504,
+    "currency": "HKD",
+    "price": 13115.77,
+    "shipping_to_hk": 123.39,
+    "total_local": 13239.16,
+    "price_text": "HK$13,115.77 + 運費 HK$123.39",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -88,12 +88,12 @@
    "image": "img/B0DT9Y2B49.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13769,
-    "currency": "USD",
-    "price": 1705.49,
-    "shipping_to_hk": 15.73,
-    "total_local": 1721.22,
-    "price_text": "US$1,705.49 + 運費 US$15.73",
+    "total_hkd": 13772,
+    "currency": "HKD",
+    "price": 13378.09,
+    "shipping_to_hk": 123.39,
+    "total_local": 13501.48,
+    "price_text": "HK$13,378.09 + 運費 HK$123.39",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -127,21 +127,62 @@
   },
   {
    "rank": 5,
-   "asin": "B09BD59F4T",
-   "domain": "amazon.es",
-   "marketplace_code": "ES",
-   "marketplace_zh": "西班牙 Amazon",
-   "title": "ASUS Prime GeForce RTX 5080 EVO 16GB GDDR7 OC Edition SFF Compatible Graphics Card (PCIe 5",
-   "url": "https://www.amazon.es/dp/B09BD59F4T",
+   "asin": "B0DS65KD1C",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition Gaming Graphics Card (PCIe 5.0, HDM",
+   "url": "https://www.amazon.co.uk/dp/B0DS65KD1C",
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 13867,
+    "total_hkd": 13946,
+    "currency": "HKD",
+    "price": 13465.49,
+    "shipping_to_hk": 207.44,
+    "total_local": 13672.93,
+    "price_text": "HK$13,465.49 + 運費 HK$207.44",
+    "stock": "Only 11 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "中田電腦 Centralfield",
+     "store_short": "中田電腦",
+     "name": "ASUS TUF Gaming GeForce RTX 5080 OC 16GB GDDR7 華碩顯示卡三風扇超頻版",
+     "price_hkd": 16299,
+     "url": "https://centralfield.com/product/10532/asus-tuf-gaming-rtx-5080-oc-16gb-graphics-card"
+    },
+    "others": [
+     {
+      "store": "飛馬 PEGASUS",
+      "store_short": "飛馬",
+      "name": "ASUS 華碩 TUF Gaming GeForce RTX 5080 16G OC 顯示卡",
+      "price_hkd": 16499,
+      "url": "https://shop.pegasus.hk/products/223068/ASUS-華碩-TUF-Gaming-GeForce-RTX-5080-16G-OC-顯示卡"
+     }
+    ]
+   },
+   "vs_hk_hkd": 2353,
+   "vs_hk_text": "比香港平 HK$2,353"
+  },
+  {
+   "rank": 6,
+   "asin": "B09BD59F4T",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "ASUS Prime GeForce RTX 5080 Evo Gaming Graphics Card 16GB GDDR7 OC Edition (Nvidia GeForce",
+   "url": "https://www.amazon.fr/dp/B09BD59F4T",
+   "image": null,
+   "image_fallback_url": null,
+   "amazon": {
+    "total_hkd": 13982,
     "currency": "EUR",
-    "price": 1520.65,
-    "shipping_to_hk": 25.81,
-    "total_local": 1546.46,
-    "price_text": "€1,520.65 + 運費 €25.81",
+    "price": 1533.32,
+    "shipping_to_hk": 25.97,
+    "total_local": 1559.29,
+    "price_text": "€1,533.32 + 運費 €25.97",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -170,49 +211,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1433,
-   "vs_hk_text": "比香港平 HK$1,433"
-  },
-  {
-   "rank": 6,
-   "asin": "B0DS65KD1C",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition Gaming Graphics Card (PCIe 5.0, HDM",
-   "url": "https://www.amazon.co.uk/dp/B0DS65KD1C",
-   "image": null,
-   "image_fallback_url": null,
-   "amazon": {
-    "total_hkd": 13944,
-    "currency": "USD",
-    "price": 1716.63,
-    "shipping_to_hk": 26.45,
-    "total_local": 1743.08,
-    "price_text": "US$1,716.63 + 運費 US$26.45",
-    "stock": "Only 13 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "中田電腦 Centralfield",
-     "store_short": "中田電腦",
-     "name": "ASUS TUF Gaming GeForce RTX 5080 OC 16GB GDDR7 華碩顯示卡三風扇超頻版",
-     "price_hkd": 16299,
-     "url": "https://centralfield.com/product/10532/asus-tuf-gaming-rtx-5080-oc-16gb-graphics-card"
-    },
-    "others": [
-     {
-      "store": "飛馬 PEGASUS",
-      "store_short": "飛馬",
-      "name": "ASUS 華碩 TUF Gaming GeForce RTX 5080 16G OC 顯示卡",
-      "price_hkd": 16499,
-      "url": "https://shop.pegasus.hk/products/223068/ASUS-華碩-TUF-Gaming-GeForce-RTX-5080-16G-OC-顯示卡"
-     }
-    ]
-   },
-   "vs_hk_hkd": 2355,
-   "vs_hk_text": "比香港平 HK$2,355"
+   "vs_hk_hkd": 1318,
+   "vs_hk_text": "比香港平 HK$1,318"
   },
   {
    "rank": 7,
@@ -225,12 +225,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 13996,
-    "currency": "USD",
-    "price": 1727.79,
-    "shipping_to_hk": 21.78,
-    "total_local": 1749.57,
-    "price_text": "US$1,727.79 + 運費 US$21.78",
+    "total_hkd": 13998,
+    "currency": "HKD",
+    "price": 13553.0,
+    "shipping_to_hk": 170.82,
+    "total_local": 13723.82,
+    "price_text": "HK$13,553.00 + 運費 HK$170.82",
     "stock": "",
     "seller": "Amazon"
    },
@@ -266,8 +266,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 2004,
-   "vs_hk_text": "比香港平 HK$2,004"
+   "vs_hk_hkd": 2002,
+   "vs_hk_text": "比香港平 HK$2,002"
   },
   {
    "rank": 8,
@@ -313,12 +313,12 @@
    "image": "img/B0DSQ3B6PH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14259,
-    "currency": "USD",
-    "price": 1760.67,
-    "shipping_to_hk": 21.78,
-    "total_local": 1782.45,
-    "price_text": "US$1,760.67 + 運費 US$21.78",
+    "total_hkd": 14261,
+    "currency": "HKD",
+    "price": 13810.91,
+    "shipping_to_hk": 170.82,
+    "total_local": 13981.73,
+    "price_text": "HK$13,810.91 + 運費 HK$170.82",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -337,12 +337,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 14319,
-    "currency": "USD",
-    "price": 1755.67,
-    "shipping_to_hk": 34.3,
-    "total_local": 1789.97,
-    "price_text": "US$1,755.67 + 運費 US$34.30",
+    "total_hkd": 14322,
+    "currency": "HKD",
+    "price": 13771.67,
+    "shipping_to_hk": 269.03,
+    "total_local": 14040.7,
+    "price_text": "HK$13,771.67 + 運費 HK$269.03",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -351,6 +351,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-26T22:49:32+08:00",
- "generated_at_hkt": "2026-10-26 22:49 HKT"
+ "generated_at": "2026-10-26T23:48:43+08:00",
+ "generated_at_hkt": "2026-10-26 23:48 HKT"
 }
