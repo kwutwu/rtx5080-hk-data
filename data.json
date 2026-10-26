@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-26 08:21 HKT",
- "amazon_data_updated_hkt": "2026-10-26 08:21 HKT",
+ "price_updated_hkt": "2026-10-26 09:16 HKT",
+ "amazon_data_updated_hkt": "2026-10-26 09:16 HKT",
  "hk_data_updated_hkt": "2026-10-25 10:52 HKT",
  "fx": {
-  "USD": 7.8424,
-  "EUR": 8.7858,
-  "GBP": 10.489
+  "USD": 7.8428,
+  "EUR": 8.7911,
+  "GBP": 10.4881
  },
- "fx_text": "匯率：1 USD ≈ HK$7.8424、1 EUR ≈ HK$8.7858、1 GBP ≈ HK$10.489",
+ "fx_text": "匯率：1 USD ≈ HK$7.8428、1 EUR ≈ HK$8.7911、1 GBP ≈ HK$10.4881",
  "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-25 10:52 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
@@ -64,12 +64,12 @@
    "image": "img/B0DSQ3B6PH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13142,
+    "total_hkd": 13193,
     "currency": "EUR",
     "price": 1445.45,
-    "shipping_to_hk": 21.09,
-    "total_local": 1466.54,
-    "price_text": "€1,445.45 + 運費 €21.09",
+    "shipping_to_hk": 25.81,
+    "total_local": 1471.26,
+    "price_text": "€1,445.45 + 運費 €25.81",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -112,7 +112,7 @@
    "image": "img/B0DT9Y2B49.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13512,
+    "total_hkd": 13520,
     "currency": "EUR",
     "price": 1487.6,
     "shipping_to_hk": 20.17,
@@ -169,7 +169,7 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 13661,
+    "total_hkd": 13669,
     "currency": "EUR",
     "price": 1493.2,
     "shipping_to_hk": 31.16,
@@ -203,8 +203,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1639,
-   "vs_hk_text": "比香港平 HK$1,639"
+   "vs_hk_hkd": 1631,
+   "vs_hk_text": "比香港平 HK$1,631"
   },
   {
    "rank": 7,
@@ -217,7 +217,7 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13786,
+    "total_hkd": 13794,
     "currency": "EUR",
     "price": 1508.19,
     "shipping_to_hk": 30.16,
@@ -360,6 +360,6 @@
    "vs_hk_text": "比香港平 HK$3,939"
   }
  ],
- "generated_at": "2026-10-26T08:21:21+08:00",
- "generated_at_hkt": "2026-10-26 08:21 HKT"
+ "generated_at": "2026-10-26T09:16:08+08:00",
+ "generated_at_hkt": "2026-10-26 09:16 HKT"
 }
