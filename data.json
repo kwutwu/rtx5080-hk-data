@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-27 02:27 HKT",
- "amazon_data_updated_hkt": "2026-10-27 02:27 HKT",
+ "price_updated_hkt": "2026-10-27 03:18 HKT",
+ "amazon_data_updated_hkt": "2026-10-27 03:18 HKT",
  "hk_data_updated_hkt": "2026-10-26 11:09 HKT",
  "fx": {
   "USD": 7.8428,
@@ -79,6 +79,30 @@
   },
   {
    "rank": 3,
+   "asin": "B0GZWW2RKH",
+   "domain": "amazon.it",
+   "marketplace_code": "IT",
+   "marketplace_zh": "意大利 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
+   "url": "https://www.amazon.it/dp/B0GZWW2RKH",
+   "image": "img/B0GZWW2RKH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13766,
+    "currency": "EUR",
+    "price": 1508.19,
+    "shipping_to_hk": 27.03,
+    "total_local": 1535.22,
+    "price_text": "€1,508.19 + 運費 €27.03",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 4,
    "asin": "B0DT9Y2B49",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -95,30 +119,6 @@
     "total_local": 13501.48,
     "price_text": "HK$13,378.09 + 運費 HK$123.39",
     "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 4,
-   "asin": "B0GZWW2RKH",
-   "domain": "amazon.it",
-   "marketplace_code": "IT",
-   "marketplace_zh": "意大利 Amazon",
-   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
-   "url": "https://www.amazon.it/dp/B0GZWW2RKH",
-   "image": "img/B0GZWW2RKH.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 13794,
-    "currency": "EUR",
-    "price": 1508.19,
-    "shipping_to_hk": 30.16,
-    "total_local": 1538.35,
-    "price_text": "€1,508.19 + 運費 €30.16",
-    "stock": "Only 4 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -351,6 +351,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-10-27T02:27:38+08:00",
- "generated_at_hkt": "2026-10-27 02:27 HKT"
+ "generated_at": "2026-10-27T03:18:44+08:00",
+ "generated_at_hkt": "2026-10-27 03:18 HKT"
 }
