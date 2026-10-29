@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-30 04:41 HKT",
- "amazon_data_updated_hkt": "2026-10-30 04:41 HKT",
+ "price_updated_hkt": "2026-10-30 05:27 HKT",
+ "amazon_data_updated_hkt": "2026-10-30 05:27 HKT",
  "hk_data_updated_hkt": "2026-10-29 10:33 HKT",
  "fx": {
   "USD": 7.8453,
@@ -242,20 +242,20 @@
   {
    "rank": 8,
    "asin": "B0BX6LGM2X",
-   "domain": "amazon.it",
-   "marketplace_code": "IT",
-   "marketplace_zh": "意大利 Amazon",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
    "title": "MSI GeForce RTX 5080 16G Gaming Trio OC - Gaming Graphics Card",
-   "url": "https://www.amazon.it/dp/B0BX6LGM2X",
+   "url": "https://www.amazon.co.uk/dp/B0BX6LGM2X",
    "image": "img/B0BX6LGM2X.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71n9sxFO9dL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14694,
-    "currency": "EUR",
-    "price": 1619.59,
-    "shipping_to_hk": 27.94,
-    "total_local": 1647.53,
-    "price_text": "€1,619.59 + 運費 €27.94",
+    "total_hkd": 14783,
+    "currency": "HKD",
+    "price": 14322.62,
+    "shipping_to_hk": 170.1,
+    "total_local": 14492.72,
+    "price_text": "HK$14,322.62 + 運費 HK$170.10",
     "stock": "",
     "seller": "Amazon"
    },
@@ -269,8 +269,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 1305,
-   "vs_hk_text": "比香港平 HK$1,305"
+   "vs_hk_hkd": 1216,
+   "vs_hk_text": "比香港平 HK$1,216"
   },
   {
    "rank": 9,
@@ -330,6 +330,6 @@
    "vs_hk_text": "比香港平 HK$2,429"
   }
  ],
- "generated_at": "2026-10-30T04:41:48+08:00",
- "generated_at_hkt": "2026-10-30 04:41 HKT"
+ "generated_at": "2026-10-30T05:27:42+08:00",
+ "generated_at_hkt": "2026-10-30 05:27 HKT"
 }
