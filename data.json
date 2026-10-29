@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-29 17:35 HKT",
- "amazon_data_updated_hkt": "2026-10-29 17:35 HKT",
+ "price_updated_hkt": "2026-10-29 18:09 HKT",
+ "amazon_data_updated_hkt": "2026-10-29 18:09 HKT",
  "hk_data_updated_hkt": "2026-10-29 10:33 HKT",
  "fx": {
   "USD": 7.8453,
@@ -119,7 +119,7 @@
     "shipping_to_hk": 25.3,
     "total_local": 1558.62,
     "price_text": "€1,533.32 + 運費 €25.30",
-    "stock": "Available to ship in 1-2 days",
+    "stock": "",
     "seller": "Amazon"
    },
    "hk": null,
@@ -176,30 +176,6 @@
   },
   {
    "rank": 6,
-   "asin": "B0DZCVQGG6",
-   "domain": "amazon.fr",
-   "marketplace_code": "FR",
-   "marketplace_zh": "法國 Amazon",
-   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
-   "url": "https://www.amazon.fr/dp/B0DZCVQGG6",
-   "image": "img/B0DZCVQGG6.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
-   "amazon": {
-    "total_hkd": 13980,
-    "currency": "EUR",
-    "price": 1541.66,
-    "shipping_to_hk": 25.76,
-    "total_local": 1567.42,
-    "price_text": "€1,541.66 + 運費 €25.76",
-    "stock": "",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 7,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -240,7 +216,7 @@
    "vs_hk_text": "比香港平 HK$1,934"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "asin": "B0FD3XZ8P1",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -262,6 +238,39 @@
    "hk": null,
    "vs_hk_hkd": null,
    "vs_hk_text": null
+  },
+  {
+   "rank": 8,
+   "asin": "B0BX6LGM2X",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Gaming Trio OC - Gaming Graphics Card",
+   "url": "https://www.amazon.co.uk/dp/B0BX6LGM2X",
+   "image": "img/B0BX6LGM2X.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71n9sxFO9dL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 14783,
+    "currency": "HKD",
+    "price": 14322.62,
+    "shipping_to_hk": 170.1,
+    "total_local": 14492.72,
+    "price_text": "HK$14,322.62 + 運費 HK$170.10",
+    "stock": "",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "MSI 微星 GeForce RTX 5080 16G GAMING TRIO OC 顯示卡",
+     "price_hkd": 15999,
+     "url": "https://shop.pegasus.hk/products/223070/MSI-微星-GeForce-RTX-5080-16G-GAMING-TRIO-OC-顯示卡"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 1216,
+   "vs_hk_text": "比香港平 HK$1,216"
   },
   {
    "rank": 9,
@@ -321,6 +330,6 @@
    "vs_hk_text": "比香港平 HK$2,429"
   }
  ],
- "generated_at": "2026-10-29T17:35:47+08:00",
- "generated_at_hkt": "2026-10-29 17:35 HKT"
+ "generated_at": "2026-10-29T18:09:12+08:00",
+ "generated_at_hkt": "2026-10-29 18:09 HKT"
 }
