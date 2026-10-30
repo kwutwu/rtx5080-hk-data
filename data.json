@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-30 14:36 HKT",
- "amazon_data_updated_hkt": "2026-10-30 14:36 HKT",
+ "price_updated_hkt": "2026-10-30 15:17 HKT",
+ "amazon_data_updated_hkt": "2026-10-30 15:17 HKT",
  "hk_data_updated_hkt": "2026-10-30 10:26 HKT",
  "fx": {
   "USD": 7.8461,
@@ -307,6 +307,6 @@
    "vs_hk_text": "比香港平 HK$2,429"
   }
  ],
- "generated_at": "2026-10-30T14:36:45+08:00",
- "generated_at_hkt": "2026-10-30 14:36 HKT"
+ "generated_at": "2026-10-30T15:17:25+08:00",
+ "generated_at_hkt": "2026-10-30 15:17 HKT"
 }
