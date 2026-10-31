@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-01 00:14 HKT",
- "amazon_data_updated_hkt": "2026-11-01 00:14 HKT",
+ "price_updated_hkt": "2026-11-01 00:57 HKT",
+ "amazon_data_updated_hkt": "2026-11-01 00:57 HKT",
  "hk_data_updated_hkt": "2026-10-31 11:41 HKT",
  "fx": {
   "USD": 7.8453,
@@ -23,12 +23,12 @@
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13519,
-    "currency": "USD",
-    "price": 1673.61,
-    "shipping_to_hk": 15.75,
-    "total_local": 1689.36,
-    "price_text": "US$1,673.61 + 運費 US$15.75",
+    "total_hkd": 13517,
+    "currency": "HKD",
+    "price": 13128.26,
+    "shipping_to_hk": 123.51,
+    "total_local": 13251.77,
+    "price_text": "HK$13,128.26 + 運費 HK$123.51",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -47,12 +47,12 @@
    "image": "img/B0DT9Y2B49.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13786,
-    "currency": "USD",
-    "price": 1707.08,
-    "shipping_to_hk": 15.75,
-    "total_local": 1722.83,
-    "price_text": "US$1,707.08 + 運費 US$15.75",
+    "total_hkd": 13785,
+    "currency": "HKD",
+    "price": 13390.83,
+    "shipping_to_hk": 123.51,
+    "total_local": 13514.34,
+    "price_text": "HK$13,390.83 + 運費 HK$123.51",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -66,8 +66,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 3813,
-   "vs_hk_text": "比香港平 HK$3,813"
+   "vs_hk_hkd": 3814,
+   "vs_hk_text": "比香港平 HK$3,814"
   },
   {
    "rank": 3,
@@ -152,12 +152,12 @@
    "image": "img/B0DSQ1RCZV.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14274,
-    "currency": "USD",
-    "price": 1757.31,
-    "shipping_to_hk": 26.47,
-    "total_local": 1783.78,
-    "price_text": "US$1,757.31 + 運費 US$26.47",
+    "total_hkd": 14272,
+    "currency": "HKD",
+    "price": 13784.78,
+    "shipping_to_hk": 207.64,
+    "total_local": 13992.42,
+    "price_text": "HK$13,784.78 + 運費 HK$207.64",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -179,8 +179,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1725,
-   "vs_hk_text": "比香港平 HK$1,725"
+   "vs_hk_hkd": 1727,
+   "vs_hk_text": "比香港平 HK$1,727"
   },
   {
    "rank": 6,
@@ -193,12 +193,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 14274,
-    "currency": "USD",
-    "price": 1757.31,
-    "shipping_to_hk": 26.47,
-    "total_local": 1783.78,
-    "price_text": "US$1,757.31 + 運費 US$26.47",
+    "total_hkd": 14272,
+    "currency": "HKD",
+    "price": 13784.78,
+    "shipping_to_hk": 207.64,
+    "total_local": 13992.42,
+    "price_text": "HK$13,784.78 + 運費 HK$207.64",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -217,12 +217,12 @@
    "image": "img/B0DSQ3B6PH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14277,
-    "currency": "USD",
-    "price": 1762.31,
-    "shipping_to_hk": 21.8,
-    "total_local": 1784.11,
-    "price_text": "US$1,762.31 + 運費 US$21.80",
+    "total_hkd": 14275,
+    "currency": "HKD",
+    "price": 13824.06,
+    "shipping_to_hk": 170.98,
+    "total_local": 13995.04,
+    "price_text": "HK$13,824.06 + 運費 HK$170.98",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -236,8 +236,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 3722,
-   "vs_hk_text": "比香港平 HK$3,722"
+   "vs_hk_hkd": 3724,
+   "vs_hk_text": "比香港平 HK$3,724"
   },
   {
    "rank": 8,
@@ -250,12 +250,12 @@
    "image": "img/B0BX6LGM2X.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71n9sxFO9dL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14996,
-    "currency": "USD",
-    "price": 1852.13,
-    "shipping_to_hk": 21.8,
-    "total_local": 1873.93,
-    "price_text": "US$1,852.13 + 運費 US$21.80",
+    "total_hkd": 14994,
+    "currency": "HKD",
+    "price": 14528.58,
+    "shipping_to_hk": 170.98,
+    "total_local": 14699.56,
+    "price_text": "HK$14,528.58 + 運費 HK$170.98",
     "stock": "",
     "seller": "Amazon"
    },
@@ -269,8 +269,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 1003,
-   "vs_hk_text": "比香港平 HK$1,003"
+   "vs_hk_hkd": 1005,
+   "vs_hk_text": "比香港平 HK$1,005"
   },
   {
    "rank": 9,
@@ -283,12 +283,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 15085,
-    "currency": "USD",
-    "price": 1863.29,
-    "shipping_to_hk": 21.8,
-    "total_local": 1885.09,
-    "price_text": "US$1,863.29 + 運費 US$21.80",
+    "total_hkd": 15083,
+    "currency": "HKD",
+    "price": 14616.17,
+    "shipping_to_hk": 170.98,
+    "total_local": 14787.15,
+    "price_text": "HK$14,616.17 + 運費 HK$170.98",
     "stock": "Only 11 left in stock.",
     "seller": "Amazon"
    },
@@ -299,20 +299,20 @@
   {
    "rank": 10,
    "asin": "B0DT9YQ2Q1",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "Gigabyte Aorus GeForce RTX 5080 Master Ice 16G Graphics Card",
-   "url": "https://www.amazon.de/dp/B0DT9YQ2Q1",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "Gigabyte AORUS GeForce RTX 5080 MASTER ICE 16G Graphics Card",
+   "url": "https://www.amazon.co.uk/dp/B0DT9YQ2Q1",
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 15571,
-    "currency": "USD",
-    "price": 1915.33,
-    "shipping_to_hk": 30.45,
-    "total_local": 1945.78,
-    "price_text": "US$1,915.33 + 運費 US$30.45",
+    "total_hkd": 16539,
+    "currency": "HKD",
+    "price": 15753.93,
+    "shipping_to_hk": 461.17,
+    "total_local": 16215.1,
+    "price_text": "HK$15,753.93 + 運費 HK$461.17",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -326,10 +326,10 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 2428,
-   "vs_hk_text": "比香港平 HK$2,428"
+   "vs_hk_hkd": 1460,
+   "vs_hk_text": "比香港平 HK$1,460"
   }
  ],
- "generated_at": "2026-11-01T00:14:42+08:00",
- "generated_at_hkt": "2026-11-01 00:14 HKT"
+ "generated_at": "2026-11-01T00:57:33+08:00",
+ "generated_at_hkt": "2026-11-01 00:57 HKT"
 }
