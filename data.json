@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-10-31 11:46 HKT",
- "amazon_data_updated_hkt": "2026-10-31 11:46 HKT",
+ "price_updated_hkt": "2026-10-31 12:42 HKT",
+ "amazon_data_updated_hkt": "2026-10-31 12:42 HKT",
  "hk_data_updated_hkt": "2026-10-31 11:41 HKT",
  "fx": {
   "USD": 7.8453,
@@ -128,6 +128,13 @@
       "name": "ASUS 華碩 Prime GeForce RTX 5080 16G OC EVO 顯示卡",
       "price_hkd": 15999,
       "url": "https://shop.pegasus.hk/products/235810/ASUS-華碩-Prime-GeForce-RTX-5080-16G-OC-EVO-顯示卡---3年保養"
+     },
+     {
+      "store": "未來科技 BUYMORE",
+      "store_short": "未來科技 BUYMORE",
+      "name": "【RTX5080】ASUS PRIME RTX5080 EVO OC 16GB [長: 304mm]",
+      "price_hkd": 17000,
+      "url": "https://buymore.hk/shop/goods.php?id=47900"
      }
     ]
    },
@@ -323,6 +330,6 @@
    "vs_hk_text": "比香港平 HK$2,429"
   }
  ],
- "generated_at": "2026-10-31T11:46:13+08:00",
- "generated_at_hkt": "2026-10-31 11:46 HKT"
+ "generated_at": "2026-10-31T12:42:37+08:00",
+ "generated_at_hkt": "2026-10-31 12:42 HKT"
 }
