@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-01 11:53 HKT",
- "amazon_data_updated_hkt": "2026-11-01 11:53 HKT",
+ "price_updated_hkt": "2026-11-01 12:41 HKT",
+ "amazon_data_updated_hkt": "2026-11-01 12:41 HKT",
  "hk_data_updated_hkt": "2026-11-01 11:39 HKT",
  "fx": {
   "USD": 7.8454,
@@ -299,20 +299,20 @@
   {
    "rank": 10,
    "asin": "B0DT9YQ2Q1",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "Gigabyte AORUS GeForce RTX 5080 MASTER ICE 16G Graphics Card",
-   "url": "https://www.amazon.co.uk/dp/B0DT9YQ2Q1",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "Gigabyte Aorus GeForce RTX 5080 Master Ice 16G Graphics Card",
+   "url": "https://www.amazon.de/dp/B0DT9YQ2Q1",
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 16600,
+    "total_hkd": 15696,
     "currency": "HKD",
-    "price": 15811.32,
-    "shipping_to_hk": 462.85,
-    "total_local": 16274.17,
-    "price_text": "HK$15,811.32 + 運費 HK$462.85",
+    "price": 15147.53,
+    "shipping_to_hk": 240.78,
+    "total_local": 15388.31,
+    "price_text": "HK$15,147.53 + 運費 HK$240.78",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -326,10 +326,10 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 1399,
-   "vs_hk_text": "比香港平 HK$1,399"
+   "vs_hk_hkd": 2303,
+   "vs_hk_text": "比香港平 HK$2,303"
   }
  ],
- "generated_at": "2026-11-01T11:53:47+08:00",
- "generated_at_hkt": "2026-11-01 11:53 HKT"
+ "generated_at": "2026-11-01T12:41:59+08:00",
+ "generated_at_hkt": "2026-11-01 12:41 HKT"
 }
