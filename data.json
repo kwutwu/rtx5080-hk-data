@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-01 09:06 HKT",
- "amazon_data_updated_hkt": "2026-11-01 09:06 HKT",
+ "price_updated_hkt": "2026-11-01 09:48 HKT",
+ "amazon_data_updated_hkt": "2026-11-01 09:48 HKT",
  "hk_data_updated_hkt": "2026-10-31 11:41 HKT",
  "fx": {
-  "USD": 7.8453,
-  "EUR": 8.76,
-  "GBP": 10.5012
+  "USD": 7.8454,
+  "EUR": 8.7603,
+  "GBP": 10.5032
  },
- "fx_text": "匯率：1 USD ≈ HK$7.8453、1 EUR ≈ HK$8.76、1 GBP ≈ HK$10.5012",
+ "fx_text": "匯率：1 USD ≈ HK$7.8454、1 EUR ≈ HK$8.7603、1 GBP ≈ HK$10.5032",
  "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-10-31 11:41 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
@@ -250,12 +250,12 @@
    "image": "img/B0BX6LGM2X.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71n9sxFO9dL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14994,
+    "total_hkd": 15048,
     "currency": "HKD",
-    "price": 14528.58,
-    "shipping_to_hk": 170.98,
-    "total_local": 14699.56,
-    "price_text": "HK$14,528.58 + 運費 HK$170.98",
+    "price": 14581.51,
+    "shipping_to_hk": 171.61,
+    "total_local": 14753.12,
+    "price_text": "HK$14,581.51 + 運費 HK$171.61",
     "stock": "",
     "seller": "Amazon"
    },
@@ -269,8 +269,8 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 1005,
-   "vs_hk_text": "比香港平 HK$1,005"
+   "vs_hk_hkd": 951,
+   "vs_hk_text": "比香港平 HK$951"
   },
   {
    "rank": 9,
@@ -307,12 +307,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 15700,
-    "currency": "USD",
-    "price": 1931.23,
-    "shipping_to_hk": 30.7,
-    "total_local": 1961.93,
-    "price_text": "US$1,931.23 + 運費 US$30.70",
+    "total_hkd": 15696,
+    "currency": "HKD",
+    "price": 15147.53,
+    "shipping_to_hk": 240.78,
+    "total_local": 15388.31,
+    "price_text": "HK$15,147.53 + 運費 HK$240.78",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -326,10 +326,10 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 2299,
-   "vs_hk_text": "比香港平 HK$2,299"
+   "vs_hk_hkd": 2303,
+   "vs_hk_text": "比香港平 HK$2,303"
   }
  ],
- "generated_at": "2026-11-01T09:06:31+08:00",
- "generated_at_hkt": "2026-11-01 09:06 HKT"
+ "generated_at": "2026-11-01T09:48:29+08:00",
+ "generated_at_hkt": "2026-11-01 09:48 HKT"
 }
