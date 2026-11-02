@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-02 19:37 HKT",
- "amazon_data_updated_hkt": "2026-11-02 19:37 HKT",
+ "price_updated_hkt": "2026-11-02 20:33 HKT",
+ "amazon_data_updated_hkt": "2026-11-02 20:33 HKT",
  "hk_data_updated_hkt": "2026-11-01 11:39 HKT",
  "fx": {
   "USD": 7.8446,
@@ -248,7 +248,7 @@
     "shipping_to_hk": 171.61,
     "total_local": 14841.03,
     "price_text": "HK$14,669.42 + 運費 HK$171.61",
-    "stock": "Only 2 left in stock.",
+    "stock": "Only 1 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -257,47 +257,6 @@
   },
   {
    "rank": 9,
-   "asin": "B0DSQ1RCZV",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "Gigabyte GeForce RTX 5080 GAMING OC 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080GAMING OC-16GD",
-   "url": "https://www.amazon.co.uk/dp/B0DSQ1RCZV",
-   "image": "img/B0DSQ1RCZV.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 15148,
-    "currency": "HKD",
-    "price": 14643.07,
-    "shipping_to_hk": 208.39,
-    "total_local": 14851.46,
-    "price_text": "HK$14,643.07 + 運費 HK$208.39",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "中田電腦 Centralfield",
-     "store_short": "中田電腦",
-     "name": "GIGABYTE GeForce RTX 5080 GAMING OC 16GB GDDR7 技嘉顯示卡三風扇超頻版",
-     "price_hkd": 15999,
-     "url": "https://centralfield.com/product/10887/gigabyte-rtx-5080-gaming-oc-16gb-graphics-card"
-    },
-    "others": [
-     {
-      "store": "飛馬 PEGASUS",
-      "store_short": "飛馬",
-      "name": "GIGABYTE 技嘉 GAMING GeForce RTX 5080 16G OC 顯示卡",
-      "price_hkd": 17999,
-      "url": "https://shop.pegasus.hk/products/223088/GIGABYTE-技嘉-GAMING-GeForce-RTX-5080-16G-OC-顯示卡---4-年保固需線上註冊保養"
-     }
-    ]
-   },
-   "vs_hk_hkd": 851,
-   "vs_hk_text": "比香港平 HK$851"
-  },
-  {
-   "rank": 10,
    "asin": "B0DT9YQ2Q1",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -328,8 +287,49 @@
    },
    "vs_hk_hkd": 1926,
    "vs_hk_text": "比香港平 HK$1,926"
+  },
+  {
+   "rank": 10,
+   "asin": "B0DSQ1RCZV",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "Gigabyte GeForce RTX 5080 GAMING OC 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080GAMING OC-16GD",
+   "url": "https://www.amazon.co.uk/dp/B0DSQ1RCZV",
+   "image": "img/B0DSQ1RCZV.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 17236,
+    "currency": "HKD",
+    "price": 16689.7,
+    "shipping_to_hk": 208.39,
+    "total_local": 16898.09,
+    "price_text": "HK$16,689.70 + 運費 HK$208.39",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "中田電腦 Centralfield",
+     "store_short": "中田電腦",
+     "name": "GIGABYTE GeForce RTX 5080 GAMING OC 16GB GDDR7 技嘉顯示卡三風扇超頻版",
+     "price_hkd": 15999,
+     "url": "https://centralfield.com/product/10887/gigabyte-rtx-5080-gaming-oc-16gb-graphics-card"
+    },
+    "others": [
+     {
+      "store": "飛馬 PEGASUS",
+      "store_short": "飛馬",
+      "name": "GIGABYTE 技嘉 GAMING GeForce RTX 5080 16G OC 顯示卡",
+      "price_hkd": 17999,
+      "url": "https://shop.pegasus.hk/products/223088/GIGABYTE-技嘉-GAMING-GeForce-RTX-5080-16G-OC-顯示卡---4-年保固需線上註冊保養"
+     }
+    ]
+   },
+   "vs_hk_hkd": -1237,
+   "vs_hk_text": "比香港貴 HK$1,237"
   }
  ],
- "generated_at": "2026-11-02T19:37:29+08:00",
- "generated_at_hkt": "2026-11-02 19:37 HKT"
+ "generated_at": "2026-11-02T20:33:04+08:00",
+ "generated_at_hkt": "2026-11-02 20:33 HKT"
 }
