@@ -1,15 +1,15 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-02 20:33 HKT",
- "amazon_data_updated_hkt": "2026-11-02 20:33 HKT",
- "hk_data_updated_hkt": "2026-11-01 11:39 HKT",
+ "price_updated_hkt": "2026-11-02 21:18 HKT",
+ "amazon_data_updated_hkt": "2026-11-02 21:18 HKT",
+ "hk_data_updated_hkt": "2026-11-02 20:47 HKT",
  "fx": {
   "USD": 7.8446,
   "EUR": 8.7544,
   "GBP": 10.5028
  },
  "fx_text": "匯率：1 USD ≈ HK$7.8446、1 EUR ≈ HK$8.7544、1 GBP ≈ HK$10.5028",
- "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-11-01 11:39 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
+ "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-11-02 20:47 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
   {
@@ -82,11 +82,11 @@
    },
    "hk": {
     "best": {
-     "store": "中田電腦 Centralfield",
-     "store_short": "中田電腦",
-     "name": "ASUS PRIME GeForce RTX 5080 OC EVO 16GB GDDR7 華碩顯示卡三風扇超頻版 [SFF-Ready]",
-     "price_hkd": 15300,
-     "url": "https://centralfield.com/product/22895/asus-prime-rtx-5080-oc-evo-16gb"
+     "store": "Jumbo 珍寶電腦",
+     "store_short": "Jumbo",
+     "name": "ASUS PRIME GeForce RTX 5080 EVO OC 16GB GDDR7 PRIME-RTX5080-O16G-EVO - 3年保養 **限砌機",
+     "price_hkd": 15999,
+     "url": "https://www.jumbo-computer.com/zh-hk/products/asus-prime-geforce-rtx-5080-evo-oc-16gb-gddr7-prime-rtx5080-o16g-evo"
     },
     "others": [
      {
@@ -105,8 +105,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1376,
-   "vs_hk_text": "比香港平 HK$1,376"
+   "vs_hk_hkd": 2075,
+   "vs_hk_text": "比香港平 HK$2,075"
   },
   {
    "rank": 4,
@@ -310,11 +310,11 @@
    },
    "hk": {
     "best": {
-     "store": "中田電腦 Centralfield",
-     "store_short": "中田電腦",
-     "name": "GIGABYTE GeForce RTX 5080 GAMING OC 16GB GDDR7 技嘉顯示卡三風扇超頻版",
-     "price_hkd": 15999,
-     "url": "https://centralfield.com/product/10887/gigabyte-rtx-5080-gaming-oc-16gb-graphics-card"
+     "store": "Jumbo 珍寶電腦",
+     "store_short": "Jumbo",
+     "name": "GIGABYTE GeForce RTX 5080 GAMING OC 16GB GDDR7 (GV-N5080GAMING OC-16GD) - 3年保養",
+     "price_hkd": 17999,
+     "url": "https://www.jumbo-computer.com/zh-hk/products/gigabyte-geforce-rtx-5080-gaming-oc-16gb-gddr7-gv-n5080gaming-oc-16gd"
     },
     "others": [
      {
@@ -326,10 +326,10 @@
      }
     ]
    },
-   "vs_hk_hkd": -1237,
-   "vs_hk_text": "比香港貴 HK$1,237"
+   "vs_hk_hkd": 763,
+   "vs_hk_text": "比香港平 HK$763"
   }
  ],
- "generated_at": "2026-11-02T20:33:04+08:00",
- "generated_at_hkt": "2026-11-02 20:33 HKT"
+ "generated_at": "2026-11-02T21:18:54+08:00",
+ "generated_at_hkt": "2026-11-02 21:18 HKT"
 }
