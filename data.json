@@ -1,17 +1,178 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-03 10:00 HKT",
- "amazon_data_updated_hkt": "2026-11-03 10:00 HKT",
- "hk_data_updated_hkt": "2026-11-03 09:47 HKT",
+ "price_updated_hkt": "2026-11-03 07:09 HKT",
+ "amazon_data_updated_hkt": "2026-11-03 07:09 HKT",
+ "hk_data_updated_hkt": "2026-11-02 21:40 HKT",
  "fx": {
-  "USD": 7.8467,
-  "EUR": 8.7842,
-  "GBP": 10.5221
+  "USD": 7.8446,
+  "EUR": 8.7544,
+  "GBP": 10.5028
  },
- "fx_text": "匯率：1 USD ≈ HK$7.8467、1 EUR ≈ HK$8.7842、1 GBP ≈ HK$10.5221",
- "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-11-03 09:47 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
- "count": 0,
- "cards": [],
- "generated_at": "2026-11-03T10:19:27+08:00",
- "generated_at_hkt": "2026-11-03 10:19 HKT"
+ "fx_text": "匯率：1 USD ≈ HK$7.8446、1 EUR ≈ HK$8.7544、1 GBP ≈ HK$10.5028",
+ "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-11-02 21:40 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
+ "count": 5,
+ "cards": [
+  {
+   "rank": 1,
+   "asin": "B0GZWW2RKH",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
+   "url": "https://www.amazon.fr/dp/B0GZWW2RKH",
+   "image": "img/B0GZWW2RKH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13918,
+    "currency": "EUR",
+    "price": 1533.32,
+    "shipping_to_hk": 25.3,
+    "total_local": 1558.62,
+    "price_text": "€1,533.32 + 運費 €25.30",
+    "stock": "Only 10 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 2,
+   "asin": "B09BD59F4T",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "ASUS Prime GeForce RTX 5080 Evo Gaming Graphics Card 16GB GDDR7 OC Edition (Nvidia GeForce",
+   "url": "https://www.amazon.fr/dp/B09BD59F4T",
+   "image": null,
+   "image_fallback_url": null,
+   "amazon": {
+    "total_hkd": 13924,
+    "currency": "EUR",
+    "price": 1533.32,
+    "shipping_to_hk": 25.97,
+    "total_local": 1559.29,
+    "price_text": "€1,533.32 + 運費 €25.97",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "中田電腦 Centralfield",
+     "store_short": "中田電腦",
+     "name": "ASUS PRIME GeForce RTX 5080 OC EVO 16GB GDDR7 華碩顯示卡三風扇超頻版 [SFF-Ready]",
+     "price_hkd": 15300,
+     "url": "https://centralfield.com/product/22895/asus-prime-rtx-5080-oc-evo-16gb"
+    },
+    "others": [
+     {
+      "store": "Jumbo 珍寶電腦",
+      "store_short": "Jumbo",
+      "name": "ASUS PRIME GeForce RTX 5080 EVO OC 16GB GDDR7 PRIME-RTX5080-O16G-EVO - 3年保養 **限砌機",
+      "price_hkd": 15999,
+      "url": "https://www.jumbo-computer.com/zh-hk/products/asus-prime-geforce-rtx-5080-evo-oc-16gb-gddr7-prime-rtx5080-o16g-evo"
+     },
+     {
+      "store": "飛馬 PEGASUS",
+      "store_short": "飛馬",
+      "name": "ASUS 華碩 Prime GeForce RTX 5080 16G OC EVO 顯示卡",
+      "price_hkd": 15999,
+      "url": "https://shop.pegasus.hk/products/235810/ASUS-華碩-Prime-GeForce-RTX-5080-16G-OC-EVO-顯示卡---3年保養"
+     },
+     {
+      "store": "未來科技 BUYMORE",
+      "store_short": "未來科技 BUYMORE",
+      "name": "【RTX5080】ASUS PRIME RTX5080 EVO OC 16GB [長: 304mm]",
+      "price_hkd": 17000,
+      "url": "https://buymore.hk/shop/goods.php?id=47900"
+     }
+    ]
+   },
+   "vs_hk_hkd": 1376,
+   "vs_hk_text": "比香港平 HK$1,376"
+  },
+  {
+   "rank": 3,
+   "asin": "B0GWRN4Q36",
+   "domain": "amazon.it",
+   "marketplace_code": "IT",
+   "marketplace_zh": "意大利 Amazon",
+   "title": "msi NVIDIA GeForce RTX 5080 16G Inspire 3X OC Black Graphics Card 16GB",
+   "url": "https://www.amazon.it/dp/B0GWRN4Q36",
+   "image": "img/B0GWRN4Q36.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 14134,
+    "currency": "EUR",
+    "price": 1557.37,
+    "shipping_to_hk": 25.52,
+    "total_local": 1582.89,
+    "price_text": "€1,557.37 + 運費 €25.52",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 4,
+   "asin": "B0DTJFZ4YS",
+   "domain": "amazon.es",
+   "marketplace_code": "ES",
+   "marketplace_zh": "西班牙 Amazon",
+   "title": "PNY GeForce RTX™ 5080 16GB OC Triple Fan Graphics Card DLSS 4",
+   "url": "https://www.amazon.es/dp/B0DTJFZ4YS",
+   "image": "img/B0DTJFZ4YS.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
+   "amazon": {
+    "total_hkd": 16138,
+    "currency": "EUR",
+    "price": 1785.75,
+    "shipping_to_hk": 21.49,
+    "total_local": 1807.24,
+    "price_text": "€1,785.75 + 運費 €21.49",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 5,
+   "asin": "B0H86338KX",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "GIGABYTE AORUS GeForce RTX 5080 Infinity Wood 16G Graphics Card",
+   "url": "https://www.amazon.fr/dp/B0H86338KX",
+   "image": null,
+   "image_fallback_url": null,
+   "amazon": {
+    "total_hkd": 17419,
+    "currency": "EUR",
+    "price": 1916.66,
+    "shipping_to_hk": 34.01,
+    "total_local": 1950.67,
+    "price_text": "€1,916.66 + 運費 €34.01",
+    "stock": "Available to ship in 1-2 days",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "SE Computer",
+     "store_short": "SE Computer",
+     "name": "Gigabyte技嘉 AORUS GeForce RTX5080 INFINITY WOOD 16GB GDDR7 (GV-N5080AORUSIF WD-16GD)",
+     "price_hkd": 19999,
+     "url": "https://secomputer.com.hk/products/64266"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 2580,
+   "vs_hk_text": "比香港平 HK$2,580"
+  }
+ ],
+ "generated_at": "2026-11-03T07:09:49+08:00",
+ "generated_at_hkt": "2026-11-03 07:09 HKT"
 }
