@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-04 20:46 HKT",
- "amazon_data_updated_hkt": "2026-11-04 20:46 HKT",
+ "price_updated_hkt": "2026-11-04 21:41 HKT",
+ "amazon_data_updated_hkt": "2026-11-04 21:41 HKT",
  "hk_data_updated_hkt": "2026-11-04 11:10 HKT",
  "fx": {
   "USD": 7.8458,
@@ -174,39 +174,6 @@
   },
   {
    "rank": 6,
-   "asin": "B0DT9Y2B49",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card - 16GB GDDR7, 256-bit, PCI-E 5.0, 2670MHz Base Frequency, 3 x DP 2.1a, 1 x HDMI 2.1b, GV-N5080WF3OC-16GD",
-   "url": "https://www.amazon.de/dp/B0DT9Y2B49",
-   "image": "img/B0DT9Y2B49.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 15035,
-    "currency": "HKD",
-    "price": 14589.2,
-    "shipping_to_hk": 151.04,
-    "total_local": 14740.24,
-    "price_text": "HK$14,589.20 + 運費 HK$151.04",
-    "stock": "Only 1 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "飛馬 PEGASUS",
-     "store_short": "飛馬",
-     "name": "GIGABYTE 技嘉 WINDFORCE SFF GeForce RTX 5080 16G OC 顯示卡",
-     "price_hkd": 17599,
-     "url": "https://shop.pegasus.hk/products/223101/GIGABYTE-技嘉-WINDFORCE-SFF-GeForce-RTX-5080-16G-OC-顯示卡---3-年保固需線上註冊保養"
-    },
-    "others": []
-   },
-   "vs_hk_hkd": 2564,
-   "vs_hk_text": "比香港平 HK$2,564"
-  },
-  {
-   "rank": 7,
    "asin": "B0BX6LGM2X",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -237,6 +204,39 @@
    },
    "vs_hk_hkd": 930,
    "vs_hk_text": "比香港平 HK$930"
+  },
+  {
+   "rank": 7,
+   "asin": "B0DT9Y2B49",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card - 16GB GDDR7, 256-bit, PCI-E 5.0, 2670MHz Base Frequency, 3 x DP 2.1a, 1 x HDMI 2.1b, GV-N5080WF3OC-16GD",
+   "url": "https://www.amazon.de/dp/B0DT9Y2B49",
+   "image": "img/B0DT9Y2B49.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 15078,
+    "currency": "HKD",
+    "price": 14589.2,
+    "shipping_to_hk": 193.19,
+    "total_local": 14782.39,
+    "price_text": "HK$14,589.20 + 運費 HK$193.19",
+    "stock": "Only 1 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "GIGABYTE 技嘉 WINDFORCE SFF GeForce RTX 5080 16G OC 顯示卡",
+     "price_hkd": 17599,
+     "url": "https://shop.pegasus.hk/products/223101/GIGABYTE-技嘉-WINDFORCE-SFF-GeForce-RTX-5080-16G-OC-顯示卡---3-年保固需線上註冊保養"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 2521,
+   "vs_hk_text": "比香港平 HK$2,521"
   },
   {
    "rank": 8,
@@ -353,6 +353,6 @@
    "vs_hk_text": "比香港平 HK$2,623"
   }
  ],
- "generated_at": "2026-11-04T20:46:31+08:00",
- "generated_at_hkt": "2026-11-04 20:46 HKT"
+ "generated_at": "2026-11-04T21:41:20+08:00",
+ "generated_at_hkt": "2026-11-04 21:41 HKT"
 }
