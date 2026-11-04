@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-04 16:02 HKT",
- "amazon_data_updated_hkt": "2026-11-04 16:02 HKT",
+ "price_updated_hkt": "2026-11-04 16:43 HKT",
+ "amazon_data_updated_hkt": "2026-11-04 16:43 HKT",
  "hk_data_updated_hkt": "2026-11-04 11:10 HKT",
  "fx": {
   "USD": 7.8458,
@@ -158,30 +158,6 @@
   },
   {
    "rank": 5,
-   "asin": "B0DTJFZ4YS",
-   "domain": "amazon.it",
-   "marketplace_code": "IT",
-   "marketplace_zh": "意大利 Amazon",
-   "title": "PNY GeForce RTX™ 5080 16GB OC Triple Fan Graphics Card DLSS 4",
-   "url": "https://www.amazon.it/dp/B0DTJFZ4YS",
-   "image": "img/B0DTJFZ4YS.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
-   "amazon": {
-    "total_hkd": 14193,
-    "currency": "EUR",
-    "price": 1556.56,
-    "shipping_to_hk": 27.94,
-    "total_local": 1584.5,
-    "price_text": "€1,556.56 + 運費 €27.94",
-    "stock": "Only 1 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 6,
    "asin": "B0FD3XZ8P1",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -205,7 +181,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 7,
+   "rank": 6,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -238,23 +214,23 @@
    "vs_hk_text": "比香港平 HK$3,652"
   },
   {
-   "rank": 8,
-   "asin": "B0H5NNTMTH",
+   "rank": 7,
+   "asin": "B0DT9Y2B49",
    "domain": "amazon.de",
    "marketplace_code": "DE",
    "marketplace_zh": "德國 Amazon",
-   "title": "GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card, 16GB GDDR7, 256bit, PCI-E 5.0, 2670MHz Core Clock, 3×DP 2.1b, 1×HDMI 2.1b, DLSS 4, GV-N5080WF3OCV2-16GD",
-   "url": "https://www.amazon.de/dp/B0H5NNTMTH",
-   "image": "img/B0H5NNTMTH.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71+VdWUZ4AL._AC_SL1500_.jpg",
+   "title": "GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card - 16GB GDDR7, 256-bit, PCI-E 5.0, 2670MHz Base Frequency, 3 x DP 2.1a, 1 x HDMI 2.1b, GV-N5080WF3OC-16GD",
+   "url": "https://www.amazon.de/dp/B0DT9Y2B49",
+   "image": "img/B0DT9Y2B49.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 15069,
+    "total_hkd": 15035,
     "currency": "HKD",
-    "price": 14633.64,
-    "shipping_to_hk": 139.84,
-    "total_local": 14773.48,
-    "price_text": "HK$14,633.64 + 運費 HK$139.84",
-    "stock": "",
+    "price": 14589.2,
+    "shipping_to_hk": 151.04,
+    "total_local": 14740.24,
+    "price_text": "HK$14,589.20 + 運費 HK$151.04",
+    "stock": "Only 2 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -267,11 +243,11 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 2530,
-   "vs_hk_text": "比香港平 HK$2,530"
+   "vs_hk_hkd": 2564,
+   "vs_hk_text": "比香港平 HK$2,564"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "asin": "B0DT9YQ2Q1",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -304,7 +280,7 @@
    "vs_hk_text": "比香港平 HK$1,889"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -350,8 +326,41 @@
    },
    "vs_hk_hkd": -1261,
    "vs_hk_text": "比香港貴 HK$1,261"
+  },
+  {
+   "rank": 10,
+   "asin": "B0H86338KX",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "GIGABYTE AORUS GeForce RTX 5080 INFINITY WOOD 16G Graphics Card",
+   "url": "https://www.amazon.co.uk/dp/B0H86338KX",
+   "image": null,
+   "image_fallback_url": null,
+   "amazon": {
+    "total_hkd": 17376,
+    "currency": "HKD",
+    "price": 16826.95,
+    "shipping_to_hk": 208.68,
+    "total_local": 17035.63,
+    "price_text": "HK$16,826.95 + 運費 HK$208.68",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "SE Computer",
+     "store_short": "SE Computer",
+     "name": "Gigabyte技嘉 AORUS GeForce RTX5080 INFINITY WOOD 16GB GDDR7 (GV-N5080AORUSIF WD-16GD)",
+     "price_hkd": 19999,
+     "url": "https://secomputer.com.hk/products/64266"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 2623,
+   "vs_hk_text": "比香港平 HK$2,623"
   }
  ],
- "generated_at": "2026-11-04T16:02:41+08:00",
- "generated_at_hkt": "2026-11-04 16:02 HKT"
+ "generated_at": "2026-11-04T16:43:28+08:00",
+ "generated_at_hkt": "2026-11-04 16:43 HKT"
 }
