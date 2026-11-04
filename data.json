@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-04 21:41 HKT",
- "amazon_data_updated_hkt": "2026-11-04 21:41 HKT",
+ "price_updated_hkt": "2026-11-04 22:25 HKT",
+ "amazon_data_updated_hkt": "2026-11-04 22:25 HKT",
  "hk_data_updated_hkt": "2026-11-04 11:10 HKT",
  "fx": {
   "USD": 7.8458,
@@ -38,6 +38,30 @@
   },
   {
    "rank": 2,
+   "asin": "B0GZWW2RKH",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
+   "url": "https://www.amazon.fr/dp/B0GZWW2RKH",
+   "image": "img/B0GZWW2RKH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13927,
+    "currency": "EUR",
+    "price": 1533.32,
+    "shipping_to_hk": 21.51,
+    "total_local": 1554.83,
+    "price_text": "€1,533.32 + 運費 €21.51",
+    "stock": "",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 3,
    "asin": "B09BD59F4T",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -90,30 +114,6 @@
    },
    "vs_hk_hkd": 1367,
    "vs_hk_text": "比香港平 HK$1,367"
-  },
-  {
-   "rank": 3,
-   "asin": "B0GZWW2RKH",
-   "domain": "amazon.fr",
-   "marketplace_code": "FR",
-   "marketplace_zh": "法國 Amazon",
-   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
-   "url": "https://www.amazon.fr/dp/B0GZWW2RKH",
-   "image": "img/B0GZWW2RKH.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 13961,
-    "currency": "EUR",
-    "price": 1533.32,
-    "shipping_to_hk": 25.3,
-    "total_local": 1558.62,
-    "price_text": "€1,533.32 + 運費 €25.30",
-    "stock": "Available to ship in 1-2 days",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
   },
   {
    "rank": 4,
@@ -353,6 +353,6 @@
    "vs_hk_text": "比香港平 HK$2,623"
   }
  ],
- "generated_at": "2026-11-04T21:41:20+08:00",
- "generated_at_hkt": "2026-11-04 21:41 HKT"
+ "generated_at": "2026-11-04T22:25:12+08:00",
+ "generated_at_hkt": "2026-11-04 22:25 HKT"
 }
