@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-05 08:41 HKT",
- "amazon_data_updated_hkt": "2026-11-05 08:41 HKT",
+ "price_updated_hkt": "2026-11-05 09:33 HKT",
+ "amazon_data_updated_hkt": "2026-11-05 09:33 HKT",
  "hk_data_updated_hkt": "2026-11-04 11:10 HKT",
  "fx": {
-  "USD": 7.8458,
-  "EUR": 8.7817,
-  "GBP": 10.5253
+  "USD": 7.8453,
+  "EUR": 8.8159,
+  "GBP": 10.5687
  },
- "fx_text": "匯率：1 USD ≈ HK$7.8458、1 EUR ≈ HK$8.7817、1 GBP ≈ HK$10.5253",
+ "fx_text": "匯率：1 USD ≈ HK$7.8453、1 EUR ≈ HK$8.8159、1 GBP ≈ HK$10.5687",
  "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-11-04 11:10 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
@@ -47,7 +47,7 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 13933,
+    "total_hkd": 13987,
     "currency": "EUR",
     "price": 1533.32,
     "shipping_to_hk": 22.19,
@@ -88,8 +88,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 1367,
-   "vs_hk_text": "比香港平 HK$1,367"
+   "vs_hk_hkd": 1313,
+   "vs_hk_text": "比香港平 HK$1,313"
   },
   {
    "rank": 3,
@@ -102,7 +102,7 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13961,
+    "total_hkd": 14015,
     "currency": "EUR",
     "price": 1533.32,
     "shipping_to_hk": 25.3,
@@ -249,7 +249,7 @@
    "image": "img/B0DYRZZJZ1.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 15924,
+    "total_hkd": 15986,
     "currency": "EUR",
     "price": 1751.95,
     "shipping_to_hk": 25.81,
@@ -306,7 +306,7 @@
    "image": "img/B0DTJFZ4YS.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 16188,
+    "total_hkd": 16251,
     "currency": "EUR",
     "price": 1785.75,
     "shipping_to_hk": 21.49,
@@ -320,6 +320,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-11-05T08:41:27+08:00",
- "generated_at_hkt": "2026-11-05 08:41 HKT"
+ "generated_at": "2026-11-05T09:33:34+08:00",
+ "generated_at_hkt": "2026-11-05 09:33 HKT"
 }
