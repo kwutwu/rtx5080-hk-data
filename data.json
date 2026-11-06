@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-07 00:51 HKT",
- "amazon_data_updated_hkt": "2026-11-07 00:51 HKT",
+ "price_updated_hkt": "2026-11-07 02:53 HKT",
+ "amazon_data_updated_hkt": "2026-11-07 02:53 HKT",
  "hk_data_updated_hkt": "2026-11-06 11:12 HKT",
  "fx": {
   "USD": 7.8428,
@@ -38,30 +38,6 @@
   },
   {
    "rank": 2,
-   "asin": "B0GZWW2RKH",
-   "domain": "amazon.fr",
-   "marketplace_code": "FR",
-   "marketplace_zh": "法國 Amazon",
-   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
-   "url": "https://www.amazon.fr/dp/B0GZWW2RKH",
-   "image": "img/B0GZWW2RKH.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 13968,
-    "currency": "EUR",
-    "price": 1533.32,
-    "shipping_to_hk": 21.51,
-    "total_local": 1554.83,
-    "price_text": "€1,533.32 + 運費 €21.51",
-    "stock": "",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 3,
    "asin": "B0DYRZZJZ1",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -85,7 +61,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 3,
    "asin": "B0FD3XZ8P1",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -109,7 +85,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 5,
+   "rank": 4,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -142,7 +118,7 @@
    "vs_hk_text": "比香港平 HK$4,598"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -175,7 +151,7 @@
    "vs_hk_text": "比香港平 HK$3,048"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -223,7 +199,7 @@
    "vs_hk_text": "比香港平 HK$475"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "asin": "B0DZCVQGG6",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -240,6 +216,30 @@
     "total_local": 1732.32,
     "price_text": "€1,702.78 + 運費 €29.54",
     "stock": "Only 2 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 8,
+   "asin": "B0GZWW2RKH",
+   "domain": "amazon.de",
+   "marketplace_code": "DE",
+   "marketplace_zh": "德國 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
+   "url": "https://www.amazon.de/dp/B0GZWW2RKH",
+   "image": "img/B0GZWW2RKH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 16109,
+    "currency": "HKD",
+    "price": 15658.95,
+    "shipping_to_hk": 134.28,
+    "total_local": 15793.23,
+    "price_text": "HK$15,658.95 + 運費 HK$134.28",
+    "stock": "",
     "seller": "Amazon"
    },
    "hk": null,
@@ -295,6 +295,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-11-07T00:51:18+08:00",
- "generated_at_hkt": "2026-11-07 00:51 HKT"
+ "generated_at": "2026-11-07T02:53:33+08:00",
+ "generated_at_hkt": "2026-11-07 02:53 HKT"
 }
