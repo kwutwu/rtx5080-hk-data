@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-06 20:50 HKT",
- "amazon_data_updated_hkt": "2026-11-06 20:50 HKT",
+ "price_updated_hkt": "2026-11-06 23:21 HKT",
+ "amazon_data_updated_hkt": "2026-11-06 23:21 HKT",
  "hk_data_updated_hkt": "2026-11-06 11:12 HKT",
  "fx": {
   "USD": 7.8428,
@@ -47,13 +47,13 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14002,
+    "total_hkd": 13968,
     "currency": "EUR",
     "price": 1533.32,
-    "shipping_to_hk": 25.3,
-    "total_local": 1558.62,
-    "price_text": "€1,533.32 + 運費 €25.30",
-    "stock": "Available to ship in 1-2 days",
+    "shipping_to_hk": 21.51,
+    "total_local": 1554.83,
+    "price_text": "€1,533.32 + 運費 €21.51",
+    "stock": "",
     "seller": "Amazon"
    },
    "hk": null,
@@ -295,6 +295,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-11-06T20:50:07+08:00",
- "generated_at_hkt": "2026-11-06 20:50 HKT"
+ "generated_at": "2026-11-06T23:21:03+08:00",
+ "generated_at_hkt": "2026-11-06 23:21 HKT"
 }
