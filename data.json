@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-08 04:50 HKT",
- "amazon_data_updated_hkt": "2026-11-08 04:50 HKT",
+ "price_updated_hkt": "2026-11-08 06:56 HKT",
+ "amazon_data_updated_hkt": "2026-11-08 06:56 HKT",
  "hk_data_updated_hkt": "2026-11-07 15:17 HKT",
  "fx": {
   "USD": 7.8396,
@@ -47,12 +47,12 @@
    "image": "img/B0GZWW2RKH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13908,
+    "total_hkd": 13874,
     "currency": "EUR",
     "price": 1533.32,
-    "shipping_to_hk": 25.3,
-    "total_local": 1558.62,
-    "price_text": "€1,533.32 + 運費 €25.30",
+    "shipping_to_hk": 21.51,
+    "total_local": 1554.83,
+    "price_text": "€1,533.32 + 運費 €21.51",
     "stock": "",
     "seller": "Amazon"
    },
@@ -101,7 +101,7 @@
     "shipping_to_hk": 208.79,
     "total_local": 14070.23,
     "price_text": "HK$13,861.44 + 運費 HK$208.79",
-    "stock": "Only 4 left in stock.",
+    "stock": "Only 3 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -158,7 +158,7 @@
     "shipping_to_hk": 176.58,
     "total_local": 14610.01,
     "price_text": "HK$14,433.43 + 運費 HK$176.58",
-    "stock": "In stock",
+    "stock": "Only 15 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -191,7 +191,7 @@
     "shipping_to_hk": 208.79,
     "total_local": 15170.28,
     "price_text": "HK$14,961.49 + 運費 HK$208.79",
-    "stock": "Only 14 left in stock.",
+    "stock": "Only 13 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -233,12 +233,12 @@
    "image": "img/B0DZCVQGG6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
    "amazon": {
-    "total_hkd": 15770,
+    "total_hkd": 15691,
     "currency": "HKD",
-    "price": 15319.69,
+    "price": 15241.91,
     "shipping_to_hk": 141.37,
-    "total_local": 15461.06,
-    "price_text": "HK$15,319.69 + 運費 HK$141.37",
+    "total_local": 15383.28,
+    "price_text": "HK$15,241.91 + 運費 HK$141.37",
     "stock": "Only 8 left in stock.",
     "seller": "Amazon"
    },
@@ -295,6 +295,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-11-08T04:50:53+08:00",
- "generated_at_hkt": "2026-11-08 04:50 HKT"
+ "generated_at": "2026-11-08T06:56:48+08:00",
+ "generated_at_hkt": "2026-11-08 06:56 HKT"
 }
