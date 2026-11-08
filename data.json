@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-08 20:47 HKT",
- "amazon_data_updated_hkt": "2026-11-08 20:47 HKT",
+ "price_updated_hkt": "2026-11-08 22:56 HKT",
+ "amazon_data_updated_hkt": "2026-11-08 22:56 HKT",
  "hk_data_updated_hkt": "2026-11-08 12:20 HKT",
  "fx": {
   "USD": 7.8396,
@@ -176,6 +176,30 @@
   },
   {
    "rank": 7,
+   "asin": "B0DTYJQQD2",
+   "domain": "amazon.co.jp",
+   "marketplace_code": "JP",
+   "marketplace_zh": "日本 Amazon",
+   "title": "ASUS NVIDIA GeForce RTX 5080 Video Card 16GB GDDR7 PCI Express 5.0 / PRIME",
+   "url": "https://www.amazon.co.jp/dp/B0DTYJQQD2",
+   "image": null,
+   "image_fallback_url": null,
+   "amazon": {
+    "total_hkd": 15371,
+    "currency": "HKD",
+    "price": 16576.62,
+    "shipping_to_hk": 0.0,
+    "total_local": 16576.62,
+    "price_text": "HK$16,576.62（免運費寄港）",
+    "stock": "Only 1 left in stock - order soon.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 8,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -223,7 +247,7 @@
    "vs_hk_text": "比香港平 HK$525"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "asin": "B0DZCVQGG6",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -233,13 +257,13 @@
    "image": "img/B0DZCVQGG6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
    "amazon": {
-    "total_hkd": 15808,
+    "total_hkd": 15803,
     "currency": "HKD",
-    "price": 15357.12,
+    "price": 15351.31,
     "shipping_to_hk": 141.37,
-    "total_local": 15498.49,
-    "price_text": "HK$15,357.12 + 運費 HK$141.37",
-    "stock": "Only 14 left in stock.",
+    "total_local": 15492.68,
+    "price_text": "HK$15,351.31 + 運費 HK$141.37",
+    "stock": "Only 15 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -247,7 +271,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 9,
+   "rank": 10,
    "asin": "B0DTJFZ4YS",
    "domain": "amazon.es",
    "marketplace_code": "ES",
@@ -269,32 +293,8 @@
    "hk": null,
    "vs_hk_hkd": null,
    "vs_hk_text": null
-  },
-  {
-   "rank": 10,
-   "asin": "B0DT9VM5DC",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "Gigabyte AORUS GeForce RTX 5080 XTREME WATERFORCE 16G Graphics Card",
-   "url": "https://www.amazon.co.uk/dp/B0DT9VM5DC",
-   "image": null,
-   "image_fallback_url": null,
-   "amazon": {
-    "total_hkd": 16391,
-    "currency": "HKD",
-    "price": 15753.57,
-    "shipping_to_hk": 316.52,
-    "total_local": 16070.09,
-    "price_text": "HK$15,753.57 + 運費 HK$316.52",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
   }
  ],
- "generated_at": "2026-11-08T20:47:24+08:00",
- "generated_at_hkt": "2026-11-08 20:47 HKT"
+ "generated_at": "2026-11-08T22:56:52+08:00",
+ "generated_at_hkt": "2026-11-08 22:56 HKT"
 }
