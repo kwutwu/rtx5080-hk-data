@@ -1,15 +1,15 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-08 10:47 HKT",
- "amazon_data_updated_hkt": "2026-11-08 10:47 HKT",
- "hk_data_updated_hkt": "2026-11-07 15:17 HKT",
+ "price_updated_hkt": "2026-11-08 12:58 HKT",
+ "amazon_data_updated_hkt": "2026-11-08 12:58 HKT",
+ "hk_data_updated_hkt": "2026-11-08 12:20 HKT",
  "fx": {
   "USD": 7.8396,
   "EUR": 8.7516,
   "GBP": 10.4881
  },
  "fx_text": "匯率：1 USD ≈ HK$7.8396、1 EUR ≈ HK$8.7516、1 GBP ≈ HK$10.4881",
- "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-11-07 15:17 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
+ "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-11-08 12:20 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
   {
@@ -198,7 +198,7 @@
     "best": {
      "store": "中田電腦 Centralfield",
      "store_short": "中田電腦",
-     "name": "技嘉 GIGABYTE RTX 5080 GAMING OC 16GB GDDR7 顯示卡",
+     "name": "GIGABYTE GeForce RTX 5080 GAMING OC 16GB GDDR7 技嘉顯示卡三風扇超頻版",
      "price_hkd": 15999,
      "url": "https://centralfield.com/product/10887/gigabyte-rtx-5080-gaming-oc-16gb-graphics-card"
     },
@@ -225,21 +225,21 @@
   {
    "rank": 8,
    "asin": "B0DZCVQGG6",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
    "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
-   "url": "https://www.amazon.de/dp/B0DZCVQGG6",
+   "url": "https://www.amazon.fr/dp/B0DZCVQGG6",
    "image": "img/B0DZCVQGG6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
    "amazon": {
-    "total_hkd": 15830,
-    "currency": "HKD",
-    "price": 15378.08,
-    "shipping_to_hk": 141.37,
-    "total_local": 15519.45,
-    "price_text": "HK$15,378.08 + 運費 HK$141.37",
-    "stock": "Only 7 left in stock.",
+    "total_hkd": 15885,
+    "currency": "EUR",
+    "price": 1749.99,
+    "shipping_to_hk": 29.54,
+    "total_local": 1779.53,
+    "price_text": "€1,749.99 + 運費 €29.54",
+    "stock": "Only 8 left in stock.",
     "seller": "Amazon"
    },
    "hk": null,
@@ -295,6 +295,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-11-08T10:47:55+08:00",
- "generated_at_hkt": "2026-11-08 10:47 HKT"
+ "generated_at": "2026-11-08T12:58:05+08:00",
+ "generated_at_hkt": "2026-11-08 12:58 HKT"
 }
