@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-10 12:54 HKT",
- "amazon_data_updated_hkt": "2026-11-10 12:54 HKT",
+ "price_updated_hkt": "2026-11-10 16:50 HKT",
+ "amazon_data_updated_hkt": "2026-11-10 16:50 HKT",
  "hk_data_updated_hkt": "2026-11-09 11:32 HKT",
  "fx": {
   "USD": 7.8423,
@@ -23,12 +23,12 @@
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13592,
+    "total_hkd": 13569,
     "currency": "HKD",
-    "price": 13201.27,
-    "shipping_to_hk": 124.2,
-    "total_local": 13325.47,
-    "price_text": "HK$13,201.27 + 運費 HK$124.20",
+    "price": 13179.36,
+    "shipping_to_hk": 123.99,
+    "total_local": 13303.35,
+    "price_text": "HK$13,179.36 + 運費 HK$123.99",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -38,6 +38,47 @@
   },
   {
    "rank": 2,
+   "asin": "B0DT6NZ9V9",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "MSI NVIDIA GeForce RTX 5080 16G Ventus 3X OC Graphics Card",
+   "url": "https://www.amazon.co.uk/dp/B0DT6NZ9V9",
+   "image": "img/B0DT6NZ9V9.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71PEi8EcUBL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13650,
+    "currency": "HKD",
+    "price": 13179.36,
+    "shipping_to_hk": 203.39,
+    "total_local": 13382.75,
+    "price_text": "HK$13,179.36 + 運費 HK$203.39",
+    "stock": "Only 2 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "MSI 微星 GeForce RTX 5080 16G VENTUS 3X OC 顯示卡",
+     "price_hkd": 14999,
+     "url": "https://shop.pegasus.hk/products/223217/MSI-微星-GeForce-RTX-5080-16G-VENTUS-3X-OC-顯示卡"
+    },
+    "others": [
+     {
+      "store": "中田電腦 Centralfield",
+      "store_short": "中田電腦",
+      "name": "MSI GeForce RTX 5080 Ventus 3X OC 16GB GDDR7 SFF-Ready 微星三風扇超頻版顯示卡",
+      "price_hkd": 15350,
+      "url": "https://centralfield.com/product/11152/msi-geforce-rtx-5080-ventus-3x-oc-16gb"
+     }
+    ]
+   },
+   "vs_hk_hkd": 1349,
+   "vs_hk_text": "比香港平 HK$1,349"
+  },
+  {
+   "rank": 3,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -61,7 +102,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 3,
+   "rank": 4,
    "asin": "B0DYRZZJZ1",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -71,12 +112,12 @@
    "image": "img/B0DYRZZJZ1.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14090,
+    "total_hkd": 14066,
     "currency": "HKD",
-    "price": 13641.35,
-    "shipping_to_hk": 171.93,
-    "total_local": 13813.28,
-    "price_text": "HK$13,641.35 + 運費 HK$171.93",
+    "price": 13618.71,
+    "shipping_to_hk": 171.65,
+    "total_local": 13790.36,
+    "price_text": "HK$13,618.71 + 運費 HK$171.65",
     "stock": "",
     "seller": "Amazon"
    },
@@ -85,7 +126,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 4,
+   "rank": 5,
    "asin": "B0DSQ3B6PH",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -95,12 +136,12 @@
    "image": "img/B0DSQ3B6PH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14354,
+    "total_hkd": 14331,
     "currency": "HKD",
-    "price": 13900.94,
-    "shipping_to_hk": 171.93,
-    "total_local": 14072.87,
-    "price_text": "HK$13,900.94 + 運費 HK$171.93",
+    "price": 13877.87,
+    "shipping_to_hk": 171.65,
+    "total_local": 14049.52,
+    "price_text": "HK$13,877.87 + 運費 HK$171.65",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -114,11 +155,11 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 4645,
-   "vs_hk_text": "比香港平 HK$4,645"
+   "vs_hk_hkd": 4668,
+   "vs_hk_text": "比香港平 HK$4,668"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -128,12 +169,12 @@
    "image": "img/B0H5NNTMTH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71+VdWUZ4AL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14902,
+    "total_hkd": 14877,
     "currency": "HKD",
-    "price": 14433.43,
-    "shipping_to_hk": 176.58,
-    "total_local": 14610.01,
-    "price_text": "HK$14,433.43 + 運費 HK$176.58",
+    "price": 14409.48,
+    "shipping_to_hk": 176.29,
+    "total_local": 14585.77,
+    "price_text": "HK$14,409.48 + 運費 HK$176.29",
     "stock": "Only 13 left in stock.",
     "seller": "Amazon"
    },
@@ -147,11 +188,11 @@
     },
     "others": []
    },
-   "vs_hk_hkd": 3097,
-   "vs_hk_text": "比香港平 HK$3,097"
+   "vs_hk_hkd": 3122,
+   "vs_hk_text": "比香港平 HK$3,122"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "asin": "B0DSQ1RCZV",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -161,12 +202,12 @@
    "image": "img/B0DSQ1RCZV.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 15474,
+    "total_hkd": 15448,
     "currency": "HKD",
-    "price": 14961.49,
-    "shipping_to_hk": 208.79,
-    "total_local": 15170.28,
-    "price_text": "HK$14,961.49 + 運費 HK$208.79",
+    "price": 14936.66,
+    "shipping_to_hk": 208.45,
+    "total_local": 15145.11,
+    "price_text": "HK$14,936.66 + 運費 HK$208.45",
     "stock": "Only 12 left in stock.",
     "seller": "Amazon"
    },
@@ -195,41 +236,8 @@
      }
     ]
    },
-   "vs_hk_hkd": 525,
-   "vs_hk_text": "比香港平 HK$525"
-  },
-  {
-   "rank": 7,
-   "asin": "B0DS643QRW",
-   "domain": "amazon.es",
-   "marketplace_code": "ES",
-   "marketplace_zh": "西班牙 Amazon",
-   "title": "ASUS ROG Astral GeForce RTX 5080 OC Edition Gaming Graphics Card",
-   "url": "https://www.amazon.es/dp/B0DS643QRW",
-   "image": null,
-   "image_fallback_url": null,
-   "amazon": {
-    "total_hkd": 15824,
-    "currency": "EUR",
-    "price": 1738.02,
-    "shipping_to_hk": 27.38,
-    "total_local": 1765.4,
-    "price_text": "€1,738.02 + 運費 €27.38",
-    "stock": "",
-    "seller": "Amazon"
-   },
-   "hk": {
-    "best": {
-     "store": "飛馬 PEGASUS",
-     "store_short": "飛馬",
-     "name": "ASUS 華碩 ROG Astral GeForce RTX 5080 16G OC 顯示卡",
-     "price_hkd": 18999,
-     "url": "https://shop.pegasus.hk/products/223069/ASUS-華碩-ROG-Astral-GeForce-RTX-5080-16G-OC-顯示卡"
-    },
-    "others": []
-   },
-   "vs_hk_hkd": 3175,
-   "vs_hk_text": "比香港平 HK$3,175"
+   "vs_hk_hkd": 551,
+   "vs_hk_text": "比香港平 HK$551"
   },
   {
    "rank": 8,
@@ -290,12 +298,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 16391,
+    "total_hkd": 16364,
     "currency": "HKD",
-    "price": 15753.57,
-    "shipping_to_hk": 316.52,
-    "total_local": 16070.09,
-    "price_text": "HK$15,753.57 + 運費 HK$316.52",
+    "price": 15727.43,
+    "shipping_to_hk": 315.99,
+    "total_local": 16043.42,
+    "price_text": "HK$15,727.43 + 運費 HK$315.99",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -304,6 +312,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-11-10T12:54:23+08:00",
- "generated_at_hkt": "2026-11-10 12:54 HKT"
+ "generated_at": "2026-11-10T16:50:48+08:00",
+ "generated_at_hkt": "2026-11-10 16:50 HKT"
 }
