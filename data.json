@@ -1,15 +1,15 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-11 12:55 HKT",
- "amazon_data_updated_hkt": "2026-11-11 12:55 HKT",
- "hk_data_updated_hkt": null,
+ "price_updated_hkt": "2026-11-11 15:19 HKT",
+ "amazon_data_updated_hkt": "2026-11-11 15:19 HKT",
+ "hk_data_updated_hkt": "2026-11-11 14:47 HKT",
  "fx": {
   "USD": 7.845,
   "EUR": 8.7759,
   "GBP": 10.4856
  },
  "fx_text": "匯率：1 USD ≈ HK$7.845、1 EUR ≈ HK$8.7759、1 GBP ≈ HK$10.4856",
- "hk_note": "",
+ "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-11-11 14:47 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
  "count": 10,
  "cards": [
   {
@@ -23,12 +23,12 @@
    "image": "img/B0GWRN4Q36.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 13569,
+    "total_hkd": 13587,
     "currency": "HKD",
-    "price": 13179.36,
-    "shipping_to_hk": 123.99,
-    "total_local": 13303.35,
-    "price_text": "HK$13,179.36 + 運費 HK$123.99",
+    "price": 13196.6,
+    "shipping_to_hk": 124.15,
+    "total_local": 13320.75,
+    "price_text": "HK$13,196.60 + 運費 HK$124.15",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -71,12 +71,12 @@
    "image": "img/B0DYRZZJZ1.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71oOraaImGL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14066,
+    "total_hkd": 14085,
     "currency": "HKD",
-    "price": 13618.71,
-    "shipping_to_hk": 171.65,
-    "total_local": 13790.36,
-    "price_text": "HK$13,618.71 + 運費 HK$171.65",
+    "price": 13636.53,
+    "shipping_to_hk": 171.87,
+    "total_local": 13808.4,
+    "price_text": "HK$13,636.53 + 運費 HK$171.87",
     "stock": "Only 11 left in stock.",
     "seller": "Amazon"
    },
@@ -95,18 +95,27 @@
    "image": "img/B0DSQ3B6PH.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14331,
+    "total_hkd": 14349,
     "currency": "HKD",
-    "price": 13877.87,
-    "shipping_to_hk": 171.65,
-    "total_local": 14049.52,
-    "price_text": "HK$13,877.87 + 運費 HK$171.65",
+    "price": 13896.03,
+    "shipping_to_hk": 171.87,
+    "total_local": 14067.9,
+    "price_text": "HK$13,896.03 + 運費 HK$171.87",
     "stock": "In stock",
     "seller": "Amazon"
    },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "GIGABYTE 技嘉 AERO SFF GeForce RTX 5080 16G OC 顯示卡",
+     "price_hkd": 18999,
+     "url": "https://shop.pegasus.hk/products/223087/GIGABYTE-技嘉-AERO-SFF-GeForce-RTX-5080-16G-OC-顯示卡---4-年保固需線上註冊保養"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 4650,
+   "vs_hk_text": "比香港平 HK$4,650"
   },
   {
    "rank": 5,
@@ -119,18 +128,27 @@
    "image": "img/B0DT9Y2B49.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/71sT13DYa9L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14353,
+    "total_hkd": 14393,
     "currency": "HKD",
-    "price": 13921.1,
-    "shipping_to_hk": 150.78,
-    "total_local": 14071.88,
-    "price_text": "HK$13,921.10 + 運費 HK$150.78",
-    "stock": "Only 4 left in stock.",
+    "price": 13959.8,
+    "shipping_to_hk": 151.2,
+    "total_local": 14111.0,
+    "price_text": "HK$13,959.80 + 運費 HK$151.20",
+    "stock": "Only 2 left in stock.",
     "seller": "Amazon"
    },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "GIGABYTE 技嘉 WINDFORCE SFF GeForce RTX 5080 16G OC 顯示卡",
+     "price_hkd": 17999,
+     "url": "https://shop.pegasus.hk/products/223101/GIGABYTE-技嘉-WINDFORCE-SFF-GeForce-RTX-5080-16G-OC-顯示卡---3-年保固需線上註冊保養"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 3606,
+   "vs_hk_text": "比香港平 HK$3,606"
   },
   {
    "rank": 6,
@@ -152,9 +170,40 @@
     "stock": "In stock",
     "seller": "Amazon"
    },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
+   "hk": {
+    "best": {
+     "store": "中田電腦 Centralfield",
+     "store_short": "中田電腦",
+     "name": "ASUS PRIME GeForce RTX 5080 OC 16GB GDDR7 華碩顯示卡三風扇超頻版 (SFF-Ready)",
+     "price_hkd": 15300,
+     "url": "https://centralfield.com/product/10530/asus-rtx-5080-prime-oc-16gb"
+    },
+    "others": [
+     {
+      "store": "飛馬 PEGASUS",
+      "store_short": "飛馬",
+      "name": "ASUS 華碩 Prime GeForce RTX 5080 16G OC 顯示卡",
+      "price_hkd": 15999,
+      "url": "https://shop.pegasus.hk/products/223027/ASUS-華碩-Prime-GeForce-RTX-5080-16G-OC-顯示卡---3年保養"
+     },
+     {
+      "store": "Jumbo 珍寶電腦",
+      "store_short": "Jumbo",
+      "name": "ASUS PRIME GeForce RTX 5080 OC 16GB GDDR7 PRIME-RTX5080-O16G-GAMING (DI-E5080R1) - 3年保養",
+      "price_hkd": 16499,
+      "url": "https://www.jumbo-computer.com/zh-hk/products/asus-prime-geforce-rtx-5080-oc-16gb-gddr7-prime-rtx5080-o16g-gaming-di-e5080r1"
+     },
+     {
+      "store": "未來科技 BUYMORE",
+      "store_short": "未來科技 BUYMORE",
+      "name": "【RTX5080】ASUS PRIME RTX5080 OC 16GB [長:306mm]",
+      "price_hkd": 18899,
+      "url": "https://buymore.hk/shop/goods.php?id=43465"
+     }
+    ]
+   },
+   "vs_hk_hkd": 354,
+   "vs_hk_text": "比香港平 HK$354"
   },
   {
    "rank": 7,
@@ -167,18 +216,42 @@
    "image": "img/B0DSQ1RCZV.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81hMf6v5oSL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 15448,
+    "total_hkd": 15468,
     "currency": "HKD",
-    "price": 14936.66,
-    "shipping_to_hk": 208.45,
-    "total_local": 15145.11,
-    "price_text": "HK$14,936.66 + 運費 HK$208.45",
+    "price": 14956.2,
+    "shipping_to_hk": 208.72,
+    "total_local": 15164.92,
+    "price_text": "HK$14,956.20 + 運費 HK$208.72",
     "stock": "Only 11 left in stock.",
     "seller": "Amazon"
    },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
+   "hk": {
+    "best": {
+     "store": "中田電腦 Centralfield",
+     "store_short": "中田電腦",
+     "name": "GIGABYTE GeForce RTX 5080 GAMING OC 16GB GDDR7 技嘉顯示卡三風扇超頻版",
+     "price_hkd": 15999,
+     "url": "https://centralfield.com/product/10887/gigabyte-rtx-5080-gaming-oc-16gb-graphics-card"
+    },
+    "others": [
+     {
+      "store": "Jumbo 珍寶電腦",
+      "store_short": "Jumbo",
+      "name": "GIGABYTE GeForce RTX 5080 GAMING OC 16GB GDDR7 (GV-N5080GAMING OC-16GD) - 3年保養",
+      "price_hkd": 17999,
+      "url": "https://www.jumbo-computer.com/zh-hk/products/gigabyte-geforce-rtx-5080-gaming-oc-16gb-gddr7-gv-n5080gaming-oc-16gd"
+     },
+     {
+      "store": "飛馬 PEGASUS",
+      "store_short": "飛馬",
+      "name": "GIGABYTE 技嘉 GAMING GeForce RTX 5080 16G OC 顯示卡",
+      "price_hkd": 17999,
+      "url": "https://shop.pegasus.hk/products/223088/GIGABYTE-技嘉-GAMING-GeForce-RTX-5080-16G-OC-顯示卡---4-年保固需線上註冊保養"
+     }
+    ]
+   },
+   "vs_hk_hkd": 531,
+   "vs_hk_text": "比香港平 HK$531"
   },
   {
    "rank": 8,
@@ -239,12 +312,12 @@
    "image": null,
    "image_fallback_url": null,
    "amazon": {
-    "total_hkd": 16421,
+    "total_hkd": 16442,
     "currency": "HKD",
-    "price": 15727.43,
-    "shipping_to_hk": 371.24,
-    "total_local": 16098.67,
-    "price_text": "HK$15,727.43 + 運費 HK$371.24",
+    "price": 15748.0,
+    "shipping_to_hk": 371.72,
+    "total_local": 16119.72,
+    "price_text": "HK$15,748.00 + 運費 HK$371.72",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -253,6 +326,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-11-11T12:55:18+08:00",
- "generated_at_hkt": "2026-11-11 12:55 HKT"
+ "generated_at": "2026-11-11T15:19:31+08:00",
+ "generated_at_hkt": "2026-11-11 15:19 HKT"
 }
