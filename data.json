@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-13 00:55 HKT",
- "amazon_data_updated_hkt": "2026-11-13 00:55 HKT",
+ "price_updated_hkt": "2026-11-13 03:09 HKT",
+ "amazon_data_updated_hkt": "2026-11-13 03:09 HKT",
  "hk_data_updated_hkt": "2026-11-12 15:19 HKT",
  "fx": {
   "USD": 7.8451,
@@ -14,30 +14,6 @@
  "cards": [
   {
    "rank": 1,
-   "asin": "B0GWRN4Q36",
-   "domain": "amazon.co.uk",
-   "marketplace_code": "UK",
-   "marketplace_zh": "英國 Amazon",
-   "title": "msi NVIDIA GeForce RTX 5080 16G Inspire 3X OC Black Graphics Card 16GB",
-   "url": "https://www.amazon.co.uk/dp/B0GWRN4Q36",
-   "image": "img/B0GWRN4Q36.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 13587,
-    "currency": "HKD",
-    "price": 13196.6,
-    "shipping_to_hk": 124.15,
-    "total_local": 13320.75,
-    "price_text": "HK$13,196.60 + 運費 HK$124.15",
-    "stock": "Only 1 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 2,
    "asin": "B0GZWW2RKH",
    "domain": "amazon.fr",
    "marketplace_code": "FR",
@@ -61,7 +37,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 3,
+   "rank": 2,
    "asin": "B0DYRZZJZ1",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -78,6 +54,30 @@
     "total_local": 13808.4,
     "price_text": "HK$13,636.53 + 運費 HK$171.87",
     "stock": "Only 6 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 3,
+   "asin": "B0GWRN4Q36",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "msi NVIDIA GeForce RTX 5080 16G Inspire 3X OC Black Graphics Card 16GB",
+   "url": "https://www.amazon.fr/dp/B0GWRN4Q36",
+   "image": "img/B0GWRN4Q36.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 14298,
+    "currency": "EUR",
+    "price": 1583.32,
+    "shipping_to_hk": 24.52,
+    "total_local": 1607.84,
+    "price_text": "€1,583.32 + 運費 €24.52",
+    "stock": "",
     "seller": "Amazon"
    },
    "hk": null,
@@ -215,7 +215,7 @@
     "shipping_to_hk": 122.25,
     "total_local": 15699.04,
     "price_text": "HK$15,576.79 + 運費 HK$122.25",
-    "stock": "Only 14 left in stock.",
+    "stock": "Only 13 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -333,6 +333,6 @@
    "vs_hk_text": "比香港貴 HK$1,005"
   }
  ],
- "generated_at": "2026-11-13T00:55:16+08:00",
- "generated_at_hkt": "2026-11-13 00:55 HKT"
+ "generated_at": "2026-11-13T03:09:26+08:00",
+ "generated_at_hkt": "2026-11-13 03:09 HKT"
 }
