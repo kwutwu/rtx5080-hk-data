@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-13 08:45 HKT",
- "amazon_data_updated_hkt": "2026-11-13 08:45 HKT",
+ "price_updated_hkt": "2026-11-13 12:56 HKT",
+ "amazon_data_updated_hkt": "2026-11-13 12:56 HKT",
  "hk_data_updated_hkt": "2026-11-12 15:19 HKT",
  "fx": {
   "USD": 7.845,
@@ -10,10 +10,34 @@
  },
  "fx_text": "匯率：1 USD ≈ HK$7.845、1 EUR ≈ HK$8.6829、1 GBP ≈ HK$10.3886",
  "hk_note": "香港門市價：飛馬 PEGASUS、Jumbo 珍寶電腦、中田電腦 Centralfield 網店現貨價，更新於 2026-11-12 15:19 HKT；只配對相同品牌及型號（型號／零件編號一致），價格以店舖為準。「比香港平／貴」＝香港最平現貨價 − Amazon 連運費到港價（約數）。",
- "count": 7,
+ "count": 10,
  "cards": [
   {
    "rank": 1,
+   "asin": "B0GZWW2RKH",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
+   "url": "https://www.amazon.fr/dp/B0GZWW2RKH",
+   "image": "img/B0GZWW2RKH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 13804,
+    "currency": "EUR",
+    "price": 1533.32,
+    "shipping_to_hk": 25.3,
+    "total_local": 1558.62,
+    "price_text": "€1,533.32 + 運費 €25.30",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 2,
    "asin": "B0DYRZZJZ1",
    "domain": "amazon.it",
    "marketplace_code": "IT",
@@ -37,22 +61,79 @@
    "vs_hk_text": null
   },
   {
-   "rank": 2,
-   "asin": "B0GZWW2RKH",
-   "domain": "amazon.it",
-   "marketplace_code": "IT",
-   "marketplace_zh": "意大利 Amazon",
-   "title": "MSI GeForce RTX 5080 16G Ventus 3X OC Black Gaming Graphics Card",
-   "url": "https://www.amazon.it/dp/B0GZWW2RKH",
-   "image": "img/B0GZWW2RKH.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71-wInvRLoL._AC_SL1500_.jpg",
+   "rank": 3,
+   "asin": "B0GWRN4Q36",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "msi NVIDIA GeForce RTX 5080 16G Inspire 3X OC Black Graphics Card 16GB",
+   "url": "https://www.amazon.fr/dp/B0GWRN4Q36",
+   "image": "img/B0GWRN4Q36.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 14779,
+    "total_hkd": 14207,
     "currency": "EUR",
-    "price": 1638.52,
-    "shipping_to_hk": 30.16,
-    "total_local": 1668.68,
-    "price_text": "€1,638.52 + 運費 €30.16",
+    "price": 1583.32,
+    "shipping_to_hk": 20.74,
+    "total_local": 1604.06,
+    "price_text": "€1,583.32 + 運費 €20.74",
+    "stock": "",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 4,
+   "asin": "B0H5NNTMTH",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card, 16GB GDDR7, 256bit, PCI-E 5.0, 2670MHz Core Clock, 3×DP 2.1b, 1×HDMI 2.1b, DLSS 4, GV-N5080WF3OCV2-16GD",
+   "url": "https://www.amazon.co.uk/dp/B0H5NNTMTH",
+   "image": "img/B0H5NNTMTH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71+VdWUZ4AL._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 14897,
+    "currency": "HKD",
+    "price": 14428.33,
+    "shipping_to_hk": 176.52,
+    "total_local": 14604.85,
+    "price_text": "HK$14,428.33 + 運費 HK$176.52",
+    "stock": "Only 8 left in stock.",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "GIGABYTE 技嘉 WINDFORCE SFF GeForce RTX 5080 16G OC 顯示卡",
+     "price_hkd": 17999,
+     "url": "https://shop.pegasus.hk/products/223101/GIGABYTE-技嘉-WINDFORCE-SFF-GeForce-RTX-5080-16G-OC-顯示卡---3-年保固需線上註冊保養"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 3102,
+   "vs_hk_text": "比香港平 HK$3,102"
+  },
+  {
+   "rank": 5,
+   "asin": "B0DZCVQGG6",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
+   "url": "https://www.amazon.fr/dp/B0DZCVQGG6",
+   "image": "img/B0DZCVQGG6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
+   "amazon": {
+    "total_hkd": 15761,
+    "currency": "EUR",
+    "price": 1749.99,
+    "shipping_to_hk": 29.54,
+    "total_local": 1779.53,
+    "price_text": "€1,749.99 + 運費 €29.54",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -61,7 +142,7 @@
    "vs_hk_text": null
   },
   {
-   "rank": 3,
+   "rank": 6,
    "asin": "B0DS65VMC6",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -71,13 +152,13 @@
    "image": "img/B0DS65VMC6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81cPV47HNyL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 15745,
-    "currency": "EUR",
-    "price": 1763.87,
-    "shipping_to_hk": 13.85,
-    "total_local": 1777.72,
-    "price_text": "€1,763.87 + 運費 €13.85",
-    "stock": "Only 13 left in stock.",
+    "total_hkd": 15794,
+    "currency": "HKD",
+    "price": 15364.05,
+    "shipping_to_hk": 120.64,
+    "total_local": 15484.69,
+    "price_text": "HK$15,364.05 + 運費 HK$120.64",
+    "stock": "Only 12 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -112,98 +193,107 @@
      }
     ]
    },
-   "vs_hk_hkd": -445,
-   "vs_hk_text": "比香港貴 HK$445"
-  },
-  {
-   "rank": 4,
-   "asin": "B0DT9YQ2Q1",
-   "domain": "amazon.it",
-   "marketplace_code": "IT",
-   "marketplace_zh": "意大利 Amazon",
-   "title": "Gigabyte AORUS GeForce RTX 5080 MASTER ICE 16G Graphics Card",
-   "url": "https://www.amazon.it/dp/B0DT9YQ2Q1",
-   "image": null,
-   "image_fallback_url": null,
-   "amazon": {
-    "total_hkd": 15851,
-    "currency": "EUR",
-    "price": 1761.76,
-    "shipping_to_hk": 27.94,
-    "total_local": 1789.7,
-    "price_text": "€1,761.76 + 運費 €27.94",
-    "stock": "Only 1 left in stock.",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 5,
-   "asin": "B0GWRN4Q36",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "msi NVIDIA GeForce RTX 5080 16G Inspire 3X OC Black Graphics Card 16GB",
-   "url": "https://www.amazon.de/dp/B0GWRN4Q36",
-   "image": "img/B0GWRN4Q36.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/71Wlmo17E7L._AC_SL1500_.jpg",
-   "amazon": {
-    "total_hkd": 16136,
-    "currency": "EUR",
-    "price": 1806.72,
-    "shipping_to_hk": 15.19,
-    "total_local": 1821.91,
-    "price_text": "€1,806.72 + 運費 €15.19",
-    "stock": "",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
-  },
-  {
-   "rank": 6,
-   "asin": "B0H86338KX",
-   "domain": "amazon.it",
-   "marketplace_code": "IT",
-   "marketplace_zh": "意大利 Amazon",
-   "title": "Gigabyte AORUS GeForce RTX 5080 INFINITY WOOD 16G Graphics Card",
-   "url": "https://www.amazon.it/dp/B0H86338KX",
-   "image": null,
-   "image_fallback_url": null,
-   "amazon": {
-    "total_hkd": 16973,
-    "currency": "EUR",
-    "price": 1885.24,
-    "shipping_to_hk": 31.16,
-    "total_local": 1916.4,
-    "price_text": "€1,885.24 + 運費 €31.16",
-    "stock": "Available to ship in 1-2 days",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
+   "vs_hk_hkd": -494,
+   "vs_hk_text": "比香港貴 HK$494"
   },
   {
    "rank": 7,
-   "asin": "B0DZCVQGG6",
-   "domain": "amazon.de",
-   "marketplace_code": "DE",
-   "marketplace_zh": "德國 Amazon",
-   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
-   "url": "https://www.amazon.de/dp/B0DZCVQGG6",
-   "image": "img/B0DZCVQGG6.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
+   "asin": "B0DTJFZ4YS",
+   "domain": "amazon.es",
+   "marketplace_code": "ES",
+   "marketplace_zh": "西班牙 Amazon",
+   "title": "PNY GeForce RTX™ 5080 16GB OC Triple Fan Graphics Card DLSS 4",
+   "url": "https://www.amazon.es/dp/B0DTJFZ4YS",
+   "image": "img/B0DTJFZ4YS.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/613IEh58-nL._AC_SL1000_.jpg",
    "amazon": {
-    "total_hkd": 17212,
+    "total_hkd": 16062,
     "currency": "EUR",
-    "price": 1927.39,
-    "shipping_to_hk": 16.05,
-    "total_local": 1943.44,
-    "price_text": "€1,927.39 + 運費 €16.05",
+    "price": 1785.75,
+    "shipping_to_hk": 27.77,
+    "total_local": 1813.52,
+    "price_text": "€1,785.75 + 運費 €27.77",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 8,
+   "asin": "B0DSQ3B6PH",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "Gigabyte GeForce RTX 5080 AERO OC SFF 16G Graphics Card - 16GB GDDR7, 256bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080AERO OC-16GD",
+   "url": "https://www.amazon.co.uk/dp/B0DSQ3B6PH",
+   "image": "img/B0DSQ3B6PH.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_SL1500_.jpg",
+   "amazon": {
+    "total_hkd": 16068,
+    "currency": "HKD",
+    "price": 15580.77,
+    "shipping_to_hk": 171.87,
+    "total_local": 15752.64,
+    "price_text": "HK$15,580.77 + 運費 HK$171.87",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": {
+    "best": {
+     "store": "飛馬 PEGASUS",
+     "store_short": "飛馬",
+     "name": "GIGABYTE 技嘉 AERO SFF GeForce RTX 5080 16G OC 顯示卡",
+     "price_hkd": 18999,
+     "url": "https://shop.pegasus.hk/products/223087/GIGABYTE-技嘉-AERO-SFF-GeForce-RTX-5080-16G-OC-顯示卡---4-年保固需線上註冊保養"
+    },
+    "others": []
+   },
+   "vs_hk_hkd": 2931,
+   "vs_hk_text": "比香港平 HK$2,931"
+  },
+  {
+   "rank": 9,
+   "asin": "B0DT9VM5DC",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "Gigabyte AORUS GeForce RTX 5080 XTREME WATERFORCE 16G Graphics Card",
+   "url": "https://www.amazon.co.uk/dp/B0DT9VM5DC",
+   "image": null,
+   "image_fallback_url": null,
+   "amazon": {
+    "total_hkd": 16386,
+    "currency": "HKD",
+    "price": 15748.0,
+    "shipping_to_hk": 316.4,
+    "total_local": 16064.4,
+    "price_text": "HK$15,748.00 + 運費 HK$316.40",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 10,
+   "asin": "B0DT9YQ2Q1",
+   "domain": "amazon.co.uk",
+   "marketplace_code": "UK",
+   "marketplace_zh": "英國 Amazon",
+   "title": "Gigabyte AORUS GeForce RTX 5080 MASTER ICE 16G Graphics Card",
+   "url": "https://www.amazon.co.uk/dp/B0DT9YQ2Q1",
+   "image": null,
+   "image_fallback_url": null,
+   "amazon": {
+    "total_hkd": 16526,
+    "currency": "HKD",
+    "price": 15791.92,
+    "shipping_to_hk": 410.36,
+    "total_local": 16202.28,
+    "price_text": "HK$15,791.92 + 運費 HK$410.36",
     "stock": "In stock",
     "seller": "Amazon"
    },
@@ -212,6 +302,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-11-13T10:22:08+08:00",
- "generated_at_hkt": "2026-11-13 10:22 HKT"
+ "generated_at": "2026-11-13T12:57:02+08:00",
+ "generated_at_hkt": "2026-11-13 12:57 HKT"
 }
