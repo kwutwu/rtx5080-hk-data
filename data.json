@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "price_updated_hkt": "2026-11-13 18:55 HKT",
- "amazon_data_updated_hkt": "2026-11-13 18:55 HKT",
+ "price_updated_hkt": "2026-11-13 20:57 HKT",
+ "amazon_data_updated_hkt": "2026-11-13 20:57 HKT",
  "hk_data_updated_hkt": "2026-11-12 15:19 HKT",
  "fx": {
   "USD": 7.845,
@@ -86,6 +86,30 @@
   },
   {
    "rank": 4,
+   "asin": "B0DZCVQGG6",
+   "domain": "amazon.fr",
+   "marketplace_code": "FR",
+   "marketplace_zh": "法國 Amazon",
+   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
+   "url": "https://www.amazon.fr/dp/B0DZCVQGG6",
+   "image": "img/B0DZCVQGG6.jpg",
+   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
+   "amazon": {
+    "total_hkd": 14646,
+    "currency": "EUR",
+    "price": 1624.17,
+    "shipping_to_hk": 29.54,
+    "total_local": 1653.71,
+    "price_text": "€1,624.17 + 運費 €29.54",
+    "stock": "In stock",
+    "seller": "Amazon"
+   },
+   "hk": null,
+   "vs_hk_hkd": null,
+   "vs_hk_text": null
+  },
+  {
+   "rank": 5,
    "asin": "B0H5NNTMTH",
    "domain": "amazon.co.uk",
    "marketplace_code": "UK",
@@ -101,7 +125,7 @@
     "shipping_to_hk": 174.32,
     "total_local": 14422.86,
     "price_text": "HK$14,248.54 + 運費 HK$174.32",
-    "stock": "Only 8 left in stock.",
+    "stock": "Only 7 left in stock.",
     "seller": "Amazon"
    },
    "hk": {
@@ -118,7 +142,7 @@
    "vs_hk_text": "比香港平 HK$3,288"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "asin": "B0DS65VMC6",
    "domain": "amazon.de",
    "marketplace_code": "DE",
@@ -128,12 +152,12 @@
    "image": "img/B0DS65VMC6.jpg",
    "image_fallback_url": "https://m.media-amazon.com/images/I/81cPV47HNyL._AC_SL1500_.jpg",
    "amazon": {
-    "total_hkd": 15428,
+    "total_hkd": 15794,
     "currency": "HKD",
-    "price": 15004.66,
+    "price": 15364.05,
     "shipping_to_hk": 120.64,
-    "total_local": 15125.3,
-    "price_text": "HK$15,004.66 + 運費 HK$120.64",
+    "total_local": 15484.69,
+    "price_text": "HK$15,364.05 + 運費 HK$120.64",
     "stock": "Only 12 left in stock.",
     "seller": "Amazon"
    },
@@ -169,32 +193,8 @@
      }
     ]
    },
-   "vs_hk_hkd": -128,
-   "vs_hk_text": "比香港貴 HK$128"
-  },
-  {
-   "rank": 6,
-   "asin": "B0DZCVQGG6",
-   "domain": "amazon.fr",
-   "marketplace_code": "FR",
-   "marketplace_zh": "法國 Amazon",
-   "title": "PNY RTX5080 Verto ARGB OC Triple Fan 16GB GDDR7 HDMI 3xDP",
-   "url": "https://www.amazon.fr/dp/B0DZCVQGG6",
-   "image": "img/B0DZCVQGG6.jpg",
-   "image_fallback_url": "https://m.media-amazon.com/images/I/51nC3wSo4+L._AC_SX679_.jpg",
-   "amazon": {
-    "total_hkd": 15761,
-    "currency": "EUR",
-    "price": 1749.99,
-    "shipping_to_hk": 29.54,
-    "total_local": 1779.53,
-    "price_text": "€1,749.99 + 運費 €29.54",
-    "stock": "In stock",
-    "seller": "Amazon"
-   },
-   "hk": null,
-   "vs_hk_hkd": null,
-   "vs_hk_text": null
+   "vs_hk_hkd": -494,
+   "vs_hk_text": "比香港貴 HK$494"
   },
   {
    "rank": 7,
@@ -302,6 +302,6 @@
    "vs_hk_text": null
   }
  ],
- "generated_at": "2026-11-13T18:55:24+08:00",
- "generated_at_hkt": "2026-11-13 18:55 HKT"
+ "generated_at": "2026-11-13T20:58:03+08:00",
+ "generated_at_hkt": "2026-11-13 20:58 HKT"
 }
